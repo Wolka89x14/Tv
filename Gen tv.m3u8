@@ -484,7 +484,7 @@ https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IZmGtwL.jpg" group-title="LATINO",Canal Ame 47
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c2PComT.png" group-title="LATINO",Global TV HD
-https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_meta=server%3Dhttp%2CuserID%3D1960212661%2CdeviceID%3D1392351886&_cdn_session=1971252508&_cdn_timestamp=1718241384&_cdn_token=fc699dcc796bc48a011373844d4585bea123f949
 #EXTINF:-1 tvg-id="" tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png" group-title="LATINO",Neo TV Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ERuZBdt.jpg" group-title="LATINO",Canal Diez
