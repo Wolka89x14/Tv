@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica 
+#EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica
 https://acceso.radiosportstv.online:3138/hybrid/play.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal evolución 
 https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
