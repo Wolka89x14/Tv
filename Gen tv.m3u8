@@ -1,39 +1,39 @@
 #EXTM3U
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica 
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica 
 https://acceso.radiosportstv.online:3138/hybrid/play.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal evolución 
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal evolución 
 https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal naranja
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal naranja
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",demo tv
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",demo tv
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",energick
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",energick
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",fan pop
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",fan pop
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",pan tv
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",pan tv
 https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",dreiko tv
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",dreiko tv
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",gam tv
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",gam tv
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord 12
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord 12
 https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 3 guatemala 
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 3 guatemala 
 https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3584/stream/play.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 7 guatemala
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 7 guatemala
 https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3124/stream/play.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",neox
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",neox
 http://hls.webredirect.org/83610/mp_9367.php/https://atres-live.atresmedia.com/77d5e5821159b2a769d511c312c5558e0a29875d_ES_1718273235_1718301975/h264leg/live/neox/bitrate_2.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb", canal 9
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb", canal 9
 https://live-b.cf.dmcdn.net/sec2(75qG79CKXDskNiuByv4e_wfGf-d8hEShLCmieZtVKFO8EKtUsuxu4EEGJgTLouw7MRIkEhVlUp5g-cOPAgZLGxqrfQKYvx_1UmTaGDKXWBA)/dm/3/x7gy059/d/live-2.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",vtv
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",vtv
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",canal 8
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",canal 8
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/.m3u8
-EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",btv panamá 
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",btv panamá 
 https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTINF:-1 tvg-id="Arg" tvg-name="gen tv" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-gen-tv-5.png" group-title="nuevos jb",gen tv
