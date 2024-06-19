@@ -29,8 +29,8 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",neox
 https://seo.tv.bo/tv/CTV4_HD.m3u8
-#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb", canal 9
-https://live-b.cf.dmcdn.net/sec2(75qG79CKXDskNiuByv4e_wfGf-d8hEShLCmieZtVKFO8EKtUsuxu4EEGJgTLouw7MRIkEhVlUp5g-cOPAgZLGxqrfQKYvx_1UmTaGDKXWBA)/dm/3/x7gy059/d/live-2.m3u8
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb", btv panama
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w833813589.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",vtv
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",canal 8
@@ -41,7 +41,7 @@ https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="gen tv" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-gen-tv-5.png" group-title="nuevos jb",gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS",Magic Club HD
-https://live.web.buzzster.co.uk/magicclub/index.m3u8
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club SD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS",Magic Club SD
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
