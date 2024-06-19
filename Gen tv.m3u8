@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",millos tv
-https://acceso.radiosportstv.online:3138/hybrid/play.m3u8
+https://seo.tv.bo/tv/CTV_1FHD.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica
 https://acceso.radiosportstv.online:3138/hybrid/play.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal evolución 
@@ -12,7 +12,7 @@ https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",energick
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",fan pop
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",pan tv
 https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",dreiko tv
@@ -24,11 +24,11 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord 12
 https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 3 guatemala 
-https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3584/stream/play.m3u8
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 7 guatemala
-https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3124/stream/play.m3u8
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",neox
-http://hls.webredirect.org/83610/mp_9367.php/https://atres-live.atresmedia.com/77d5e5821159b2a769d511c312c5558e0a29875d_ES_1718273235_1718301975/h264leg/live/neox/bitrate_2.m3u8
+https://seo.tv.bo/tv/CTV4_HD.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb", canal 9
 https://live-b.cf.dmcdn.net/sec2(75qG79CKXDskNiuByv4e_wfGf-d8hEShLCmieZtVKFO8EKtUsuxu4EEGJgTLouw7MRIkEhVlUp5g-cOPAgZLGxqrfQKYvx_1UmTaGDKXWBA)/dm/3/x7gy059/d/live-2.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",vtv
@@ -68,8 +68,8 @@ https://xhateaec.com/livestreams/49.W2QnwqzgZajs1MJs.m3u8
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",Casa Grande TV
 https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/py4K0MR/logo-Wow-Channel.png" group-title="JOVENES Y ADULTOS",Wow Channel
-https://ssh101.bozztv.com/ssh101/wowchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/py4K0MR/logo-Wow-Channel.png" group-title="JOVENES Y ADULTOS",seo
+https://seo.tv.bo/tv/CTV3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",Wow Eventos
@@ -77,11 +77,11 @@ https://cdnhd.iblups.com/hls/OLcAZqlwaU.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion HD
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion SD
-http://85.239.54.197:81/live/loco_low/index.m3u8
+https://live.sdfgnksbounce.com:8080/MTgxLjU5LjMuMjMy/397_.m3u8?token=YfzJZXWP1-M4IisXmSYMJQ&expires=1718769119
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion (Adaptable)
 http://85.239.54.197:81/live/loco.m3u8
 #EXTINF:-1 tvg-name="Anime Zone TV" tvg-id="" tvg-logo="https://i.ibb.co/fdK0nx3/logo-Anime-Zone-TV.png" group-title="JOVENES Y ADULTOS",Anime Zone TV
