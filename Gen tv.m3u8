@@ -4,11 +4,11 @@ https://seo.tv.bo/tv/CTV_1FHD.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica
 https://acceso.radiosportstv.online:3138/hybrid/play.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal evolucion
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/456467
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401243
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal naranja
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",demo tv
-https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
+
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",energick
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",fan pop
@@ -273,103 +273,103 @@ https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GtJqhnV/logo-Tvg-Am-rica.png" group-title="SPAIN",Galicia TV America HD
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Mira Radio Galega HD
-https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/405845
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 1 HD
-http://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks_dvr.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/405850
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 2 HD
-http://crtvg-events2.flumotion.cloud/crtvg/events2_high/chunks_dvr.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/405851
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",TVG Eventos 3 HD
-http://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks_dvr.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/337276
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pj7vfWN/logo-Tpa-7.png" group-title="SPAIN",Tpa7 HD
-https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401373
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gmkXHYG/logo-Anove-TV.png" group-title="SPAIN",Anove TV HD
-https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401400
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZT5LTKK/logo-Televigo-HD.png" group-title="SPAIN",Televigo HD
-https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401352
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZV4Xszg/Logo-7-Global-TV.png" group-title="SPAIN",7 Global TV HD
-https://stmvideo1.livecastv.com/7mntv/7mntv/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401353
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wdNfkz9/logo-TV-Ferrol.jpg" group-title="SPAIN",TV Ferrol HD
-https://directo.tvferrol.es/tv.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/454111
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox hd
-https://fl1001.bozztv.com:443/ssh101/moviezoneiptv/tracks-v1a1/mono.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/184623
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JCrpMdY/logo-neox-HD.png" group-title="SPAIN",Neox HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:13_HD.smil/manifest.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/184623
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.mpd
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/184722
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries HD  (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/184723
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dpm1c0j/Logo-Atreseries.png" group-title="SPAIN",Atreseries Internacional HD
-http://38.41.8.1:8000/play/a00x
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/65797
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GQWRxgH/Logo-Atrescine.png" group-title="SPAIN",Atrescine HD
-http://177.234.230.226:8010/play/a041/index.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/190736
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Multicine HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/392056
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Clasicos HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61/5.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/190712
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Comedia HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/345756
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN",Atresplayer Mentes Inquietas HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/345773
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN",Atresplayer Aqui no hay quien viva HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/212
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HHjsTP7/Logo-F-sica-o-qu-mica.png" group-title="SPAIN",Atresplayer Fisica o quimica HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61/5.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390725
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/34xhSqp/Logo-El-club-de-la-comedia.png" group-title="SPAIN",Atresplayer El club de la comedia HD (geobloqueo)
-https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad/1.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390727
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dSnjww/Logo-El-Hormiguero.png" group-title="SPAIN",Atresplayer El Hormiguero HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61/1.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390732
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fSXg3jg/Logo-Equipo-de-investigaci-n.png" group-title="SPAIN",Atresplayer Equipo de Investigacion HD (geobloqueo)
-https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc/1.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/319624
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229372
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
-https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229378
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j61KksB/logo-Etb-2.png" group-title="SPAIN",ETB 2 HD
-https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229397
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243427
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD (opcion 2)
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243422
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243435
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2yxYKHx/logo-Rakuten-TV-Comedia.png" group-title="SPAIN",Rakuten TV Comedia HD
-http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243459
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/99xVwy9/logo-Distrito-TV.png" group-title="SPAIN",Distrito TV HD
-https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401379
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9bqNXJZ/logo-Interalmeria-TV.png" group-title="SPAIN",interalmeria tv HD
-https://tv.interalmeria.tv/directo/live.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277009
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Tkp9TDV/logo-Cancionero-TV.png" group-title="SPAIN",Cancionero TV HD
-http://89.140.229.5/hls1/cancionero.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277024
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZ78d8n/logo-TV-Melilla.png" group-title="SPAIN",TV Melilla HD
-http://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277076
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6R2c47k/Logo-Radio-Television-Ceuta.png" group-title="SPAIN",Rtvce HD
-https://cdnlive.codev8.net/rtvcelive/channel1.smil/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/405102
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LQcTgTj/logo-Tele-Madrid.png" group-title="SPAIN",TeleMadrid HD
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/291062
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k4drWnC/logo-La-Otra.png" group-title="SPAIN",La Otra HD
-https://laotra-1-23-secure2.akamaized.net/master.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/455315
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2y1VYfn/logo-Onda-Madrid.png" group-title="SPAIN",Onda Madrid HD
-https://tvradio-1-23-secure2.akamaized.net/master.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/327230
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYsJF3j/logo-Canal-33-Madrid.png" group-title="SPAIN",CANAL 33 MADRID HD
-https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/432562
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zP1ZNqb/Logo-Canal-Sur.png" group-title="SPAIN",Canal Sur Andalucia HD
-https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/340010
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zQLJPfz/Logo-Canal-Sur-2.png" group-title="SPAIN",Canal Sur Andalucia 2 HD
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390895
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1qWsgBf/logo-Canal-M-laga.png" group-title="SPAIN",Canal Malaga HD
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390894
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LnbtsW5/logo-PTV-Malaga.png" group-title="SPAIN",PTV Malaga HD
-https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390908
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JdC61x9/logo-Onda-Algeciras-TV.png" group-title="SPAIN",Onda Algeciras TV HD
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/392021
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jc2jLVK/logo-La-7-Region-de-Murcia.png" group-title="SPAIN",La 7 Region de Murcia HD
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401398
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y0Wwgfj/logo-Popular-TV-Murcia.png" group-title="SPAIN",Popular TV Murcia HD
-https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404753
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2jwnjpH/logo-Popular-TV-Cantabria.png" group-title="SPAIN",Popular TV Cantabria HD
-https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404758
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6XyKf1G/logo-Popular-TV-Melilla.png" group-title="SPAIN",Popular TV Melilla HD
-https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
+http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404998
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm5xGpC/logo-A-Punt-TV.png" group-title="SPAIN",A Punt TV HD
 https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pjbbHy2/logo-Alacanti-TV.png" group-title="SPAIN",Alacanti TV HD
