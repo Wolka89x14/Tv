@@ -15,14 +15,14 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",pan tv
 https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
-#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",dreiko tv
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",directv
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/158511
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",gam tv
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord
 https://fl1002.bozztv.com:443/ssh101/dfiesta2025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",telenord 12
-https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+http://fastream.xyz:8080/novacon79/5544545/72137
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 3 guatemala 
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 7 guatemala
@@ -35,8 +35,8 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",majestad 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
-https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",viva tv
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 #EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
 #EXTINF:-1 tvg-id="Arg" tvg-name="gen tv" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-gen-tv-5.png" group-title="nuevos jb",gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
@@ -102,12 +102,12 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",Loading HD Brasil
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",Anime TV Brasil
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",Geekdot Brasil
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",chilevision
+http://venuschiletv.lat:8880/live/Luis8181/kdneh465PcEG/28251.m3u8
+#EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",viva tv 
+http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
+#EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",tv max 
+https://dashtvcloud.online:8443/josealbrook/panama121/144349
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/DkHFvM1/logo-Wording.png" group-title="JOVENES Y ADULTOS",Wording TV HD Brasil
 https://streamingnation.live:3932/live/cotubanamatelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
