@@ -256,13 +256,13 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",La Sexta HD
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/4f57f752cb314d42819475f1f73569f4/chunklist_b4628000.m3u8?p=79&s=1718787421&e=1718787541&h=5cf8a68d5113c364a392929ef12aaf38
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",La Sexta HD (opcion 2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",tvr
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",Tve Internacional Europa HD (geobloqueo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",ucl
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",tv cosmos 
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",Star Tve HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",atn
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kmt6Q3R/Logo-COPE.png" group-title="SPAIN",Cope TV HD
 https://acceso.radiosportstv.online:3022/hybrid/play.m3u8
@@ -270,7 +270,7 @@ https://acceso.radiosportstv.online:3022/hybrid/play.m3u8
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zRg2Czc/logo-Tvg2-HD.png" group-title="spain",mega tv
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GtJqhnV/logo-Tvg-Am-rica.png" group-title="SPAIN",Galicia TV America HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GtJqhnV/logo-Tvg-Am-rica.png" group-title="SPAIN",tdn
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",vivo tv
 https://stream.vivotv.uy/hls/stream.m3u8
@@ -340,18 +340,18 @@ https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjr
 http://45.228.234.167:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD en Info7
 https://live.info7.mx/info7/stream/_hi1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tele Estrella
-https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",Tele Estrella HD Bolivia
-https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tCRgNmz/Logo-Tele-Estrella.png" group-title="LATINO",Tv tio pujio
+https://fl1001.bozztv.com:443/ssh101/tvtiopujio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SvB0S0x/logo-Tele-Estrella-Bolivia.png" group-title="LATINO",cadenas t10
+https://fl1001.bozztv.com:443/ssh101/cadenatop10tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bgZSyCg/Logo-Las-Estrellas.png" group-title="LATINO",Las Estrellas HD
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p1QVZwB/Logo-Telesiglo-HD.png" group-title="LATINO",Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD
-https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",Tele Posadas HD (opcion 2)
-https://cdnhd.iblups.com/hls/dlcjWhjkPu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO",teleportal
+https://fl1002.bozztv.com:443/ssh101/teleportal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8MVLX6/Logo-Tele-Posadas.png" group-title="LATINO", comunicaciónes jimenez 
+https://fl1002.bozztv.com:443/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k9YDwcp/Logo-Sony-Canal-Comedias.png" group-title="LATINO",Sony Canal Comedias
 https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
