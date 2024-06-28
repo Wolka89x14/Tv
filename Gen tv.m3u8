@@ -46,7 +46,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
-#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",Teletoonizaki HD
+#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",tick
 https://fl1001.bozztv.com:443/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",todo novelas 
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
