@@ -102,8 +102,8 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",chilevision
-http://venuschiletv.lat:8880/live/Luis8181/kdneh465PcEG/28251.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",mtv clásico 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="JOVENES Y ADULTOS",viva tv 
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 #EXTINF:-1 tvg-ID="Geekdot" tvg-logo="https://i.ibb.co/WxCMj8q/logo-Geekdot.png" group-title="JOVENES Y ADULTOS",tv max 
@@ -316,60 +316,6 @@ https://video.ejeserver.com/live/canal8tv.m3u8
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/34xhSqp/Logo-El-club-de-la-comedia.png" group-title="SPAIN",canal 11
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/3dSnjww/Logo-El-Hormiguero.png" group-title="SPAIN",Atresplayer El Hormiguero HD (geobloqueo)
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390732
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fSXg3jg/Logo-Equipo-de-investigaci-n.png" group-title="SPAIN",Atresplayer Equipo de Investigacion HD (geobloqueo)
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/319624
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cQDj45K/logo-Canal-Extremadura.png" group-title="SPAIN",Canal Extremadura HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229372
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpRhRGW/logo-Etb-1.png" group-title="SPAIN",ETB 1 HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229378
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/j61KksB/logo-Etb-2.png" group-title="SPAIN",ETB 2 HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/229397
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243427
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWXjZ1b/Logo-Etb-4.png" group-title="SPAIN",ETB 4 HD (opcion 2)
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243422
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bH6Cg7r/logo-ETB-Basque.png" group-title="SPAIN",ETB BASQUE HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243435
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2yxYKHx/logo-Rakuten-TV-Comedia.png" group-title="SPAIN",Rakuten TV Comedia HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/243459
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/99xVwy9/logo-Distrito-TV.png" group-title="SPAIN",Distrito TV HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401379
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9bqNXJZ/logo-Interalmeria-TV.png" group-title="SPAIN",interalmeria tv HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277009
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Tkp9TDV/logo-Cancionero-TV.png" group-title="SPAIN",Cancionero TV HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277024
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rZ78d8n/logo-TV-Melilla.png" group-title="SPAIN",TV Melilla HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/277076
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6R2c47k/Logo-Radio-Television-Ceuta.png" group-title="SPAIN",Rtvce HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/405102
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LQcTgTj/logo-Tele-Madrid.png" group-title="SPAIN",TeleMadrid HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/291062
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/k4drWnC/logo-La-Otra.png" group-title="SPAIN",La Otra HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/455315
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2y1VYfn/logo-Onda-Madrid.png" group-title="SPAIN",Onda Madrid HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/327230
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fYsJF3j/logo-Canal-33-Madrid.png" group-title="SPAIN",CANAL 33 MADRID HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/432562
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zP1ZNqb/Logo-Canal-Sur.png" group-title="SPAIN",Canal Sur Andalucia HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/340010
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zQLJPfz/Logo-Canal-Sur-2.png" group-title="SPAIN",Canal Sur Andalucia 2 HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390895
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1qWsgBf/logo-Canal-M-laga.png" group-title="SPAIN",Canal Malaga HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390894
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LnbtsW5/logo-PTV-Malaga.png" group-title="SPAIN",PTV Malaga HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/390908
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JdC61x9/logo-Onda-Algeciras-TV.png" group-title="SPAIN",xlst
-https://tv.portalexpress.es:3220/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jc2jLVK/logo-La-7-Region-de-Murcia.png" group-title="SPAIN",La 7 Region de Murcia HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/401398
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y0Wwgfj/logo-Popular-TV-Murcia.png" group-title="SPAIN",Popular TV Murcia HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404753
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2jwnjpH/logo-Popular-TV-Cantabria.png" group-title="SPAIN",Popular TV Cantabria HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404758
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6XyKf1G/logo-Popular-TV-Melilla.png" group-title="SPAIN",Popular TV Melilla HD
-http://tvlatino.club:2082/ubiptv80/zkLgwCrnEn7z/404998
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm5xGpC/logo-A-Punt-TV.png" group-title="SPAIN", micro visión 
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pjbbHy2/logo-Alacanti-TV.png" group-title="SPAIN",ready tv
