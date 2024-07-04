@@ -9,8 +9,8 @@ https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",totovision
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",tvc network 
-https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",memorias serie 
+https://stmv6.voxtvhd.com.br/memoriasseries/memoriasseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",sol tv 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS", Telemundo 
@@ -49,8 +49,8 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevo jb",majestad 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",san pedro tv
-https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CvwESIQhQN9l16GywZ8X319kXu4Cyg6Gy5HZf1HL-ZKfASi8OmTipzHc1l2DnPMv_bxE8vIIeJYU47P2kGaX0fmxyGE_4-pCg-xEyDq23nkYyT3bTDrPoTJMj-FgjPV4jeN5JLj6BGdlCQiWGqZ76Pp6qr5n7NxbCCNYVFP3j9y9zKgRFETJOX82NrVx1-Hy9-SjmZ7YS9kFJzEGGfFxRa_6PMX78zkvfwS7OV7HsPZqhhhO3okWM6XBc5_L_hDxpW-UxE38uuP-mMaxy_8-LggWev5GCyocRgKgEwvjzjsM7SxVsT6DkoBaSt2zpkqqu8vZ5XjKuOHrRzhI9GMqeJZw4fzZc52FDWdZtYle_nsAb2o13zellW-h_XmieIHNPISXQRfVK3hOhcKvSZ0anWohY9AgfWXcbRj_wbDPGOz4fDFXhsmRShMYDMldaPghQBZW0ghkbuYTWSyq0RJSD3TwnPzIgImFHQkevRS9_WqRYC9P75hjZjVHi78xUjN2izrWPCr1x_sT98ZFCZ2NyKHe8wquf2neelaD4reO-7FTHHlwichy9M5AQvU2S0m1ZzwlbrhkpuSiVbEInvSarmo_zU291yVcD4CnjSbIOGrYM62oj_2rTIeOUsw_dAHCfUjEF56jttO7Qu_Om_p27v7l_UxwRm1Wp32Ua96jIN4p5KL2F4OGUo0PPr_V5pu5gnrO0IuGRXbiInf3RPycY5rKJfUaMbeIIrinAI5CZDKTvnnxXGtzv0X2ZcHYrzaqNZo-EAg6KRy_vsPGoLLm74nk9cIh7pVQoI_NP_dx86RSxp0SPY-HKNEEiVTdWcPrUSJ5-7Z28IkNJ7_Pc5ExGgwqL5jR1JrHGMFGjkYgASoJdXMtZWFzdC0xMJ0I.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",punto 99
+https://stmv5.voxtvhd.com.br/punto99/punto99/playlist.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="gen tv" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-gen-tv-5.png" group-title="nuevos jb",gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS", cine kids 
@@ -85,8 +85,8 @@ https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 https://paneltv.online:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",Wow Eventos
-https://stream.arcast.net:4443/mp/mp/chunklist_w2057816837.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fpTGTFT/logo-WOW-EVENTOS.png" group-title="JOVENES Y ADULTOS",xtrema comedia 
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",barbe tv 
@@ -111,8 +111,8 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQxt2Qw/Logo-Pandamax.png" group-title="JOVENES Y ADULTOS",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png" group-title="JOVENES Y ADULTOS",egm tv
-https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/540MyCH/Logo-Telenorte.png" group-title="JOVENES Y ADULTOS", multivision 
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",mtv clásico 
@@ -149,8 +149,8 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NCXZr58/Logo-Volviendo-TV.jpg" group-title="Familiares",master tv
 https://tv.ondadigital.pe:1936/master/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",ipersonica 
-https://xhateaec.com:8800/hls/IPERSONICA/IPERSONICA/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",xtrema terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gF5gsdH/Logo-Red-TV.jpg" group-title="Familiares",la red 
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="Familiares",FUNtv
@@ -173,8 +173,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="Familiares",Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kHTsz3S/Logo-Greekz.png" group-title="Familiares",igl group
-https://vd01.streaminghd.net.ar:3049/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kHTsz3S/Logo-Greekz.png" group-title="Familiares",nisibon
+https://5790d294af2dc.streamlock.net/nisibontv/nisibontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi TV Television Clasica" tvg-logo="https://i.ibb.co/L1Q70jL/Logo-Mi-TV-Television-Clasica.png"  group-title="Familiares",Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pJ620t8/logo-Telecl-sica.jpg" group-title="Familiares",Teleclasica
@@ -188,7 +188,7 @@ http://premierchile.shop:8080/999298750tv/sdab6531/811
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1msVb31/logo-Retro-TV.png" group-title="Familiares",Retro TV HD
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KFD5rmn/logo-Retrox-TV.png" group-title="Familiares",Retrox TV
-https://ssh101.bozztv.com/ssh101/123456789/playlist.m3u8
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",cinco tv 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="Familiares",Diti TV HD (opcion 2)
@@ -197,7 +197,7 @@ https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="Familiares",Vision TV HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DQLxkzf/Logo-Autonoma-TV.png" group-title="Familiares",cinemas 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DQLxkzf/Logo-Autonoma-TV.png" group-title="Familiares",+ cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/xhKfwSx/logo-Classic-Channel.png" group-title="Familiares",Classic Channel HD
 https://paneltv.online:1936/8046/8046/playlist.m3u8
@@ -225,18 +225,18 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p4gTy4Y/Logo-Clan-HD.png" group-title="Familiares",atacama
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",tv opa 
-https://opa.usastreams.com:3101/live/canalopalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",otv
-https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncSv5SS/logo-Kidz.png" group-title="Familiares",tv faro
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",poderosa tv
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hzs43xP/Logo-boing-HD-Espa-a.png" group-title="Familiares",codigo tv
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MCtKJYb/logo-SX3.png" group-title="Familiares",runtime accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares",mx familia 
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares", canal 4
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/chunklist_w1739877619_b978000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8X1d22R/Logo-Etb-3.png" group-title="Familiares", canal 1 argentina 
+https://stmv3.voxtvhd.com.br/unotvargentina/unotvargentina/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2M0xFtd/logo-Rakuten-TV-en-Familia.png" group-title="Familiares",Rakuten TV en Familia HD
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",orbit tv
@@ -251,12 +251,12 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.m3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.ctv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",runtime terror 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",max prime 
-https://marine2.miplay.cl/mxprime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",telecinco
+https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",megahits
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",pelicula 
-https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN", multi 
+https://5790d294af2dc.streamlock.net:443/MULTIVISIONRD/MULTIVISIONRD/chunklist_w931056004.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",nordvision
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",samurai x
@@ -267,12 +267,12 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/S7X1cHt/Logo-Telecinco-HD.png" group-title="SPAIN",via alto mayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",tq hd 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/4f57f752cb314d42819475f1f73569f4/chunklist_b4628000.m3u8?p=79&s=1718787421&e=1718787541&h=5cf8a68d5113c364a392929ef12aaf38
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",causa común tv
+https://ssh101-fl.bozztv.com/ssh101/pycausacomuntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rtcwCJw/Logo-La-Sexta-HD.png" group-title="SPAIN",tvr
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN",ucl
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvKVx9s/logo-TVE-Internacional.png" group-title="SPAIN", canal 4 fantastica
+https://stmv2.voxtvhd.com.br/radiotvfantastico/radiotvfantastico/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/P4JFKXc/logo-Somos-Cine-2.png" group-title="SPAIN",tv cosmos 
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",bum tv
@@ -323,30 +323,30 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN", canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN", canal 8i
-https://video.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HHjsTP7/Logo-F-sica-o-qu-mica.png" group-title="SPAIN", canal vip
-https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN",w tv 
+https://5790d294af2dc.streamlock.net/wtv43/wtv43/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HHjsTP7/Logo-F-sica-o-qu-mica.png" group-title="SPAIN",leña radio tv
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/chunklist_w655349836.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/34xhSqp/Logo-El-club-de-la-comedia.png" group-title="SPAIN",canal 11
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fm5xGpC/logo-A-Punt-TV.png" group-title="SPAIN", micro visión 
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/pjbbHy2/logo-Alacanti-TV.png" group-title="SPAIN",ready tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gDZqWNb/logo-Elche-7-TV.png" group-title="SPAIN",latina 
-https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gDZqWNb/logo-Elche-7-TV.png" group-title="SPAIN",comedy tv
+https://stmv6.voxtvhd.com.br/comedytv/comedytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RvrbWTp/logo-TV3-HD.png" group-title="SPAIN",canal 4 
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist_w788035418_b516000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bJDzJX2/logo-Bon-Dia-TV.png" group-title="SPAIN", canal 4 arg
 https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w2032813807.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n7v3MxR/Logo-El-Toro-TV.png" group-title="SPAIN",canal 7 arg
-https://stream.arcast.com.ar/envivo/castv/chunklist_w1702223681.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n7v3MxR/Logo-El-Toro-TV.png" group-title="SPAIN", canal 6 dominicana 
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rF8qBBg/logo-Arag-n-TV-HD.png" group-title="SPAIN",canal 12 metro
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d2fSMgv/Logo-Solidaria-TV.png" group-title="SPAIN",Solidaria TV Spain HD
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",Canal 5 tigre 
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kgWv9RL/Logo-Canal-5-M-xico.png" group-title="LATINO",cibaeña
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",entel tv
 https://rdn.essastream.com:3356/live/enntivisiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SNQqsW6/logo-Azteca-7.png" group-title="LATINO",Azteca 7 HD (opcion 2)
