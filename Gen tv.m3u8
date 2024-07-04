@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",luna tv 
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",buzer tv 
+https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS", super cable 
+https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",totovision
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",zaz tv 
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",sol tv 
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS", Telemundo 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",canal 10 Costarica
