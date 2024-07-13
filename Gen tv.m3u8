@@ -1,4 +1,152 @@
 #EXTM3U
+#EXTINF:-1,nexxo
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1,telenord 12
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+#EXTINF:-1, canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1,tvm
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+#EXTINF:-1, somos del este
+https://live.enhdtv.com:8081/8062/index.m3u8
+#EXTINF:-1,seo peliculas 
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+#EXTINF:-1,seo tv 
+https://seo.tv.bo/tv/SEOTV7.m3u8
+#EXTINF:-1,tv centro 4.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1,zurqui tv
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1,atsur
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+#EXTINF:-1,afv en español 
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1,anc
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+#EXTINF:-1,antv
+http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
+#EXTINF:-1,austral tv
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1,bein sport extra
+https://lnc-bein-espanol.tubi.video:443/playlistR1080p.m3u8
+#EXTINF:-1,bd tv
+https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8
+#EXTINF:-1,bellavision 
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+#EXTINF:-1,bonao tv
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1,bta
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1,btv Panama 
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
+#EXTINF:-1,cable imagen astrom
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+#EXTINF:-1, canal 3 impresionante 
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+#EXTINF:-1,canal 5 lider 
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1,canal 10 neuquen
+https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
+#EXTINF:-1, canal 11
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+#EXTINF:-1,canal 29 tva
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+#EXTINF:-1,canal 34 san juan 
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1,cibaeña 
+https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1,claro sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1,cni digital
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+#EXTINF:-1,enfoque digital 
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1,entelevision 
+https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+#EXTINF:-1,glow tv
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1,hells chickens 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
+#EXTINF:-1,Hispania tv
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1,holvoet 
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,hoynet
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1,inter tv
+https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
+#EXTINF:-1,investiga
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
+#EXTINF:-1,itv deportes 
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1,junco tv
+https://mediacp.us:8081/juncotv/index.m3u8
+#EXTINF:-1,justicia tv
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1,el top 102.9
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1,latacunga
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1,lengustative asamblea 
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+#EXTINF:-1,limon tv
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1,logos tv
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1,mileniun 109
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1,nicoya tv 
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1,ntv
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,onda tv
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1,panc tv
+https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
+#EXTINF:-1,planea tv
+https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1,presencia tv
+https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
+#EXTINF:-1,punta cana tv
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-1,puringla tv
+https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+#EXTINF:-1,puruwua tv 
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1,red america tv
+https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+#EXTINF:-1,rtv riobamba
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+#EXTINF:-1,senillosa
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+#EXTINF:-1,seo tv deportes 
+https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+#EXTINF:-1,sony canal novelas 
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1,tele oriental 
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:-1,telebruca
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:-1,telecanal
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+#EXTINF:-1,teleganes
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1,tu musica hd
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,tv carisgo
+https://paneltv.tecnohost.ec:3646/live/carigsotvlive.m3u8
+#EXTINF:-1,tv florencia 
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1,tvn3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1,ucayalina tv
+https://video.agenciastreaming.com:3959/live/utvlive.m3u8
+#EXTINF:-1,vc online 
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1,wkaq
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1,xhqa
+https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",salta tv
 https://ssh101.bozztv.com/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS",luna tv 
@@ -2016,17 +2164,4 @@ https://live.web.buzzster.co.uk/magicclub/index.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1,Tradicional Radio
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
-#EXTINF:-1,CAM Pinamar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
-#EXTINF:-1,CAM Pinamar 2
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
-#EXTINF:-1,CAM Pinamar 3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
-#EXTINF:-1,nexxo
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1,telenord 12
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-#EXTINF:-1, canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1,tvm
-http://201.247.102.189/tmp_hls/stream/index.m3u8
+
