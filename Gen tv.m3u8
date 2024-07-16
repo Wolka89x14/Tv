@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,origen tv
+https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
+#EXTINF:-1,canal 2 quellon 
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1,dvc
+https://us.streaminghd.cl/dvctelevision/index.m3u8
 #EXTINF:-1,telenord 8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-1,telenord 10
