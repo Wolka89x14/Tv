@@ -5,8 +5,8 @@ http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/254116
 https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 #EXTINF:-1,canal 2 quellon 
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1,atb argentina
-https://stream.arcast.com.ar/atbargentina/atbargentina/.m3u8
+#EXTINF:-1,orbita tv
+https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1,telenord 8
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 #EXTINF:-1,canal 2 nicaragua 
@@ -21,8 +21,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
 https://live.enhdtv.com:8081/8062/index.m3u8
-#EXTINF:-1,villa Montero 
-https://villamanterotv.ddns.net/hls/stream.m3u8
+#EXTINF:-1,tvr
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
 #EXTINF:-1,full channell tv 
 https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 #EXTINF:-1,tv centro 4.2
@@ -73,8 +73,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783f
 https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1,enfoque digital 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1,mgm
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/559200
+#EXTINF:-1,canal 11 nicaragua 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/280406
 #EXTINF:-1,glow tv
 https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1,hells chickens 
@@ -115,8 +115,8 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1,panc tv
 https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
-#EXTINF:-1,planea tv
-https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1,palomar tv 
+https://stream.trixserver.com:3249/live/uv038live.m3u8
 #EXTINF:-1,presencia tv
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 #EXTINF:-1,punta cana tv
@@ -128,7 +128,7 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1,red america tv
 https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 #EXTINF:-1,neox
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/252362
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/465043
 #EXTINF:-1,cinema dc comics
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/283244
 #EXTINF:-1,the retro channell
@@ -263,8 +263,8 @@ http://animezonetv.net/hls/stream.m3u8
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-name="Max Anime" tvg-id="" tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="JOVENES Y ADULTOS",Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",Etc TV
-http://45.160.15.130:2909/play/007
+#EXTINF:-1 tvg-name="Etc TV" tvg-id="" tvg-logo="https://i.postimg.cc/zBjGz3dQ/Logoetctv.png" group-title="JOVENES Y ADULTOS",canal 9 televida
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VM4Y7QB/Logo-TV-Costa.png" group-title="JOVENES Y ADULTOS",TV Costa
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="JOVENES Y ADULTOS",Anime Taltal TV HD
