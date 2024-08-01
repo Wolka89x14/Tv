@@ -21,8 +21,8 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
 https://live.enhdtv.com:8081/8062/index.m3u8
-#EXTINF:-1,tvr
-https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+#EXTINF:-1,espn 2
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/92574
 #EXTINF:-1,full channell tv 
 https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 #EXTINF:-1,tv centro 4.2
@@ -69,8 +69,8 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/87404
 #EXTINF:-1,claro sports
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1,cni digital
-https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
+#EXTINF:-1,tv y tv 
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1,enfoque digital 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1,canal 11 nicaragua 
@@ -113,8 +113,8 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1,onda tv
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
-#EXTINF:-1,panc tv
-https://tv.streamcasthd.com:3000/live/panctvlive.m3u8
+#EXTINF:-1, canal 9
+http://45.179.164.30:8000/play/a0e3/index.m3u8
 #EXTINF:-1,palomar tv 
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 #EXTINF:-1,presencia tv
@@ -145,8 +145,8 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w249870091.m3u8
 #EXTINF:-1,telesistema 
 https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9.m3u8
-#EXTINF:-1,tv carisgo
-https://paneltv.tecnohost.ec:3646/live/carigsotvlive.m3u8
+#EXTINF:-1,avila tv
+http://45.179.164.30:8000/play/a0e1/index.m3u8
 #EXTINF:-1,tv florencia 
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1,telecentro
@@ -215,8 +215,8 @@ https://stmv5.voxtvhd.com.br/punto99/punto99/playlist.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS", cine kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club SD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS",Magic Club SD
-https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
+#EXTINF:-1 tvg-id="Arg" tvg-name="Magic Club SD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png" group-title="JOVENES Y ADULTOS",rcn novelas 
+http://45.179.164.30:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="LA" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png" group-title="JOVENES Y ADULTOS",Adult Swim LA
 http://38.7.223.20:8000/play/a02l
 #EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",tick
@@ -419,8 +419,8 @@ https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
 https://5790d294af2dc.streamlock.net:443/MULTIVISIONRD/MULTIVISIONRD/chunklist_w931056004.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",univision novvelas
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6241
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",samurai x
-http://tv.proyectox.vip:8080/vladimmunoz1/VzfrMqZCP6/37836
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/jVMk9tz/Logo-Antena-3-HD.png" group-title="SPAIN",trivision 
+http://45.179.164.30:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",oromar 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",siripi
