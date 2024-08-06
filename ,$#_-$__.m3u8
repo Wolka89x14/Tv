@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,trivision
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/263136
+#EXTINF:-1,z anime 
+https://mitv.zplay.cl/ZAnime/index.m3u8
+#EXTINF:-1,z retro 
+https://mitv.zplay.cl/ZRetro/index.m3u8
+#EXTINF:-1,invasiva
+https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
+#EXTINF:-1,canal lms
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1,channel max cartoon
+https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
+#EXTINF:-1,big cine 
+https://ssh101.bozztv.com/ssh101/canalonline/playlist.m3u8
+#EXTINF:-1, canal mas
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
+#EXTINF:-1,esport max
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
+#EXTINF:-1,magic tv music 
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1,lineros tv
+https://f.gmsiptv.com:443/memfs/dacdb656-3f42-48af-a4b7-0effe4317daa_output_0.m3u8?session=EHnYBuymt8xEtEktjSVuzF
+#EXTINF:-1, lolocines
+http://51.159.104.29:8080/action/index.m3u8
+#EXTINF:-1,f&c
+https://fast-tcsand.thechannel.store/fast-channel-film-and-co/fast-channel-film-and-co.m3u8
+#EXTINF:-1,telemundo 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1, Telemundo novelas 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5fed&deviceDNT=0&deviceModel=0
+#EXTINF:-1,nows 90
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,terror tv
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1, canal 9 rio cuarto
+https://tv.streamcasthd.com:3614/live/canal9riocuartotvlive.m3u8
 #EXTINF:-1,paso a paso
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/254116
 #EXTINF:-1,origen tv
