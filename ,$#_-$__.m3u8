@@ -51,8 +51,8 @@ http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/79815
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1,telenord 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-#EXTINF:-1, canal 12
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1, tonami tv
+https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
 #EXTINF:-1,tvm
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
@@ -85,8 +85,8 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 #EXTINF:-1,bta
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1,nitida tv
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/105608
+#EXTINF:-1,tv canal 26
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:-1,cable imagen astrom
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1, canal 3 impresionante 
@@ -103,8 +103,8 @@ https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1,snt
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/87404
-#EXTINF:-1,claro sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1, rudyvision 
+https://cdn.streamhispanatv.net:3978/live/rudivisionlive.m3u8
 #EXTINF:-1,tv y tv 
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1,enfoque digital 
