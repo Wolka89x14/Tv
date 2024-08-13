@@ -1080,12 +1080,30 @@ http://38.7.223.20:8000/play/a02g
 http://181.78.105.146:8800/play/a047
 #EXTINF:-1,Nick music
 http://181.78.4.250:8098/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV LATINA",SV | TVC Network @
-https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,nord 10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 #EXTINF:-1,tvr honduras 
 https://stream.oursnetworktv.com/latin/encoder44/chunklist_w1254316182_vo.m3u8
+#EXTINF:-1,TVC Network @
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1,Mi canal GT
+http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
+#EXTINF:-1,Tvr salvador 
+https://stream.oursnetworktv.com/latin/encoder44/chunklist_w193389367_vo.m3u8
+#EXTINF:-1,Ctv honduras 
+https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal 39 hn
+https://www.amixtv.com:8081/plus39/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Makina tv
+https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
+#EXTINF:-1,Tv globo guate
+https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
+#EXTINF:-1,Plus tv
+https://stream.oursnetworktv.com/latin/plusTV1/playlist.m3u8
+#EXTINF:-1,Visof tv
+https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
+
 
 
 
