@@ -1,4 +1,202 @@
 #EXTM3U
+#EXTINF:-1,Alterna tv
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1,Atv argentina 
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:-1,Avc HD
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF:-1,13 max 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1,8ntv
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1,Abya Yala tv
+https://master.tucableip.com/abyayalatv/playlist.m3u8
+#EXTINF:-1,Agenda al día tv
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1,ANTv
+http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
+#EXTINF:-1,Anzoátegui tv
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1,Audaz tv
+https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
+#EXTINF:-1,Aysen tv
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1,Bayres tv 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,Canal 100 chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1,Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1,Canal 15 dtp
+https://s.emisoras.tv:8081/dtp/index.m3u8
+#EXTINF:-1,Canal 3 las Heras 
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1,Canal 4 Nicaragua 
+http://204.157.251.250:8000/play/a06a/index.m3u8
+#EXTINF:-1,Canal 4 posadas
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1,Canal 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+#EXTINF:-1,Canal 5 pico truncado 
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1,Canal 6 panadish
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+#EXTINF:-1,Canal catorce
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1,Canal dos 
+http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-1,Caracola tv
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1,Caracol tv
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1,Carare tv
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1,Ceacom
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1,Chilecito tv
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1,Chinola tv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1,Ciudad magazine 
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1,Conecta tv
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1,Contivision
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1,Coral tv
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+#EXTINF:-1,Curiquingue tv
+https://video2.lhdserver.es/pjtv/live.m3u8
+#EXTINF:-1,Digital 15
+http://51.81.93.29:8084/hls/d15.m3u8
+#EXTINF:-1,Digital 809
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1,Ecovisión 
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1,Edn tv
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1,Frata tv
+https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+#EXTINF:-1,Fuego tv
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1,Infinita tv
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF:-1,In tv
+https://stmvideo3.livecastv.com/intv/intv/playlist.m3u8
+#EXTINF:-1,Ixchiguan estereo tv
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1,Jehová tv
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+#EXTINF:-1,La caleta tv
+https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+#EXTINF:-1,Like tv
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+#EXTINF:-1,Makao tv 
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1,Maxivision
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+#EXTINF:-1,Mda tv
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1,Multivision canal 3
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+#EXTINF:-1,Multivision sports 
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1,Musavision HD
+https://soportedvb.click:3827/live/musavisiontvlive.m3u8
+#EXTINF:-1,Nueve tv
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1,Onza tv
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+#EXTINF:-1,Pana visión
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1,Panc tv 
+https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1,Panc tv Perú
+https://panel.host-live.com:19360/80780/80780.m3u8
+#EXTINF:-1,Play televisión 
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1,Pula tv
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+#EXTINF:-1,Puruwa
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1,RN TELEVISIÓN 
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:-1,Rtv
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8
+#EXTINF:-1,Rtv total yarimaguas
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1,Sensación tv 
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+#EXTINF:-1,Sextavision
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
+#EXTINF:-1,Soy plancha tv 
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1,Tcs+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1,Telecanal 12
+https://rdn.essastream.com:3258/live/telecanal12live.m3u8
+#EXTINF:-1,Telecentro 
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1,Telecolor 
+https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
+#EXTINF:-1,Telecondor 
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1,Tele norte
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:-1,Teleradio norte 
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1,Telesur canal 10
+https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
+#EXTINF:-1,Tele universo 
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1,Tele villa
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1,Televisión cristal 
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:-1,Thema televisión 
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1,Tu música hd
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,Tv copan
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1,Tv latina 
+https://glb.bozztv.com/glb/ssh101/tvlatinared/index.m3u8
+#EXTINF:-1,Tvn 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1,Tv plata 
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+#EXTINF:-1,Tv show oruro
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+#EXTINF:-1,Tv uct
+https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1,Uniandes tv
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1,Uniteve
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1,Unitv
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1,Upp tv
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,Valle visión
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1,Vallevisión 
+https://mediacp.us:8081/vallevision/index.m3u8
+#EXTINF:-1,Vb media tv
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1,Visión televisión 
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1,Visión tv
+https://5cf4a2c2512a2.streamlock.net/8184/8184/playlist.m3u8
+#EXTINF:-1,Vm latino 
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1,Vos tv
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+#EXTINF:-1,Vos y tv
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1,Xewt-tdt
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:-1,Zaracay tv
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1,trivision
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/263136
 #EXTINF:-1,z anime 
