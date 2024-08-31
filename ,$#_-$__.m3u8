@@ -1078,10 +1078,10 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dispora tv
 https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
-#EXTINF:-1,Ya tv
-https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
- #EXTINF:-1,56 Bnb digital 
-https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
+#EXTINF:-1,trecevision 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/119959.m3u8
+#EXTINF:-1,antena 7
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86367
 #EXTINF:-1,Genios tv
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1,Sol tv
@@ -1114,16 +1114,16 @@ https://mediacp.us:8081/ctvhn/index.m3u8
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1,Metro tv HD
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1,Telerayo
-https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1,paravision
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/87412
 #EXTINF:-1,Televisión metrópolis 19.1
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1,Televisión metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1,Activa HD
 https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
-#EXTINF:-1,Cootel tv
-http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1,la tele Paraguay 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/87411.m3u8
 #EXTINF:-1,Jbn canal 39
 https://hdbox.chunklistv.com/live?stream=jbn39
 #EXTINF:-1,Megabox
@@ -1132,8 +1132,8 @@ https://hdbox.chunklistv.com/live?stream=megabox
 https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1,Tvc network 
-https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+#EXTINF:-1,telefuturo 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/87401.m3u8
 #EXTINF:-1,Tv sur HD directo
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w12675392.m3u8
 #EXTINF:-1,Minfavtv HD
@@ -1178,10 +1178,10 @@ https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/188015.m3u8
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1,Gala tv
 http://iptvhogar.club:25461/Ruben_Antunez/1576161527/2535
-#EXTINF:-1,Unimas 
-http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1282
-#EXTINF:-1,Gik tv
-https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1,multipremier
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/69268.m3u8
+#EXTINF:-1,teleamazonas 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86128.m3u8
 #EXTINF:-1,City tv
 http://ultrapremium.cloud:8080/56981560254wspzero1/180323zero/337
 #EXTINF:-1,Más tv
@@ -1196,22 +1196,22 @@ https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1,Unitel
 http://alfatv.lat:2082/Hector@Espindola/Dolores@Lolis/308403
-#EXTINF:-1,Tvp
-http://181.209.114.13:8000/play/a056/index.m3u8
-#EXTINF:-1,Canal 9 
-http://181.191.140.2:8000/play/a0he/index.m3u8
+#EXTINF:-1,pone Francella 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/611431.m3u8
+#EXTINF:-1,antares tv
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/376703.m3u8
 #EXTINF:-1,Canal 8 mar del plata 
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w485411571_b1662976.m3u8
-#EXTINF:-1,Azteca 7
-http://170.82.37.21:8000/play/a02n/index.m3u8
-#EXTINF:-1,Cartoon network
-http://38.7.223.20:8000/play/a00d
-#EXTINF:-1,Nickelodeon 
-http://45.172.16.186:8000/play/a0of
-#EXTINF:-1,Teennick
-http://177.126.51.9:8001/play/a00c
-#EXTINF:-1,Disney Chanell
-http://177.126.51.9:8001/play/a03x
+#EXTINF:-1,canal 13
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/124942.m3u8
+#EXTINF:-1,canal 10
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/79821.m3u8
+#EXTINF:-1,bitmee
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/253157.m3u8
+#EXTINF:-1,teen nick
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/253152.m3u8
+#EXTINF:-1, nickelodeon 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/69361.m3u8
 #EXTINF:-1,Dreawords 
 http://181.119.86.68:8000/play/b013/index.m3u8
 #EXTINF:-1,Telefe internaciónal 
@@ -1226,12 +1226,12 @@ http://177.93.46.163:8000/play/a00n
 http://200.59.188.3:8000/play/a06t
 #EXTINF:-1,Universal comedy
 http://170.83.242.9:4000/play/a0kq
-#EXTINF:-1,A&e
-http://38.41.8.1:8000/play/a006
+#EXTINF:-1,mtv 2000
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/608063.m3u8
 #EXTINF:-1,Espn 7
 http://38.41.8.1:8000/play/a01d
-#EXTINF:-1,Espn premium 
-http://38.41.8.1:8000/play/a02z
+#EXTINF:-1,fxx
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/602111.m3u8
 #EXTINF:-1,El gourmet 
 http://38.41.8.1:8000/play/a012
 #EXTINF:-1,Star channel 
@@ -1242,18 +1242,18 @@ http://38.41.8.1:8000/play/a01x
 http://45.160.74.253:9000/play/a04s/index.m3u8
 #EXTINF:-1,Usa
 http://181.78.27.128:8000/play/a01z/index.m3u8
-#EXTINF:-1,Sony channel 
-http://170.82.37.21:8000/play/a02w/index.m3u8
+#EXTINF:-1,latin angeles
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/606048.m3u8
 #EXTINF:-1,Cine latino 
 http://45.5.117.182:8000/play/a0j5/index.m3u8
-#EXTINF:-1,Studio universal 
-http://200.59.188.3:8000/play/a06r
+#EXTINF:-1,telemundo
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6228.m3u8
 #EXTINF:-1,Discovery
 http://192.141.99.3:8000/play/a018
 #EXTINF:-1,Discovery Home health
 http://38.41.8.1:8000/play/a017
-#EXTINF:-1,Clover channel 
-http://138.186.20.13:23200/play/a04t
+#EXTINF:-1,telemundo internacional 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/6223.m3u8
 #EXTINF:-1,Comedy central 
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT novelas 
@@ -1266,41 +1266,41 @@ http://38.41.8.1:8000/play/a00s
 http://38.252.158.1:8000/play/a023
 #EXTINF:-1,Space
 http://38.41.8.1:8000/play/a00a
-#EXTINF:-1,History 
-http://38.41.8.1:8000/play/a04p
+#EXTINF:-1,golden 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93512.m3u8
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
-#EXTINF:-1,Mtv
-http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,Mtv 00
-http://38.7.223.20:8000/play/a02g
+#EXTINF:-1,golden premier
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93518.m3u8
+#EXTINF:-1,golden plus
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93517.m3u8
 #EXTINF:-1,Mtv hits
 http://181.78.105.146:8800/play/a047
 #EXTINF:-1,Nick music
 http://181.78.4.250:8098/play/a034/index.m3u8
 #EXTINF:-1,nord 10
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
-#EXTINF:-1,tvr honduras 
-https://stream.oursnetworktv.com/latin/encoder44/chunklist_w1254316182_vo.m3u8
+#EXTINF:-1,golden edge
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93514.m3u8
 #EXTINF:-1,TVC Network @
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1,Mi canal GT
 http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
-#EXTINF:-1,Tvr salvador 
-https://stream.oursnetworktv.com/latin/encoder44/chunklist_w193389367_vo.m3u8
+#EXTINF:-1,rcn novelas 
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/86818.m3u8
 #EXTINF:-1,Ctv honduras 
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal 39 hn
-https://www.amixtv.com:8081/plus39/tracks-v1a1/mono.m3u8
+#EXTINF:-1,unimas
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/570525.m3u8
 #EXTINF:-1,Makina tv
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
 #EXTINF:-1,Tv globo guate
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
-#EXTINF:-1,Plus tv
-https://stream.oursnetworktv.com/latin/plusTV1/playlist.m3u8
-#EXTINF:-1,Visof tv
-https://stream.oursnetworktv.com/latin/Visof/playlist.m3u8
+#EXTINF:-1,mundo series 
+https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1,toonizaki
+https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 
 
 
