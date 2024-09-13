@@ -281,8 +281,6 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1,tv azteca guatemala
 https://ch1-tva.duin.dev/hls/2/stream.m3u8
-#EXTINF:-1,toonizaki
-https://streaming-cl.sh1ny.space/memfs/fb2dbceb-85ed-4957-9216-7a3922ece1cb.m3u8
 #EXTINF:-1,austral tv
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1,bein sport extra
