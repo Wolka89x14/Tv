@@ -29,8 +29,8 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1,Anzoátegui tv
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,toonizaki
+https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,Aysen tv
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1,Bayres tv 
@@ -109,10 +109,10 @@ https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1,Mda tv
 https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,corrientes tv
+https://stmvideo6.livecastv.com:443/canal7/canal7/chunklist_w1912937689.m3u8
+#EXTINF:-1,eva retro 
+https://stmv2.casttv.com.br:443/evaretro/evaretro/chunklist_w2008424607.m3u8
 #EXTINF:-1,Musavision HD
 https://soportedvb.click:3827/live/musavisiontvlive.m3u8
 #EXTINF:-1,Nueve tv
@@ -209,8 +209,8 @@ https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1,Zaracay tv
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mix bolivia tv
+https://ssh101-fl.bozztv.com:443/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,austral argentina 
 https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 #EXTINF:-1,red tv chile 
@@ -223,8 +223,8 @@ https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?WebM3UCL
 #EXTINF:-1,tv aire Paraguay 
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
-#EXTINF:-1,
-
+#EXTINF:-1,chilevisual retro
+https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m3u8
 #EXTINF:-1,esport max
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 #EXTINF:-1,magic tv music 
@@ -1258,9 +1258,9 @@ http://38.41.8.1:8000/play/a00a
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93512.m3u8
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
-
-
-
+#EXTINF:-1,
+https://catv.amixtv.live:3058/live/unetvlive.m3u8
+#EXTINF:-1,
 
 #EXTINF:-1,Mtv hits
 http://181.78.105.146:8800/play/a047
@@ -1285,8 +1285,8 @@ https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 #EXTINF:-1,mundo series 
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-#EXTINF:-1,toonizaki
-https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
+
+
 
 
 
