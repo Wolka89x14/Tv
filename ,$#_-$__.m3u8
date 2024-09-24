@@ -317,8 +317,8 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1,enfoque digital 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,telelatina canal 7
+https://fl1002.bozztv.com/ssh101/0007/tracks-v1a1/mono.m3u8
 #EXTINF:-1,glow tv
 https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1,hells chickens 
@@ -337,8 +337,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1,disney channell 
 http://168.181.122.234:8000/play/a038/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,super canal 33
+https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1,el top 102.9
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
 #EXTINF:-1,latacunga
