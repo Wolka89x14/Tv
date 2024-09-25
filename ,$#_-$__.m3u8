@@ -23,8 +23,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://fl1002.bozztv.com:443/ssh101/retroxcr/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Abya Yala tv
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1,Agenda al día tv
-https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,ANTv
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1,Anzoátegui tv
@@ -217,8 +217,8 @@ https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 #EXTINF:-1,invasiva
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
-#EXTINF:-1,canal lms
-https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,bomby tv
 https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?WebM3UCL
 #EXTINF:-1,tv aire Paraguay 
@@ -261,8 +261,8 @@ https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1,telenord 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-#EXTINF:-1, tonami tv
-https://ssh101-fl.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,tvm
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
@@ -283,8 +283,8 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://ch1-tva.duin.dev/hls/2/stream.m3u8
 #EXTINF:-1,austral tv
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1,bein sport extra
-https://lnc-bein-espanol.tubi.video:443/playlistR1080p.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,vtv bolivia 
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w1270542688.m3u8
 #EXTINF:-1,bellavision 
@@ -327,8 +327,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 #EXTINF:-1,holvoet 
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1,cr televisión Choluteca 
-https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,inter tv
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1,investiga
@@ -463,7 +463,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w2138331617.m3u8
 #EXTINF:-1, ondambiental tv
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
-#EXTINF:-1 tvg-id="Esp" tvg-name="Teletoonizaki HD" tvg-logo="https://i.ibb.co/NLwvDPn/Logo-Teletoonizaki.png" group-title="JOVENES Y ADULTOS",tick
+#EXTINF:-1,a&w
 https://fl1001.bozztv.com:443/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",todo novelas 
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
@@ -517,8 +517,8 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/r2hdFCj/logo-Varied-TV.png" group-title="JOVENES Y ADULTOS",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1,
@@ -711,8 +711,8 @@ https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,canal gtv
-https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/chunklist_w2007388553.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,egm channell 
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1,
@@ -727,8 +727,8 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 https://inliveserver.com:1936/11548/11548/chunklist_w1379489832.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qBrxD7w/Logo-Atresplayer.png" group-title="SPAIN", canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ9kHdB/Logo-Aqu-no-hay-qui-n-viva.jpg" group-title="SPAIN",Warner 
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/69371
+#EXTINF:-1,
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HHjsTP7/Logo-F-sica-o-qu-mica.png" group-title="SPAIN",leña radio tv
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/chunklist_w655349836.m3u8
 #EXTINF:-1,adulto swing
@@ -797,8 +797,8 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3iPzZg2.png" group-title="LATINO",Lenca TV
 https://www.lencatelevision.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/F9NBVdr.jpg" group-title="LATINO",Flou cine
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bFM9F0J.png" group-title="LATINO",yuna tv
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CJfrgtv.png" group-title="LATINO",Doble AA
@@ -985,7 +985,7 @@ https://ntv.pe/salida/nativa.m3u8
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
 #EXTINF:-1,Usmptv
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1,Planeta tv
+#EXTINF:-1,
 
 #EXTINF:-1,Auténtica televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -995,8 +995,8 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1,los santos tv
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1,dimelo tv
-https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Cr televisión 
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1,Dmj cuzco 
@@ -1147,8 +1147,8 @@ https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 #EXTINF:-1,Manavision HD
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-#EXTINF:-1,Ecuamundo tv
-https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Imperial tv
 https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8
 #EXTINF:-1,Farra play 
@@ -1159,10 +1159,10 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1,estrella tv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
-#EXTINF:-1,Espn 1 op7
-http://home-playtv.com:8080/garayale/KSGSU/219171
-#EXTINF:-1,Wuan +
-https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/188015.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Rtu noticias 
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1,Gala tv
@@ -1221,16 +1221,16 @@ http://38.41.8.1:8000/play/a017
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT novelas 
 http://38.43.151.206:8000/play/a05y/index.m3u8
-#EXTINF:-1,Lifetime 
-http://45.181.122.13:8000/play/056
+#EXTINF:-1,
+
 #EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a00s
 #EXTINF:-1,Tcm
 http://38.252.158.1:8000/play/a023
 #EXTINF:-1,Space
 http://38.41.8.1:8000/play/a00a
-#EXTINF:-1,golden 
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93512.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1,
@@ -1242,8 +1242,8 @@ http://181.78.105.146:8800/play/a047
 http://181.78.4.250:8098/play/a034/index.m3u8
 #EXTINF:-1,cine premier 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
-#EXTINF:-1,golden edge
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/93514.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,TVC Network @
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
@@ -1251,10 +1251,10 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 http://ms.android-iptv.com/live/V7rA1feOk3/FkGkEh8Spe/6671.m3u8
 #EXTINF:-1,Ctv honduras 
 https://mediacp.us:8081/ctvhn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,unimas
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/570525.m3u8
-#EXTINF:-1,Makina tv
-https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Tv globo guate
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 #EXTINF:-1,mundo series 
