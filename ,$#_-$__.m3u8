@@ -467,8 +467,8 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://fl1001.bozztv.com:443/ssh101/88channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",todo novelas 
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mayomba tv
+https://live.obslivestream.com/mtv/index.m3u8
 #EXTINF:-1,tu tv 
 https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w805038703.m3u8
 #EXTINF:-1,wtv
@@ -485,8 +485,8 @@ https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",inet tv
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mx family
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1,ptv
@@ -497,8 +497,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion HD
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mx classic
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1,ciudad magica 
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1,Anime Zone TV
@@ -515,18 +515,18 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JQxt2Qw/Logo-Pandamax.png" group-title="JOVENES Y ADULTOS",Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,old
+https://marine2.miplay.cl/old/playlist.m3u8
+#EXTINF:-1,fhm family 
+http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1,
-
+#EXTINF:-1, canal 2
+https://marine2.miplay.cl/dos/playlist.m3u8
 #EXTINF:-1,seo tv
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,tudn
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HCrNGr7/Logo-Mundo-Series.png" group-title="JOVENES Y ADULTOS",Mundo Series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV
