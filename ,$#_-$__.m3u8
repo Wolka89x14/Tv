@@ -23,8 +23,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://fl1002.bozztv.com:443/ssh101/retroxcr/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Abya Yala tv
 https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal stc
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 #EXTINF:-1,ANTv
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
 #EXTINF:-1,Anzoátegui tv
@@ -217,8 +217,8 @@ https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 #EXTINF:-1,invasiva
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,global tv
+https://ssh101-fl.bozztv.com/ssh101/garcitv/playlist.m3u8
 #EXTINF:-1,bomby tv
 https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?WebM3UCL
 #EXTINF:-1,tv aire Paraguay 
@@ -261,8 +261,8 @@ https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1,telenord 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1,tvm
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
@@ -283,8 +283,8 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://ch1-tva.duin.dev/hls/2/stream.m3u8
 #EXTINF:-1,austral tv
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,distrito comedia
+http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1,vtv bolivia 
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/chunklist_w1270542688.m3u8
 #EXTINF:-1,bellavision 
@@ -327,8 +327,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 #EXTINF:-1,holvoet 
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,fitmax
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1,inter tv
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1,investiga
@@ -433,8 +433,8 @@ https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",any retro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-,
-
+#EXTINF:-,tv color canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",gam tv
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 grupo tvg-id="Arg" tvg-name="Magic Club HD" tvg-logo="https://i.ibb.co/1dVxv5h/Logo-Magic-Club-5.png"- title="nuevos jb",d'fiesta
