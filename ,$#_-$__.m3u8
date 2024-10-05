@@ -89,8 +89,8 @@ https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com:443/live2/alba-pe-atv-atvsur_720p/chunks.m3u8
 #EXTINF:-1,Frata tv
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, canal 6 cr
+https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
 #EXTINF:-1,Infinita tv
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1,canal 10 Neuquén 
@@ -113,8 +113,8 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 https://stmvideo6.livecastv.com:443/canal7/canal7/chunklist_w1912937689.m3u8
 #EXTINF:-1,eva retro 
 https://stmv2.casttv.com.br:443/evaretro/evaretro/chunklist_w2008424607.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,tc+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1,Nueve tv
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Onza tv
@@ -129,8 +129,8 @@ https://panel.host-live.com:19360/80780/80780.m3u8
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,canal 3 Esquipulas 
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 2 salvador 
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1,RN TELEVISIÓN 
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1,animenigai 3
@@ -143,8 +143,8 @@ https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1,Soy plancha tv 
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1,Tcs+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Telecanal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1,Telecentro 
@@ -206,7 +206,7 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381e
 #EXTINF:-1,tele 11
 https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
 #EXTINF:-1,canal 2 salvador 
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
 #EXTINF:-1,Zaracay tv
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1,mix bolivia tv
