@@ -527,8 +527,8 @@ https://marine2.miplay.cl/dos/playlist.m3u8
 https://seo.tv.bo/tv/SEO-TV-1.m3u8
 #EXTINF:-1,tudn
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,costarica channel 
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="https://i.ibb.co/9nNGrcJ/Logo-ACS-Network.png" group-title="Familiares",ACS NETWORK TV
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conectate TV" tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="Familiares",Conectate TV
@@ -681,8 +681,8 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w996720675
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wtdp09b/logo-Star-Tve-HD.png" group-title="SPAIN",bum tv
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,nim tv 
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/n8Qf1zm/logo-Tvg-HD.png" group-title="SPAIN",garavito tv 
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zRg2Czc/logo-Tvg2-HD.png" group-title="spain",mega tv
