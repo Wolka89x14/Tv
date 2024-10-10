@@ -253,14 +253,14 @@ https://tv.streaming-chile.com:8081/origentvhd/index.m3u8
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1,orbita tv
 https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,opinion series 
+https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 #EXTINF:-1,teleantillas 
 https://fl1002.bozztv.com/ssh101/0010/tracks-v1a1/mono.m3u8
 #EXTINF:-1,nexxo
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,opinion sur niños 
+https://ssh101-fl.bozztv.com/ssh101/opinionsurn/playlist.m3u8
 #EXTINF:-1,novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1,tvm
@@ -387,8 +387,8 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1,constanza 
 https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w249870091.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, canal 10 costarica
+https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 #EXTINF:-1,coral 39
 https://fl1002.bozztv.com:443/ssh101/0039/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tv florencia 
