@@ -205,8 +205,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1,tele 11
 https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8
-#EXTINF:-1,canal 2 salvador 
-
+#EXTINF:-1,fun tv
+https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
 #EXTINF:-1,Zaracay tv
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1,mix bolivia tv
@@ -229,8 +229,8 @@ https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 #EXTINF:-1,magic tv music 
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal lms
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1, lolocines
 http://51.159.104.29:8080/action/index.m3u8
 #EXTINF:-1,f&c
