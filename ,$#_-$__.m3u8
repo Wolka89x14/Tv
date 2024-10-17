@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,tn8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+#EXTINF:-1,global
+https://live-evg25.tv360.bitel.com.pe:443/bitel/global/bitel/global_ori_source/chunks.m3u8
+#EXTINF:-1,doble c
+https://s2.tvdatta.com:3371/live/tvchupacalive.m3u8
+#EXTINF:-1,varied
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1,america tv
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1,rcn novelas 
