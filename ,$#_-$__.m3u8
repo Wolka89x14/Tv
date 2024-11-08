@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,cotos brutos
+https://stmv4.tropicalmoonmedia.com:443/coto/coto/chunklist_w1643117834.m3u8
+#EXTINF:-1,tv prime
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+#EXTINF:-1,retro plus 2
+https://tls-cl.cdnz.cl:443/retroplustvdos/live/chunklist_w1022849415.m3u8
+#EXTINF:-1,snt
+https://dp7xchau0hnq3.cloudfront.net:443/original.m3u8
 #EXTINF:-1,tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1,global
