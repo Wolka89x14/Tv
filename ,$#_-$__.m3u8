@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,tv tica
+https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
+#EXTINF:-1,alegre tv 
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1, bolivision 
+https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_720p/chunks.m3u8
+#EXTINF:-1,seo tv 
+https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
+#EXTINF:-1,seo tv películas
+https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+#EXTINF:-1,fav tv
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
+#EXTINF:-1,tva tv
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+#EXTINF:-1,planeta tv 2
+https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w1599069065.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,cotos brutos
 https://stmv4.tropicalmoonmedia.com:443/coto/coto/chunklist_w1643117834.m3u8
 #EXTINF:-1,tv prime
@@ -405,8 +423,9 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 https://vdo.grupolimalive.com:3398/stream/play.m3u8
 #EXTINF:-1, canal 10 costarica
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, casa grande 
+https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+Tv
 #EXTINF:-1,tv florencia 
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1,Ixchiguan estereo tv
