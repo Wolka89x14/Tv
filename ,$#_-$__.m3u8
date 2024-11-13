@@ -65,8 +65,8 @@ https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1,canal stc
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
-#EXTINF:-1,kanade
-https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Anzoátegui tv
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1,toonizaki
@@ -227,8 +227,8 @@ https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
 #EXTINF:-1,Unitv
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1,bolivision
-https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Valle visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1,animenogai 5
