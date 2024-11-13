@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,varied
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1,pandamax
 https://streaming-cl.sh1ny.space:443/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8?session=etZEeKTDBACUvknSRNyZzi
 #EXTINF:-1,bombi
