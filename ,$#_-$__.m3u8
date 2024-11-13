@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,
+https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w632774264.m3u8
 #EXTINF:-1,tv tica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1,alegre tv 
