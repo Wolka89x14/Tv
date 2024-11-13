@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,
+#EXTINF:-1,bombi
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w632774264.m3u8
 #EXTINF:-1,tv tica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
@@ -17,8 +17,8 @@ https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
 #EXTINF:-1,planeta tv 2
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w1599069065.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,casa grande 
+https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1,cotos brutos
 https://stmv4.tropicalmoonmedia.com:443/coto/coto/chunklist_w1643117834.m3u8
 #EXTINF:-1,tv prime
@@ -255,8 +255,8 @@ https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 #EXTINF:-1, atresplayer comedia 
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1,bomby tv
-https://s3.tvdatta.com:3380/live/bombitvlive.m3u8?WebM3UCL
+#EXTINF:-1,
+
 #EXTINF:-1,tv aire Paraguay 
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
 #EXTINF:-1,chilevisual retro
@@ -454,7 +454,7 @@ https://cdn.streamhispanatv.net:3153/live/supercablelive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=1b2bc9895846e2816394321ed8a6535e&ifa_type=sessionid&app_bundle=com.canela.ott
 #EXTINF:-1,sol tv 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z15GFtH/logo-Syfy.png" group-title="JOVENES Y ADULTOS", Telemundo 
+#EXTINF:-1, Telemundo 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 #EXTINF:-1,radio valle viejo 
 https://stmvideo1.livecastv.com:443/valleviejo/valleviejo/chunklist_w530742153.m3u8
@@ -502,7 +502,7 @@ https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w2138331617.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1,a&w
 https://fl1001.bozztv.com:443/ssh101/88channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Arg" tvg-name="BD Network" tvg-logo="https://i.ibb.co/myNDTWk/logo-BD-Network.png" group-title="JOVENES Y ADULTOS",todo novelas 
+#EXTINF:-1 ,todo novelas 
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 #EXTINF:-1,mayomba tv
 https://live.obslivestream.com/mtv/index.m3u8
@@ -518,21 +518,21 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1,amitel
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unetev HD" tvg-logo="https://i.ibb.co/YDQQng7/Logo-Unetev.png" group-title="JOVENES Y ADULTOS",Unetev HD
+#EXTINF:-1,Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QPQBgth/logo-Casa-Grande-TV-2.png" group-title="JOVENES Y ADULTOS",inet tv
+#EXTINF:-1,inet tv
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1,mx family
 https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HpCtLzy/logo-Wow-Movies.jpg" group-title="JOVENES Y ADULTOS",Wow Movies
+#EXTINF:-1,Wow Movies
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1,ptv
 https://fl1002.bozztv.com:443/ssh101/centralptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="AnimeStation" tvg-id="" tvg-logo="https://i.ibb.co/mbwJS5X/logo-Anime-Station.png" group-title="JOVENES Y ADULTOS",AnimeStation
+#EXTINF:-1,AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",barbe tv 
+#EXTINF:-1,barbe tv 
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="https://i.ibb.co/RDPMGmb/logo-Locomotion.png" group-title="JOVENES Y ADULTOS",Locomotion HD
+#EXTINF:-1,Locomotion HD
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1,
 
@@ -596,17 +596,17 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1,puro romance tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KG9kTP/Logo-Zona-de-Accion.png" group-title="Familiares",Zona de Accion
+#EXTINF:-1,Zona de Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1,onda digital 2
 https://v4.tustreaming.cl/odtv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PsLfq2R/Logo-Toon-Goggles-en-Spanish.png" group-title="Familiares",megavision
+#EXTINF:-1,megavision
 https://server2grupocam.com:443/megavision/MV/chunklist_w792782768.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mFkXy5h/logo-Latino-Kids-TV.png" group-title="Familiares",Latino Kids TV
+#EXTINF:-1,Latino Kids TV
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvH9gvB/Logo-Pitufo-TV.png" group-title="Familiares",canal 5 del pueblo 
+#EXTINF:-1,canal 5 del pueblo 
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sFwwMyt/logo-Zaz-TV.png" group-title="Familiares",Zaz TV
+#EXTINF:-1,Zaz TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 #EXTINF:-1,radio cataos canal 9 
 https://mc.servidor.stream:19360/8262/8262.m3u8
