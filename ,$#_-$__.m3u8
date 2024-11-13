@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,pandamax
+https://streaming-cl.sh1ny.space:443/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8?session=etZEeKTDBACUvknSRNyZzi
 #EXTINF:-1,bombi
 https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w632774264.m3u8
 #EXTINF:-1,tv tica
