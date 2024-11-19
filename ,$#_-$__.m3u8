@@ -429,8 +429,8 @@ https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 https://vdo.grupolimalive.com:3398/stream/play.m3u8
 #EXTINF:-1, canal 10 costarica
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
-#EXTINF:-1, casa grande 
-https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+#EXTINF:-1,
+
 Tv
 #EXTINF:-1,tv florencia 
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
