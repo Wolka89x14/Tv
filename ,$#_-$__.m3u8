@@ -1501,13 +1501,6 @@ http://181.205.77.118:4849/play/CH1
 #EXTINF:0,ID HD
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH85
-#EXTINF:0,
-
-
-
-#EXTINF:0,Latina HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH129
 #EXTINF:0,Lifetime
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/CH117
