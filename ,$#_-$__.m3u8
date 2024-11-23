@@ -1,4 +1,121 @@
 #EXTM3U
+#EXTINF:-1,Mundo de la música 
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Btv digital 
+https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1,Suyai tv
+https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
+#EXTINF:-1,Telecinco 
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1,Tele Junín 
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+#EXTINF:-1,Agenda al día tv
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1,América tv
+https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1,Antena 7 
+https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
+#EXTINF:-1,Aza tv
+https://mediacp.us:8081/azatvhd/index.m3u8
+#EXTINF:-1,Azteca internaciónal
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1,Bbc drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersio
+#EXTINF:-1,Colomé tv
+https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
+#EXTINF:-1,Bein sport xtra
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+#EXTINF:-1,Cable sur tv
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1,Canal 2 misiones 
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1,Canal 4 san Juan 
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1,Canal 6
+https://envivo.canal6.com.hn/hls/0/stream.m3u8
+#EXTINF:-1,Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1,Mundo visión 
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1,Champion tv
+https://canal.mediaserver.com.co/live/ChampionTv.m3u8
+#EXTINF:-1,Chinola tv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1,Cine Sony 
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,Claro televisión dominicana 
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1,Claro vision tv
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1,Cristal tv
+https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:-1,Dímelo tv
+https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
+#EXTINF:-1,Ecuavision 
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1,Latacunga tv
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1,Lenca tv
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1,Meta versus 
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1,Planea tv
+https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1,Revry latínx
+https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8
+#EXTINF:-1,Santa María tv
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1,Satel canal 4
+https://server.asilivehd.com:3802/live/canal4live.m3u8
+#EXTINF:-1,Sima visión tv
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1,Tele 8 Mercedes 
+http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
+#EXTINF:-1,Univers tv
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1,Veo tv 
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1,Vivo tv
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1,Voz de poder tv
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
+#EXTINF:-1,Xtrema acción 
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,Canal cxn
+https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
+#EXTINF:-1,Meganet sport
+https://video20.klm99.com:3703/live/megasportlive.m3u8
+#EXTINF:-1,Telemax Costarica 
+https://mist01.homestream.fun:443/hls/telemas/0_1/index.m3u8?sessId=336422
+#EXTINF:-1,Visión latina
+https://glb.bozztv.com/glb/ssh101/maxcartoon/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tv norte
+https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w751183090.m3u8
+#EXTINF:-1,Acción policial 
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1,Sarapiriski
+https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Canal 10.1
+https://acceso.radiosportstv.online:3384/hybrid/play.m3u8
+#EXTINF:-1,Latitud 90s
+https://paneltv.online:1936/8096/8096/playlist.m3u8
+#EXTINF:-1,Tv tica
+https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8
+#EXTINF:-1,Canal 7
+https://acceso.radiosportstv.online:3203/stream/play.m3u8
+#EXTINF:-1,Interconet
+https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Tv centro 
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1,Cristal tv argentina 
+https://live.enhdtv.com:19360/8052/8052.m3u8
+#EXTINF:-1,Canal 10 Rionegro 
+https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/chunklist_w495334775_b2721230.m3u8
+#EXTINF:-1,Furia tv
+https://5790d294af2dc.streamlock.net:443/8060/8060/chunklist_w1764303227.m3u8
+#EXTINF:-1,F10 bolivia 
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 #EXTINF:-1,varied
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1,kanade
