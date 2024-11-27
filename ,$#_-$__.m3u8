@@ -1070,13 +1070,13 @@ https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1,
 
-#EXTINF:-0 tvg-id="" tvg-name="Pluto TV Anime Latino" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Latino
+#EXTINF:-,Pluto TV Anime Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Accion" tvg-logo="https://i.imgur.com/VzX9t3v.png" tvg-shift="0" group-title="Pluto TV Latino",Pluto TV Anime Accion
+#EXTINF:-1,Pluto TV Anime Accion
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV One Piece" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",telecanal 28
+#EXTINF:-1,telecanal 28
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1,hola play
 https://rakuten-hola-2-es.samsung.wurl.tv:443/3000.m3u8
@@ -1174,8 +1174,8 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,canal 2
-https://nd106.republicaservers.com:4433/hls/c6611/1_0/index.m3u8?sessId=56011
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
