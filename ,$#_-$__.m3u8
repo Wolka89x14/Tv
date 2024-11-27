@@ -424,8 +424,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 #EXTINF:-1, somos del este
 https://live.enhdtv.com:8081/8062/index.m3u8
-#EXTINF:-1,canal 2 misiones 
-https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=4162582
+#EXTINF:-1,
+
 #EXTINF:-1,full channell tv 
 https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 #EXTINF:-1,tv centro 4.2
@@ -478,8 +478,8 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1,hells chickens 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
+#EXTINF:-1,
+
 #EXTINF:-1,Hispania tv
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 #EXTINF:-1,holvoet 
@@ -488,8 +488,8 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://marine2.miplay.cl/fitmaxx/playlist.m3u8
 #EXTINF:-1,inter tv
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
-#EXTINF:-1,investiga
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
+#EXTINF:-1,
+
 #EXTINF:-1,itv deportes 
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1,disney channell 
