@@ -19,8 +19,8 @@ https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 https://mediacp.us:8081/azatvhd/index.m3u8
 #EXTINF:-1,Azteca internaciónal
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Bbc drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersio
+#EXTINF:-1,
+Versio
 #EXTINF:-1,Colomé tv
 https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
 #EXTINF:-1,Bein sport xtra
