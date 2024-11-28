@@ -582,7 +582,7 @@ https://stmvideo1.livecastv.com:443/valleviejo/valleviejo/chunklist_w530742153.m
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1,frecuencia latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
-#EXTINF:-1,demo tv
+#EXTINF:-1,voice y over
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1,latina tv
 https://streamtv.intervenhosting.net:3639/live/latinatvlive.m3u8
@@ -676,7 +676,7 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1,fhm family 
 http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BzVf3mG/Logo-Loading.png" group-title="JOVENES Y ADULTOS",mtv clásico 
+#EXTINF:-1,mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, canal 2
 https://marine2.miplay.cl/dos/playlist.m3u8
@@ -805,7 +805,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,dreiko
 https://cloudvideo.servers10.com:8081/8096/index.m3u8
 #EXTINF:-1,
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.m3u8
+
 #EXTINF:-1,
 
 #EXTINF:-1,runtime terror 
@@ -921,14 +921,14 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1,Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1,
-https://fl1002.bozztv.com:443/ssh101/teleportal/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, comunicaciónes jimenez 
 https://fl1002.bozztv.com:443/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/z5QWrWp/Logo-Sony-Canal-Competencias.png" group-title="LATINO",Sony Canal Competencias
+#EXTINF:-1,Sony Canal Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINO",Sony Canal Novelas
+#EXTINF:-1,Sony Canal Novelas
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,
 
@@ -1000,8 +1000,8 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 https://ss5.domint.net:3188/tni_str/tni51/chunklist_w982761941.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,canalda
-https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, retro plus 3
 https://tls-cl.cdnz.cl:443/retroplustvtres/live/chunklist_w737002582.m3u8
 #EXTINF:-1,canal 8 catacos
