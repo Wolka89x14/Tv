@@ -5,8 +5,8 @@ https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8?PlaylistM3UCL
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1,Suyai tv
 https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
-#EXTINF:-1,Telecinco 
-https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Tele Junín 
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1,Agenda al día tv
