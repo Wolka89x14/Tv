@@ -200,8 +200,8 @@ https://eu1.servers10.com:8081/8056/index.m3u8
 https://s.emisoras.tv:8081/dtp/index.m3u8
 #EXTINF:-1,Canal 3 las Heras 
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1,opinion sur series
-https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal 4 posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1,anc televisión 
@@ -532,8 +532,8 @@ https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w929239859.m3u8
 #EXTINF:-1,megacanal 30
 https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
-#EXTINF:-1,pluto tv anime accion 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY
+#EXTINF:-1,
+
 #EXTINF:-1,sony canal novelas 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1,tele oriental 
@@ -1364,7 +1364,7 @@ http://45.5.117.182:8000/play/a0j5/index.m3u8
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1,
-https://catv.amixtv.live:3058/live/unetvlive.m3u8
+
 #EXTINF:-1,
 #EXTINF:-1,Mtv hits
 http://181.78.105.146:8800/play/a047
