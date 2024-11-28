@@ -1563,12 +1563,6 @@ http://181.205.77.118:4849/play/CH39
 #EXTINF:0,TNT SPORTS
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0fn
-#EXTINF:0,
-
-
-#EXTINF:0,TVN HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH143
 #EXTINF:0,TelefØ
 #EXTVLCOPT:network-caching=1000
 http://181.205.77.118:4849/play/a0c3
