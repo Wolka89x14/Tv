@@ -90,8 +90,8 @@ https://video20.klm99.com:3703/live/megasportlive.m3u8
 https://mist01.homestream.fun:443/hls/telemas/0_1/index.m3u8?sessId=336422
 #EXTINF:-1,Visión latina
 https://glb.bozztv.com/glb/ssh101/maxcartoon/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv norte
-https://stream.tvn14.com/TVN/CH14.stream_720p/chunklist_w751183090.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Acción policial 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1,Sarapiriski
