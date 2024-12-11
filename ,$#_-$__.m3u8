@@ -928,8 +928,8 @@ https://fl1002.bozztv.com:443/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sony Canal Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
-#EXTINF:-1,Sony Canal Novelas
-https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,Aion TV
@@ -996,8 +996,8 @@ https://live.obslivestream.com/vztv/index.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1, tele selva 
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-#EXTINF:-1,tni
-https://ss5.domint.net:3188/tni_str/tni51/chunklist_w982761941.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
@@ -1036,14 +1036,14 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
 #EXTINF:-1,cascara tv
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-#EXTINF:-1,haina tv
-https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
 #EXTINF:-1,Telesur Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:-1,ATB HD
-http://186.121.206.197/live/daniel/index.m3u8
+
+
 #EXTINF:-1,Buin Somos Todos
 https://bst.buin.cl/0.m3u8
 #EXTINF:-1,mi turno
@@ -1238,8 +1238,6 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,Sicom tv
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTINF:-1,Mx Tv cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1,
@@ -1387,198 +1385,6 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 
 #EXTINF:-1,Tv globo guate
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
- 
-
-
-#EXTINF:0,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH67
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0ft
-#EXTINF:0,Cinecanal HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH33
-#EXTINF:0,Cinemax HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH57
-#EXTINF:0,Clover HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0bh
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0fp
-#EXTINF:0,DHE HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH51
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0fi
-#EXTINF:0,Discovery HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH80
-
-#EXTINF:0,Discovery Theater HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH86
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH84
-
-#EXTINF:0,E! HD
-http://181.205.77.118:4849/play/CH130
-#EXTINF:
-
-#EXTINF:2,ESPN 2 HD colombia 
-http://181.205.77.118:4849/play/a0bi
-#EXTINF:3,ESPN 2 HD argentina 
-http://181.205.77.118:4849/play/a0au
-#EXTINF:0,ESPN 3 HD
-http://181.205.77.118:4849/play/CH19
-#EXTINF:0,ESPN 4 HD
-http://181.205.77.118:4849/play/CH147
-#EXTINF:0,ESPN 5
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH28
-#EXTINF:0,ESPN 6HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH24
-
-#EXTINF:1,ESPN HD colombia 
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0bm
-#EXTINF:0,ESPN HD argentina 
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0a9
-
-
-#EXTINF:0,FOX Sports 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH23
-#EXTINF:0,FX HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH38
-
-#EXTINF:0,Food Network HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH144
-#EXTINF:0,Fox Sports 1 HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH22
-#EXTINF:0,GolTV HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH32
-#EXTINF:0,Golden HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH47
-#EXTINF:0,HBO MUNDI
-http://181.205.77.118:4849/play/CH68
-#EXTINF:0,HBO POP HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH58
-#EXTINF:0,HBO XTREME HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH37
-#EXTINF:0,HGTV
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH154
-#EXTINF:0,HOLA TV HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH123
-#EXTINF:0,HTV
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH95
-#EXTINF:0,History 2 HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH78
-#EXTINF:0,History Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH1
-#EXTINF:0,ID HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH85
-#EXTINF:0,Lifetime
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH117
-#EXTINF:0,Love Nature HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH82
-#EXTINF:0,MTV 00s
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH151
-#EXTINF:0,MTV HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH96
-#EXTINF:0,MTV LIVE HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH94
-
-#EXTINF:0,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0fw
-#EXTINF:0,Nick HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH73
-
-#EXTINF:0,Nuestra Tele
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH11
-#EXTINF:0,Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH64
-#EXTINF:0,Pasiones HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH111
-#EXTINF:0,Playboy HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH53
-#EXTINF:2,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH2
-#EXTINF:0,Sony HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH48
-#EXTINF:0,Space HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH42
-#EXTINF:0,Stingray Concerts HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH107
-#EXTINF:0,
-
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH36
-#EXTINF:0,Sun Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH113
-#EXTINF:0,
-
-
-#EXTINF:0,
-
-#EXTINF:0,TNT HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH39
-#EXTINF:0,TNT SPORTS
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0fn
-#EXTINF:0,TelefØ
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0c3
-#EXTINF:0,TyC Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/a0ah
-
-#EXTINF:0,Warner Channel HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH61
-#EXTINF:0,Win Sports HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH16
-#EXTINF:0,Win Sports+ HD
-#EXTVLCOPT:network-caching=1000
-http://181.205.77.118:4849/play/CH14
 #EXTINF:-1,mundo series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 
