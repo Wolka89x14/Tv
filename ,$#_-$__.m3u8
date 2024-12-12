@@ -71,12 +71,12 @@ https://server.asilivehd.com:3802/live/canal4live.m3u8
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1,Tele 8 Mercedes 
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
-#EXTINF:-1,Univers tv
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Veo tv 
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1,Vivo tv
-https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Voz de poder tv
 https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
 #EXTINF:-1,Xtrema acción 
@@ -924,8 +924,8 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1, comunicaciónes jimenez 
 https://fl1002.bozztv.com:443/ssh101/comunicaciones/tracks-v1a1/mono.m3u8
-#EXTINF:-1,vtv canal 17
-https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Sony Canal Competencias
 https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8
 #EXTINF:-1, Warner 
