@@ -143,7 +143,7 @@ https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1,cotos brutos
 https://stmv4.tropicalmoonmedia.com:443/coto/coto/chunklist_w1643117834.m3u8
 #EXTINF:-1,tv prime
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1,retro plus 2
 https://tls-cl.cdnz.cl:443/retroplustvdos/live/chunklist_w1022849415.m3u8
 #EXTINF:-1,snt
@@ -492,8 +492,8 @@ https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1,disney channell 
-http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,super canal 33
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1,el top 102.9
@@ -741,7 +741,7 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1,TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,san vito tv
-https://video.misistemareseller.com:1936/sanvito/sanvito/chunklist_w901036898.m3u8
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1,tv montaña canal 10
 https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
 #EXTINF:-1,Retro TV HD
@@ -756,8 +756,8 @@ https://ssh101.bozztv.com/ssh101/dititv/playlist.m3u8
 
 #EXTINF:-1,
 
-#EXTINF:-1,+ cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Classic Channel HD
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1,Tigueritos TV
@@ -790,14 +790,14 @@ https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
 
 #EXTINF:-1,gdm studio 
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1454985575.m3u8
-#EXTINF:-1,runtime accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0
+#EXTINF:-1,
+
 #EXTINF:-1,multicanal ecuador 
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1,vegavision
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-#EXTINF:-1,Rakuten TV en Familia HD
-http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,orbit tv
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,
