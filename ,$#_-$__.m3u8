@@ -484,8 +484,8 @@ https://is.gd/SS41Mg?profile=corgol.m3u8
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 #EXTINF:-1,holvoet 
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1,fitmax
-https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,inter tv
 https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1,cine familiar 
@@ -678,8 +678,8 @@ https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e460
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1,mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1, canal 2
-https://marine2.miplay.cl/dos/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,fx
 http://181.78.105.146:6060/play/a02j
 #EXTINF:-1,tudn
@@ -1166,7 +1166,7 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,Telecolor 
+#EXTINF:-1,Telecolor 2.5.4
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1,
 
