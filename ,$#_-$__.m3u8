@@ -1198,8 +1198,8 @@ https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u
 
 #EXTINF:-1,Nova tv
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1,canal 5 mexico 
-http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Tu universo tv
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1,La ribereña 
