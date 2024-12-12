@@ -86,8 +86,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 #EXTINF:-1,Meganet sport
 https://video20.klm99.com:3703/live/megasportlive.m3u8
-#EXTINF:-1,Telemax Costarica 
-https://mist01.homestream.fun:443/hls/telemas/0_1/index.m3u8?sessId=336422
+#EXTINF:-1,
+
 #EXTINF:-1,Visión latina
 https://glb.bozztv.com/glb/ssh101/maxcartoon/tracks-v1a1/mono.m3u8
 #EXTINF:-1,21 hd  pelis argentina
@@ -106,8 +106,8 @@ https://v2.tustreaming.cl/alfatv/playlist.m3u8
 https://acceso.radiosportstv.online:3203/stream/play.m3u8
 #EXTINF:-1,Interconet
 https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Tv centro 
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Cristal tv argentina 
 https://live.enhdtv.com:19360/8052/8052.m3u8
 #EXTINF:-1,Canal 10 Rionegro 
