@@ -496,8 +496,8 @@ http://181.78.82.6:46090/play/a052
 https://is.gd/3Le1wq?profile=corgol.m3u8
 #EXTINF:-1,super canal 33
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1,el top 102.9
-https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,cine picante 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1, energeeck 
