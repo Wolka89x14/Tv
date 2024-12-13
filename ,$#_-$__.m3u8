@@ -49,8 +49,8 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1,Cristal tv
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-#EXTINF:-1,Dímelo tv
-https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Ecuavision 
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1, Alcarrizos tv
@@ -634,8 +634,8 @@ http://181.78.105.146:6060/play/a02m
 https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
 #EXTINF:-1,terror tv
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
-#EXTINF:-1,dimel0 
-https://glb.bozztv.com/glb/ssh101/dimelotvrd/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,amitel
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
 #EXTINF:-1,Unetev HD
