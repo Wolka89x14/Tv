@@ -550,8 +550,8 @@ https://acceso.radiosportstv.online:3285/hybrid/play.m3u8
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 #EXTINF:-1,tv florencia 
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
-#EXTINF:-1,Ixchiguan estereo tv
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,ucayalina tv
 https://video.agenciastreaming.com:3959/live/utvlive.m3u8
 #EXTINF:-1, clover 
