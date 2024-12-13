@@ -450,8 +450,8 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 #EXTINF:-1,bta
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1,canal mundo visión 
-https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 #EXTINF:-1, canal 3 impresionante 
@@ -706,8 +706,8 @@ https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1,canela deportes tv 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1,old music
-https://marine2.miplay.cl/oldmusic/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,la inolvidable 
 https://glb.bozztv.com/glb/ssh101/corazon/playlist.m3u8
 #EXTINF:-1,la red 
