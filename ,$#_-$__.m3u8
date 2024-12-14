@@ -134,8 +134,8 @@ https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
 https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
 #EXTINF:-1,fav tv
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
-#EXTINF:-1,tva tv
-https://vdo.grupolimalive.com:3967/live/tvelive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,planeta tv 2
 https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w1599069065.m3u8
 #EXTINF:-1,casa grande 
