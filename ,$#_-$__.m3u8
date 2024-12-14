@@ -77,8 +77,8 @@ http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,Voz de poder tv
-https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Xtrema acción 
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
