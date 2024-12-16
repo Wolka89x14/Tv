@@ -112,8 +112,8 @@ https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 https://live.enhdtv.com:19360/8052/8052.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,Furia tv
-https://5790d294af2dc.streamlock.net:443/8060/8060/chunklist_w1764303227.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,F10 bolivia 
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 #EXTINF:-1,varied
@@ -172,8 +172,8 @@ http://181.78.22.27:8098/play/a0g6/index.m3u8
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,Atv argentina 
 https://stream.arcast.com.ar:443/atbargentina/atbargentina/chunklist_w137211684.m3u8
-#EXTINF:-1,Avc HD
-https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 9 ixchiguan 
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1,retrox
@@ -252,8 +252,8 @@ https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1,bitme
 http://190.60.33.245:4002/play/a0kd
-#EXTINF:-1,animenogai 
-https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,animenogai 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1,canal 2 salta 
