@@ -35,8 +35,8 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://envivo.canal6.com.hn/hls/0/stream.m3u8
 #EXTINF:-1,Canal 45
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,pelidom
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13266
 #EXTINF:-1,Champion tv
 https://canal.mediaserver.com.co/live/ChampionTv.m3u8
 #EXTINF:-1,Chinola tv
