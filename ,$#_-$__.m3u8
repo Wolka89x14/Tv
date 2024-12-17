@@ -49,8 +49,8 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1,Cristal tv
 https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mtv
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
 #EXTINF:-1,Ecuavision 
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1, Alcarrizos tv
