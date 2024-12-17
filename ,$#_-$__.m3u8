@@ -63,7 +63,7 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1,14 nueva vision republica dominicana 
 https://glb.bozztv.com/glb/ssh101/nuevavisionhd/playlist.m3u8
-#EXTINF:-1,espn
+#EXTINF:-1,espn mexico
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1,Satel canal 4
 https://server.asilivehd.com:3802/live/canal4live.m3u8
@@ -75,7 +75,7 @@ http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1,Veo tv 
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1,claro spors
+#EXTINF:-1,claro sports 
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1,espn 3
 http://181.78.105.146:2000/play/a03n/index.m3u8
