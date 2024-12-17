@@ -71,8 +71,8 @@ https://server.asilivehd.com:3802/live/canal4live.m3u8
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1,Tele 8 Mercedes 
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,magic kids tv
+https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1,Veo tv 
 https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1,
@@ -384,8 +384,8 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
 https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m3u8
 #EXTINF:-1,esport max
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
-#EXTINF:-1,magic tv music 
-https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal lms
 https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1, palmar tv
