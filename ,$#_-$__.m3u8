@@ -1,14 +1,114 @@
 #EXTM3U
-#EXTINF:-1,
-
+#EXTINF:-1,City tv
+https://stream.gia.tv:443/giatv/giatv-ctybogcolctybogcol/ctybogcolctybogcol/chunks.m3u8
+#EXTINF:-1,Tele lima 
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+#EXTINF:-1,Atv
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:-1,Panamericana 
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+#EXTINF:-1,Voz y tv
+https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
+#EXTINF:-1,La ruta tv
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1,Kairós tv
+https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+#EXTINF:-1,Evolución tv
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+#EXTINF:-1,Neox
+http://79.117.39.146:8000/play/a0a9
+#EXTINF:-1,Gm digital 
+https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1,Fun tv este
+https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
+#EXTINF:-1,Anime tatal 2
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+#EXTINF:-1,Magic tv 2
+https://kali.vdopanel.com:3063/stream/play.m3u8
+#EXTINF:-1,Wepa tv
+https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
+#EXTINF:-1,Tv más 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1,Canal 11 Honduras 
+https://tinyurl.com/4z3cwea2
+#EXTINF:-1,14 México 
+https://s5.mexside.net:1936/canal14/canal14/.m3u8
+#EXTINF:-1,14 nueva visión república dominicana 
+https://glb.bozztv.com/glb/ssh101/nuevavisionhd/playlist.m3u8
+#EXTINF:-1,8 valle del unco argentina 
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1,Alphasufert Colombia 
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
+#EXTINF:-1,Asucap san Jorge colombia 
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1,Brigside Colombia 
+https://amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8
+#EXTINF:-1,Canal 2 misiones argentina
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1,Cajamarca Perú 
+https://ott1.hdlatam.tv/miFibra/Rt89jgK7JwGE-MuxRated/playlist.m3u8
+#EXTINF:-1,Cambyreta paraguay
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/playlist.m3u8
+#EXTINF:-1,Canal 3 salvador 
+https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
+#EXTINF:-1,Bitt tv
+https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
+#EXTINF:-1,Canal 8 valle de uco 
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+#EXTINF:-1,Ctv
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1,Hispania
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1,Latacunga
+https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
+#EXTINF:-1,Ng radio tv
+https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+#EXTINF:-1,Puruwa tv
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1,Santel
+https://tvlatina.live:1936/8004/8004/playlist.m3u8
+#EXTINF:-1,Vive tv
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1,Zoy tv turcas 
+https://fl1004.bozztv.com:443/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zoy tv plus 
+https://fl1004.bozztv.com:443/ssh101/zoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zoy tv kids 
+https://fl1004.bozztv.com:443/ssh101/zoytvkids/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colimdo república dominicana 
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1,El trece argentina 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,Lenca tv Honduras 
+https://www.lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1,Luna república dominicana 
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1,Movie sphere España 
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8
+#EXTINF:-1,MTV Moyobamba Perú
+https://live.obslivestream.com/mtv/index.m3u8
+#EXTINF:-1,New k-pop Korea
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:-1,Platinum tv 
+https://glb.bozztv.com/glb/ssh101/platiniumtv/playlist.m3u8
+#EXTINF:-1,Red 24 bolivia 
+https://inliveserver.com:1936/11012/11012/.m3u8
+#EXTINF:-1,Teen usa 18
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1,Tvu chile 
+https://marine2.miplay.cl/tvu/index.m3u8
+#EXTINF:-1,Vtv canal 32 
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1,Galavisión 
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+#EXTINF:-1,Univision 
+http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
+#EXTINF:-1,Telemundo 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1,Btv digital 
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8?PlaylistM3UCL
-#EXTINF:-1,
-
 #EXTINF:-1,+ big classic cine
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:-1,
-
 #EXTINF:-1,espn 2 mexico
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1,América tv
@@ -1373,18 +1473,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 #EXTINF:-1,TVC Network @
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Tv globo guate
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 #EXTINF:-1,mundo series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
+#EXTINF:-1Acuario tv
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CuYF5lsVqGyusWsGQuhXU5ZNtDs_pNF90mcMR9NAzxtmehZys6UA5LNK7ouKJkoT8G0ThIrUJj2jLw4nh7JuBdzDgpnZzNqxTM6kOM8cc1iaIUQasbtPda9cdmyfK23S9S-rRbMz8RfivF37bAec9QSKQUTcAIkYvDkWunh83QD3Eyz4_rVGCtVRMGEouC6l2R1QOq79tq5XWSGokBQPbqWcfEwa72KOpIIz7ZVuhfU2viUjo86xeocPrL3pT2UeH90jURIZH2luNIpCctmlmVuic25CMbw8xrAsRJD1uk2SafydzuhY9-gOIUUfuePl3W2zYm0Jjel0ZtmOnXrABq4k15M234yu4Pcdxq7QglRg3oM7t72_Zx96G-UseD7-f88BqUTmFQk-jZ5IaN04QpInZ2pP5TOFVlUbILhTd1fH2-LeMOXttnQeC8bp18f91W-5xB8rbok-oWd6UN6z0mikBnfVEXQcMVKfNQdZjugU_XGIsQJBO3qp62sQNvhHqMrKdBbYC6OgOSpBS0LFRRjyPTU1cuF_bWpFrpQEdnixo4W1XZYiv6vBFpfX9h0hqiopo-HSizKgULPOvXHKVnjtjzNlls1wDZf9SKD3HaEPsKtkeMvAhdgbsgIWcQQgWGXDPptCno-WIN8DHk_vCk7VSJfI96fDqhoHM5xIuXjuuMZ3Xr43sRNpDUaeSeIVhLQVXE5vW1qv0OxPIpKv9qREN1vgTyqD0srRO68RQp6R3ZaUgcb6TTBjo6GuGAaNi0hNJ-yxVIEG8RXlEA_mZ978ad8c2T0ZsoJ-m2vSOX1MEGf8poJypR-571yJBMwdT7Pli-1yO_zeGlB1W5fgnCNncP19Zoy14jPebxe_95Ln6pbMkzqkkC7Gzhrp5i5M5KGQA9upP0bEF0k6eEa9Xw0HLd2KgzXgmcw-zDnGGWjA6c7J2QcADTMKCoWISyYiYC7dxs04gpPjkhCA92VSBKAbe0sjBN6JCRoMECusRi67d5pb00z4IAEqCXVzLWVhc3QtMTDoCQ.m3u8
 
 
 
