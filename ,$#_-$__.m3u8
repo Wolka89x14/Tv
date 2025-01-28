@@ -3,12 +3,12 @@
 
 #EXTINF:-1,Btv digital 
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8?PlaylistM3UCL
-#EXTINF:-1,Suyai tv
-https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
+#EXTINF:-1,
+
 #EXTINF:-1,+ big classic cine
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:-1,Tele Junín 
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,espn 2 mexico
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1,América tv
@@ -31,8 +31,8 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1,Canal 4 san Juan 
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1,Canal 6
-https://envivo.canal6.com.hn/hls/0/stream.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal 45
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1,pelidom
@@ -47,8 +47,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1,Claro vision tv
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-#EXTINF:-1,Cristal tv
-https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,mtv
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
 #EXTINF:-1,Ecuavision 
@@ -59,8 +59,8 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 https://video20.klm99.com:3395/live/meganethitslive.m3u8
 #EXTINF:-1,Meta versus 
 https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
-#EXTINF:-1,Planea tv
-https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,14 nueva vision republica dominicana 
 https://glb.bozztv.com/glb/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1,espn mexico
@@ -96,8 +96,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
 #EXTINF:-1,Sarapiriski
 https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Canal 10.1
-https://acceso.radiosportstv.online:3384/hybrid/play.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Latitud 90s
 https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1,alfa tv
@@ -110,8 +110,8 @@ https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 #EXTINF:-1,Cristal tv argentina 
 https://live.enhdtv.com:19360/8052/8052.m3u8
-#EXTINF:-1,espn 
-http://38.51.233.85:8000/play/a03x/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,espn 2 arg
 http://181.78.8.90:16123/play/ch17
 #EXTINF:-1,F10 bolivia 
@@ -128,32 +128,32 @@ https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1, bolivision 
 https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_720p/chunks.m3u8
-#EXTINF:-1,seo tv 
-https://seo.tv.bo/tv/IPSEO-TV-1.m3u8
-#EXTINF:-1,seo tv películas
-https://seo.tv.bo/tv/IPSEO-TV-4.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,fav tv
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1,espn 3 arg
 http://181.78.8.90:16123/play/ch18
-#EXTINF:-1,planeta tv 2
-https://tls-cl.cdnz.cl/planetatvcine/live/chunklist_w1599069065.m3u8
-#EXTINF:-1,casa grande 
-https://giatv.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,cotos brutos
 https://stmv4.tropicalmoonmedia.com:443/coto/coto/chunklist_w1643117834.m3u8
 #EXTINF:-1,tv prime
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
-#EXTINF:-1,canal 5 mexico 
-http://366561339425964941.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/964941.ts
+#EXTINF:-1,
+
 #EXTINF:-1,snt
 https://dp7xchau0hnq3.cloudfront.net:443/original.m3u8
 #EXTINF:-1,tn8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1,global
 https://live-evg25.tv360.bitel.com.pe:443/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:-1,doble c
-https://s2.tvdatta.com:3371/live/tvchupacalive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 6 salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
 #EXTINF:-1,america tv
