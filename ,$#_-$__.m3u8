@@ -131,8 +131,8 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1,Canal 4 san Juan 
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,caracol 2
+https://stream.gia.tv:443/giatv/giatv-GaryCanalGaryCanal/GaryCanalGaryCanal/chunks.m3u8
 #EXTINF:-1,Canal 45
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1,pelidom
