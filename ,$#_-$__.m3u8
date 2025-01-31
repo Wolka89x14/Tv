@@ -33,8 +33,8 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 https://tinyurl.com/4z3cwea2
 #EXTINF:-1,14 México 
 https://s5.mexside.net:1936/canal14/canal14/.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,caracol 
+https://217118473.cdnstruggle.net:8443/hls/5k4rbj48.m3u8?s=2ku-_REhdCQOwwpguao7fA&e=1738354500
 #EXTINF:-1,8 valle del unco argentina 
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1,Alphasufert Colombia 
