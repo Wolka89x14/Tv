@@ -53,8 +53,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
 #EXTINF:-1,Bitt tv
 https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,carton network
+https://stream.gia.tv:443/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Ctv
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1,Hispania
