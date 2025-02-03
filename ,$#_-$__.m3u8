@@ -548,8 +548,8 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 #EXTINF:-1,bta
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,space hd
+http://nxt.plus:8080/jesus01/jesus01/16922
 #EXTINF:-1,canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 #EXTINF:-1, canal 3 impresionante 
@@ -564,8 +564,8 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 #EXTINF:-1,canal 34 san juan 
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,tnt hd
+http://nxt.plus:8080/jesus01/jesus01/25213
 #EXTINF:-1, cpetv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1,tv y tv 
@@ -578,14 +578,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://is.gd/Umdtpg?profile=corgol.m3u8
 #EXTINF:-1,cine clasico
 https://is.gd/SS41Mg?profile=corgol.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,amc hd
+http://nxt.plus:8080/jesus01/jesus01/24818
+#EXTINF:-1, canal 9 peru
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1, imagien iu
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+#EXTINF:-1,compilacion
+http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1,cine familiar 
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1,cine hispano 
@@ -594,8 +594,8 @@ http://181.78.82.6:46090/play/a052
 https://is.gd/3Le1wq?profile=corgol.m3u8
 #EXTINF:-1,super canal 33
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,latina commpila
+http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1,cine picante 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1, energeeck 
@@ -614,8 +614,8 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1, tv nosara
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,red traficc
+http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1,manaclar tv
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/chunklist_w580404940.m3u8
 #EXTINF:-1,punta cana tv
@@ -624,8 +624,8 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1,sptv32
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mc 
+http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1,tele uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w929239859.m3u8
 #EXTINF:-1,megacanal 30
@@ -634,12 +634,12 @@ https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
 https://is.gd/HJ56UV?profile=corgol.m3u8
 #EXTINF:-1,sony canal novelas 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, distrito comedia 2
+http://181.78.105.146:2000/play/a08t/index.m3u8
 #EXTINF:-1,telebruca
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,unicable 2
+http://181.78.105.146:2000/play/a08f/index.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1, canal 10 costarica
