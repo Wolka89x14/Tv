@@ -474,16 +474,16 @@ https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 https://is.gd/Vy9YN2?profile=corgol.m3u8
 #EXTINF:-1, atresplayer comedia 
 https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
-#EXTINF:-1,cariben adventage
-https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:-1,tigo sports costarica
+http://45.5.117.182:8000/play/ljt0/index.m3u8
 #EXTINF:-1,tv aire Paraguay 
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
 #EXTINF:-1,chilevisual retro
 https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,fox sports MX 
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,az cinema
+http://nxt.plus:8080/jesus01/jesus01/160510
 #EXTINF:-1,canal lms
 https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1, palmar tv
@@ -508,8 +508,8 @@ https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1,orbita tv
 https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, studio universal 2
+http://nxt.plus:8080/jesus01/jesus01/9780
 #EXTINF:-1,trivision 36 
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-2500/chunklist.m3u8?DVR
 #EXTINF:-1,nexxo
