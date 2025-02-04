@@ -678,8 +678,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_3
 https://stmvideo1.livecastv.com:443/valleviejo/valleviejo/chunklist_w530742153.m3u8
 #EXTINF:-1, cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-#EXTINF:-1,frecuencia latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,voice y over
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1,
@@ -874,8 +874,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565&avod=1&coppa=0&is_lat
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1,canal 74
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/chunklist_w669625048.m3u8
-#EXTINF:-1,mtv rusia club
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/558/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Cosmos tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1,antares tv
