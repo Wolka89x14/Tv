@@ -336,8 +336,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1,Curiquingue tv
 https://video2.lhdserver.es/pjtv/live.m3u8
-#EXTINF:-1,fx hd 
-http://181.204.79.182:8202/play/a024
+#EXTINF:-1,
+
 #EXTINF:-1,caracol 2 hd
 http://181.78.14.26:8000/play/a00d
 #EXTINF:-1,amc chile 
