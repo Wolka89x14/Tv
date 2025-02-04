@@ -428,8 +428,8 @@ http://38.44.109.41:8003/play/a02v
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tv copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1,tudn
-http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Tvn 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1,Tv plata 
