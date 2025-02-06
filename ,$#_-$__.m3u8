@@ -678,8 +678,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_3
 https://stmvideo1.livecastv.com:443/valleviejo/valleviejo/chunklist_w530742153.m3u8
 #EXTINF:-1, cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, telefuturo 
+https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_baja/chunklist_w1699479551.m3u8?k=a0df4e504bbb138f1369ad458843a7fc49a28fb3b5ce4bcbcf58046cf3efef3d&exp=1738884142
 #EXTINF:-1,voice y over
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1,
