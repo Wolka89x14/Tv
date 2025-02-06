@@ -758,8 +758,8 @@ https://is.gd/sDFomc?profile=corgol.m3u8
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1,Anime Zone TV
 http://animezonetv.net/hls/stream.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, nativa peru
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1,Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1,canal 9 televida
@@ -776,8 +776,8 @@ https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e460
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1,mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1,
-
+#EXTINF:-1,color vision
+https://live-b.cf.dmcdn.net/sec2(EIprQPmGQjLa5lL0Wp1bAqHWOkrI7BChlUrX0Y-NtJMY0rFXGKSkb94DzptPBA3dk_HafqbWqtQF0PTuSMcg4OiUDpb3xONcvOYv3jdgvBLPX2bh9LUIK_pB6gcSOIpK)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
 #EXTINF:-1,fx
 http://181.78.105.146:6060/play/a02j
 #EXTINF:-1,tudn
