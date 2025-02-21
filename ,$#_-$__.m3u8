@@ -75,8 +75,7 @@ https://rdn.essastream.com:3949/live/deltatv50live.m3u8?checkedby:iptvcat.com
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tigo sports
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8?checkedby:iptvcat.com
-#EXTINF:1,mtv 
-EXTVLCOPT:network-caching=1000
+#EXTINF:1,mtv
 http://179.63.36.2:8000/play/a0pd/index.m3u8
 #EXTINF:-1,mtv 2000
 https://zona593.live:8443/play/JxoB_PXAnedltw3863yXcxnGFIUgQTn540nj9Ipv9KQ/ts
