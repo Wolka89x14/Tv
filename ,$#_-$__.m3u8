@@ -312,7 +312,7 @@ https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_720p/c
 http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1,golden 
 http://38.44.109.41:8003/play/a001
-#EXTINF:-1,fav tv
+#EXTINF:-1,fap tv
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1,espn 3 arg
 http://181.78.8.90:16123/play/ch18
@@ -438,8 +438,8 @@ https://ssh101-fl.bozztv.com/ssh101/opinionsurs/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1,canal 2 salta 
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:-1,amor para todos 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1,
+
 #EXTINF:-1,Makao tv 
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 #EXTINF:-1,Maxivision
@@ -758,8 +758,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_3
 https://stmvideo1.livecastv.com:443/valleviejo/valleviejo/chunklist_w530742153.m3u8
 #EXTINF:-1, cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-#EXTINF:-1, telefuturo 
-https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_baja/chunklist_w1699479551.m3u8?k=a0df4e504bbb138f1369ad458843a7fc49a28fb3b5ce4bcbcf58046cf3efef3d&exp=1738884142
+#EXTINF:-1,
+
 #EXTINF:-1,voice y over
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
 #EXTINF:-1,san vito tv
