@@ -237,8 +237,8 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1,megahits
 https://video20.klm99.com:3395/live/meganethitslive.m3u8
-#EXTINF:-1,Meta versus 
-https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,zaz tv 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
 #EXTINF:-1,pat bolivia 
@@ -280,10 +280,10 @@ https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
 http://181.204.79.182:8202/play/a02x
 #EXTINF:-1,Latitud 90s
 https://paneltv.online:1936/8096/8096/playlist.m3u8
-#EXTINF:-1,retrotoons
-https://ssh101-fl.bozztv.com/ssh101/retrotoons/playlist.m3u8
-#EXTINF:-1,Canal 7
-https://acceso.radiosportstv.online:3203/stream/play.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Interconet
 https://ssh101-fl.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO pop
@@ -306,16 +306,16 @@ https://tv.streaming-chile.com:1936/bombitv/bombitv/chunklist_w632774264.m3u8
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 #EXTINF:-1,alegre tv 
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1, bolivision 
-https://d3ew2cr4djta2j.cloudfront.net/live2/alba-bo-bolivision-bolivision_720p/chunks.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, Golden edge 
 http://181.78.106.127:9000/play/ca078/index.m3u8
 #EXTINF:-1,golden 
 http://38.44.109.41:8003/play/a001
 #EXTINF:-1,fap tv
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
-#EXTINF:-1,espn 3 arg
-http://181.78.8.90:16123/play/ch18
+#EXTINF:-1,
+
 #EXTINF:-1,golden premier 
 http://45.184.87.142:8000/play/a03a
 #EXTINF:-1, Golden premier 2 
@@ -352,8 +352,8 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,comedy central 2
 http://181.78.106.127:9000/play/ca050/index.m3u8
-#EXTINF:-1,espn 5
-http://181.78.8.90:16123/play/ch19
+#EXTINF:-1,
+
 #EXTINF:-1,canal 9 ixchiguan 
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1,retrox
@@ -374,8 +374,8 @@ https://v1.tustreaming.cl/aysentv/index.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Canal 100 chinique
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
-#EXTINF:-1,Canal 14 Codazzi
-https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal 15 dtp
 https://s.emisoras.tv:8081/dtp/index.m3u8
 #EXTINF:-1,Canal 3 las Heras 
@@ -402,10 +402,10 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 http://190.60.32.178:8178/play/a0aa/index.m3u8
 #EXTINF:-1,Ceacom
 https://eu1.servers10.com:8081/ceacom/index.m3u8
-#EXTINF:-1,dm kids tv
-https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
-#EXTINF:-1,atn televisión 
-https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Ciudad magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,Conecta tv
@@ -420,14 +420,14 @@ https://video2.lhdserver.es/pjtv/live.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1,caracol 2 hd
 http://181.78.14.26:8000/play/a00d
-#EXTINF:-1,amc chile 
+#EXTINF:-1,the walking dead
 https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,rcn hd 
 http://200.59.188.3:8000/play/a03a
 #EXTINF:-1,rcn novelas 2
 http://181.78.106.127:9000/play/ca014/index.m3u8
-#EXTINF:-1, canal 6 cr
-https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Infinita tv
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1,bitme
@@ -488,8 +488,8 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1,Telecolor 
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
-#EXTINF:-1,Telecondor 
-https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Tele norte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1,azmar
@@ -516,8 +516,8 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 #EXTINF:-1,Tv show oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-#EXTINF:-1,bella asuncion 
-https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Uniandes tv
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1,animenogai 4
@@ -538,16 +538,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1, Fox sports 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:-1,fox premium 
-https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1733071006.692&yo.oh=
+#EXTINF:-1,
+
 #EXTINF:-1,fun tv
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
 #EXTINF:-1,t y c sports 
 http://190.61.42.218:9000/play/a01e
 #EXTINF:-1,mix bolivia tv
 https://ssh101-fl.bozztv.com:443/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,austral argentina 
-https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,red tv chile 
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 #EXTINF:-1,boom 
@@ -610,14 +610,14 @@ https://cdn.streamhispanatv.net:3446/live/fullchannellive.m3u8
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1,zurqui tv
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1,atsur
-https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,afv en español 
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 #EXTINF:-1,tv azteca guatemala
 https://ch1-tva.duin.dev/hls/2/stream.m3u8
-#EXTINF:-1, canela horror 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
+#EXTINF:-1,
+
 #EXTINF:-1,distrito comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1,vtv bolivia 
@@ -708,8 +708,8 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1,tele uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w929239859.m3u8
-#EXTINF:-1,megacanal 30
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,cine XOXO 
 https://is.gd/HJ56UV?profile=corgol.m3u8
 #EXTINF:-1,sony canal novelas 
@@ -792,8 +792,8 @@ https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,gen tv
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1, cine kids 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,death note 
@@ -804,8 +804,8 @@ https://fl1001.bozztv.com:443/ssh101/88channel/tracks-v1a1/mono.m3u8
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,tu tv 
-https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w805038703.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,dhe
 http://181.78.105.146:6060/play/a02m
 #EXTINF:-1,canal 7 salta 
@@ -814,8 +814,8 @@ https://glb.bozztv.com/glb/ssh101/canal7salta/index.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,amitel
-https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Unetev HD
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1,vinet tv
@@ -856,8 +856,8 @@ https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e460
 http://160.20.165.246:8000/play/a01j/index.m3u8
 #EXTINF:-1,mtv clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1,color vision
-https://live-b.cf.dmcdn.net/sec2(EIprQPmGQjLa5lL0Wp1bAqHWOkrI7BChlUrX0Y-NtJMY0rFXGKSkb94DzptPBA3dk_HafqbWqtQF0PTuSMcg4OiUDpb3xONcvOYv3jdgvBLPX2bh9LUIK_pB6gcSOIpK)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+#EXTINF:-1,
+
 #EXTINF:-1,fx
 http://181.78.105.146:6060/play/a02j
 #EXTINF:-1,tudn
@@ -874,8 +874,8 @@ https://is.gd/APGr55?profile=corgol.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1,red cctv
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Big TV
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1,
@@ -892,8 +892,8 @@ https://glb.bozztv.com/glb/ssh101/corazon/playlist.m3u8
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,sas tv
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-#EXTINF:-1,puro romance tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1,
+
 #EXTINF:-1,Zona de Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1,onda digital 2
@@ -966,8 +966,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w3
 https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
 #EXTINF:-1,nortevision 
 http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1,gdm studio 
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1454985575.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,novelas colombianas 
 https://is.gd/eFIN2H?profile=corgol.m3u8
 #EXTINF:-1,multicanal ecuador 
@@ -1084,8 +1084,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 https://server2grupocam.com:443/teleunion/TU/chunklist_w1258684281.m3u8
 #EXTINF:-1,jimani tv
 https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w1450747620.m3u8
-#EXTINF:-1,unicable 
-http://181.78.105.146:2000/play/a08f
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1, venus 
@@ -1146,8 +1146,8 @@ https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1,Canal 7 Somos Jujuy HD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1,Canal 8 de Nueva Santa Rosa
-https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,villa tv
 https://inliveserver.com:1936/10016/10016/chunklist_w668340416.m3u8
 #EXTINF:-1,
@@ -1274,8 +1274,8 @@ https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 
 #EXTINF:-1, canal 51
 https://tvcn51.com/hls/cn51480.m3u8
-#EXTINF:-1,latina zona tv
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,super canal 
 https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,my tv
