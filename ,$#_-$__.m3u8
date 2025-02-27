@@ -33,10 +33,10 @@ https://video.live.com.bo:3003/live/tvuumsalive.m3u8?checkedby:iptvcat.com
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Radio canal sanfrancisco
 http://204.199.3.2/.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Xtrema cartoons
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Color visión 
-https://live-c.cf.dmcdn.net/sec2(IFx8fNAFnQB1YdbJwkQQu4ZFQtSlRmtr-nniiYRMNm1ax1d0bUSuHOS6Q8ysFaUzB9BtFZvFsDAweJurnoobHNktOq8u34em99cPLYN_yNn1lAwP9SjY4Y_QdHzJZhao)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfc
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Keruso tv
 https://s.emisoras.tv:8081/kerussotv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Pluto tv en directo en vivo 
@@ -95,8 +95,8 @@ https://streamunoapp.com:3983/live/larutatvlive.m3u8
 https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 #EXTINF:-1,Evolución tv
 https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
-#EXTINF:-1,Neox españa
-http://79.117.39.146:8000/play/a0a9
+#EXTINF:-1,
+
 #EXTINF:-1,Gm digital 
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
 #EXTINF:-1,Fun tv este
@@ -111,8 +111,8 @@ https://ssh101-fl.bozztv.com/ssh101/tvwxfxxgo/playlist.m3u8
 https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1,Canal 11 Honduras 
 https://tinyurl.com/4z3cwea2
-#EXTINF:-1,14 México 
-https://s5.mexside.net:1936/canal14/canal14/.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, Discovery theatre 
 http://190.61.42.218:9000/play/a01m
 #EXTINF:-1,8 valle del unco argentina 
@@ -133,8 +133,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
 #EXTINF:-1,Bitt tv
 https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
-#EXTINF:-1,carton network
-https://stream.gia.tv:443/giatvplayout7/giatv-208708/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Ctv
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1,isla tv
