@@ -15,20 +15,20 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8?checkedby:iptvcat.com
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Canal 14 regional 
 https://glb.bozztv.com/glb/ssh101/videoenvivo/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Canal pyc
-https://rpn3.bozztv.com/ssh101/ssh101/pyctelevision/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Carare tv
 https://cp.panelchs.com:1936/8160/8160/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Onda ambiental 
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tv Peñol 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Canal 1 Perú
+#EXTINF:-1,futurama
 https://cp.panelchs.com:1936/8034/8034/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Mi tv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Tvu bolivia 
-https://video.live.com.bo:3003/live/tvuumsalive.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Misiones cuatro 
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Radio canal sanfrancisco
@@ -47,8 +47,8 @@ https://ssh101.bozztv.com/ssh101/rctvhd104/chunks.m3u8?checkedby:iptvcat.com
 https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Codigo tv
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Global social tv
-https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Guaymate tv hd
 https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Ideal tv
@@ -61,18 +61,18 @@ https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8?checkedby:ipt
 https://ssh101-fl.bozztv.com/ssh101/nisibontv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Prodotel tv
 https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Rocavision 
-https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Su mundo tv
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Tenarenses
-https://vdo2.streamgato.us:3305/live/tenarensestvrdlive.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Cibaeña
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Delta tv
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8?checkedby:iptvcat.com
-#EXTINF:-1, Multivision canal 3
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Tigo sports
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8?checkedby:iptvcat.com
 #EXTINF:1,mtv
@@ -191,16 +191,16 @@ https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8?PlaylistM3UCL
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
 #EXTINF:-1,espn 2 mexico
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1,América tv
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Antena 7 
 https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 #EXTINF:-1,Aza tv
 https://mediacp.us:8081/azatvhd/index.m3u8
 #EXTINF:-1,Azteca internaciónal
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1, canal 12 taigal 
-https://stream.arcast.host:8443/munitar/munitar/chunklist_w1266733481.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Colomé tv
 https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
 #EXTINF:-1,Bein sport xtra
