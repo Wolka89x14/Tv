@@ -1306,8 +1306,8 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w1726890661.m3u8
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 #EXTINF:-1,Agro tv
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1,Ph tv
-https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Nativa HD
 https://ntv.pe/salida/nativa.m3u8
 #EXTINF:-1,
@@ -1448,34 +1448,10 @@ https://hdbox.chunklistv.com/live?stream=megabox
 
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Atv @
 https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1,Cable sur tv 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,Nstv
-https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Farra play 
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1,Trece paraguay
@@ -1488,8 +1464,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel
 https://seo.tv.bo/tv/ISEO-TV-4.m3u8
 #EXTINF:-1,seo tv
 https://seo.tv.bo/tv/ISEO-TV-1.m3u8
-#EXTINF:-1,seo novelas 
-https://seo.tv.bo/tv/ISEO-TV-3.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,digital 5
@@ -1512,44 +1488,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1,Dreawords 
 http://181.119.86.68:8000/play/b013/index.m3u8
-#EXTINF:-1, 
-
-#EXTINF:-1,Universal premier
-http://200.59.188.3:8000/play/a06t
-
-
-#EXTINF:-1, 
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
 #EXTINF:-1,Cine latino 
 http://45.5.117.182:8000/play/a0j5/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
 #EXTINF:-1,Mtv hits
 http://181.78.105.146:8800/play/a047
-#EXTINF:-1,
-
 #EXTINF:-1,cine premier 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
-#EXTINF:-1,
-
 #EXTINF:-1,TVC Network @
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
@@ -1557,7 +1503,7 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 #EXTINF:-1,mundo series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-#EXTINF:-1Acuario tv
+#EXTINF:-1,Acuario tv
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CuYF5lsVqGyusWsGQuhXU5ZNtDs_pNF90mcMR9NAzxtmehZys6UA5LNK7ouKJkoT8G0ThIrUJj2jLw4nh7JuBdzDgpnZzNqxTM6kOM8cc1iaIUQasbtPda9cdmyfK23S9S-rRbMz8RfivF37bAec9QSKQUTcAIkYvDkWunh83QD3Eyz4_rVGCtVRMGEouC6l2R1QOq79tq5XWSGokBQPbqWcfEwa72KOpIIz7ZVuhfU2viUjo86xeocPrL3pT2UeH90jURIZH2luNIpCctmlmVuic25CMbw8xrAsRJD1uk2SafydzuhY9-gOIUUfuePl3W2zYm0Jjel0ZtmOnXrABq4k15M234yu4Pcdxq7QglRg3oM7t72_Zx96G-UseD7-f88BqUTmFQk-jZ5IaN04QpInZ2pP5TOFVlUbILhTd1fH2-LeMOXttnQeC8bp18f91W-5xB8rbok-oWd6UN6z0mikBnfVEXQcMVKfNQdZjugU_XGIsQJBO3qp62sQNvhHqMrKdBbYC6OgOSpBS0LFRRjyPTU1cuF_bWpFrpQEdnixo4W1XZYiv6vBFpfX9h0hqiopo-HSizKgULPOvXHKVnjtjzNlls1wDZf9SKD3HaEPsKtkeMvAhdgbsgIWcQQgWGXDPptCno-WIN8DHk_vCk7VSJfI96fDqhoHM5xIuXjuuMZ3Xr43sRNpDUaeSeIVhLQVXE5vW1qv0OxPIpKv9qREN1vgTyqD0srRO68RQp6R3ZaUgcb6TTBjo6GuGAaNi0hNJ-yxVIEG8RXlEA_mZ978ad8c2T0ZsoJ-m2vSOX1MEGf8poJypR-571yJBMwdT7Pli-1yO_zeGlB1W5fgnCNncP19Zoy14jPebxe_95Ln6pbMkzqkkC7Gzhrp5i5M5KGQA9upP0bEF0k6eEa9Xw0HLd2KgzXgmcw-zDnGGWjA6c7J2QcADTMKCoWISyYiYC7dxs04gpPjkhCA92VSBKAbe0sjBN6JCRoMECusRi67d5pb00z4IAEqCXVzLWVhc3QtMTDoCQ.m3u8
 
 
