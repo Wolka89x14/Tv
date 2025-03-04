@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,Canal 8 Paraguay 
+https://tigocloudgen.desdeparaguay.net:443/satelitaltv/satelitaltv/chunklist_w110037634.m3u8
+#EXTINF:-1,Gen tv Paraguay 
+https://tigocloudgen.desdeparaguay.net:443/gentv/gentv_py_alta/chunklist_w1804387991.m3u8
+#EXTINF:-1,Cotos brutos 2
+https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
+#EXTINF:-1,Ticavision Costarica 
+https://5eac7b031d945.streamlock.net:443/TICAVISION/TICAVISION/chunklist_w979187105.m3u8
+#EXTINF:-1,Energeek 2
+https://streaming-cl.sh1ny.space:443/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=o8CMDaJ3Zos9HSsspevwpx
+#EXTINF:-1,Fanpop 2 
+https://streaming-cl.sh1ny.space:443/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8?session=8eHmyY7SERJ9dxE3T7Kts2
+#EXTINF:-1,Energeek músic 2
+https://stream.wifiexpert.cl:443/energeek/music-247/chunks.m3u8?nimblesessionid=24655
+#EXTINF:-1,Canal 5 del pueblo 
+https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w887928381.m3u8
+#EXTINF:-1,Sport max
+https://streaming-cl.sh1ny.space:443/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8?session=eFrXWHjhm2qpEXteqWhNGE
+#EXTINF:-1,Planeta tv 2
+https://tls-cl.cdnz.cl:443/planetatv/live/chunklist_w492617965.m3u8
+#EXTINF:-1,Cinerama 2 bolivia
+https://owncloud1692001.fasthostunlimited.com:443/hls/0/stream.m3u8
+#EXTINF:-1,Panc tv bolivia 
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/360p.m3u8
+#EXTINF:-1,Panc tv ecuador 
+https://panel.host-live.com:19360/8042/8042.m3u8
+#EXTINF:-1,Panc tv Perú 
+https://panel.host-live.com:19360/20000/20000.m3u8
+#EXTINF:-1,Panc tv argentina 
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1,Fmh movies 
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:-1,City tv 2
+https://stream.gia.tv:443/giatv/giatv-ctycolctycol/ctycolctycol/chunks.m3u8
+
+
 #EXTINF:-1,Fmh kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1,Sumac tv
