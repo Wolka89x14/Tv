@@ -29,8 +29,8 @@ https://panel.host-live.com:19360/20000/20000.m3u8
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1,Fmh movies 
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,hbo
+http://170.39.192.130:2095/56942505562play/060123play/315089
 #EXTINF:-1,Fmh kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1,Sumac tv
@@ -55,8 +55,8 @@ https://cp.panelchs.com:1936/8160/8160/playlist.m3u8?checkedby:iptvcat.com
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tv Peñol 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,
-
+#EXTINF:-1,dftv movie
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/7c216bbd236f34cd57f833572018f2b8/index.m3u8
 #EXTINF:-1,Mi tv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Turrialba sports 
@@ -75,8 +75,8 @@ https://s.emisoras.tv:8081/kerussotv/index.m3u8?checkedby:iptvcat.com
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61&checke
 #EXTINF:-1,Antena 21
 https://ssh101.bozztv.com/ssh101/rctvhd104/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,
-
+#EXTINF:-1,aguila tv
+https://vdo2.streamgato.us:3699/live/aguilatvlive.m3u8
 #EXTINF:-1,Codigo tv
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, Cartago digital
@@ -91,14 +91,14 @@ https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8?checkedby:iptvcat.co
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Nisibotv 24/7
 https://ssh101-fl.bozztv.com/ssh101/nisibontv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,
-
+#EXTINF:-1,canal 18 tv
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1, internacional tv 
 https://ssh101stream.ssh101.com:443/akamaissh101/ssh101/laintertv/chunks.m3u8
 #EXTINF:-1,Su mundo tv
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,
-
+#EXTINF:-1,la tele peru
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
 #EXTINF:-1,Cibaeña
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Delta tv
