@@ -111,8 +111,8 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8?checkedby:iptvcat.com
 http://179.63.36.2:8000/play/a0pd/index.m3u8
 #EXTINF:-1,mtv 2000
 https://zona593.live:8443/play/JxoB_PXAnedltw3863yXcxnGFIUgQTn540nj9Ipv9KQ/ts
-#EXTINF:-1,
-
+#EXTINF:-1,city tv
+http://201.182.250.126:9999/play/a0ob
 #EXTINF:-1,Tele lima 
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
 #EXTINF:-1,Atv
