@@ -105,8 +105,8 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,plous tc
 https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1767395996.m3u8
-#EXTINF:-1,Tigo sports
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:1,mtv
 http://179.63.36.2:8000/play/a0pd/index.m3u8
 #EXTINF:-1,mtv 2000
@@ -700,8 +700,8 @@ http://179.189.222.226:8000/play/ch52
 http://181.78.82.6:46090/play/a052
 #EXTINF:-1,cine jajaj
 https://is.gd/3Le1wq?profile=corgol.m3u8
-#EXTINF:-1,super canal 33
-https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,latina commpila
 http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1,cine picante 
