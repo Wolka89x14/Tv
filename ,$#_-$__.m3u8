@@ -105,8 +105,8 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,plous tc
 https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1767395996.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 6 paraguay 
+https://metromaxtv.net/live/metro/1234/7.m3u8
 #EXTINF:1,mtv
 http://179.63.36.2:8000/play/a0pd/index.m3u8
 #EXTINF:-1,mtv 2000
@@ -181,8 +181,8 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 https://tvlatina.live:1936/8004/8004/playlist.m3u8
 #EXTINF:-1,Vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,opcion tv
+https://metromaxtv.net/live/metro/1234/442.m3u8
 #EXTINF:-1,HBO 2
 http://190.61.42.218:9000/play/a00v
 #EXTINF:-1, HBO Xtreme 
@@ -243,16 +243,16 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1,Canal 4 san Juan 
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,cenovision
+https://metromaxtv.net/live/metro/1234/16.m3u8
 #EXTINF:-1,Canal 45
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1,pelidom
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13266
 #EXTINF:-1,Champion tv
 https://canal.mediaserver.com.co/live/ChampionTv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,teleproyecto
+https://metromaxtv.net/live/metro/1234/518.m3u8
 #EXTINF:-1,Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Claro televisión dominicana 
@@ -300,8 +300,8 @@ https://cdn.streamhispanatv.net:3307/live/canalcxnlive.m3u8
 https://video20.klm99.com:3703/live/megasportlive.m3u8
 #EXTINF:-1,sky liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 21
+https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1,Acción policial 
@@ -370,8 +370,8 @@ http://nxt.plus:8080/jesus01/jesus01/2833
 http://181.78.106.127:9000/play/ca082/index.m3u8
 #EXTINF:-1,warner hd
 http://200.59.188.3:8000/play/a00h
-#EXTINF:-1,
-
+#EXTINF:-1,latinos tv
+https://metromaxtv.net/live/metro/1234/475.m3u8
 #EXTINF:-1, universal Channel 
 http://181.78.78.66:8000/play/a04m
 #EXTINF:-1, universal cinema 
@@ -380,8 +380,8 @@ http://181.78.106.127:9000/play/ca083/index.m3u8
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,comedy central 2
 http://181.78.106.127:9000/play/ca050/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,zonavision
+https://metromaxtv.net/auth/GM2Pcm_JpXJ9VelMAbVQYseTtmhzgO16VP_zMl25poBJY9FwV3rQWkCmEZoyguDK6VnM_8zG82kI4ATlp97xlqAlvZLAFVFqYcfg7CLO-3aoFwCzsR4ohPCHPu1fuL1xqWmN1-TQGHM7uiPrO8KEDrR7EVfn5H2KgAh2nbEJI3_-T5CODkF_EeXI1Epi83YLeuEtpn8EsDGesp2MVuDXlG8irPNR-hSLDe4QL1CDOO5ImC3iBQxlJNkQS38Yrh4r1okrAvy2Z9yF2XP9a5N81NWouxUZkg06SuzqHXWQ48MD5uQebPkr189JDCbKZ1S94R4EdhnDauFCaIzbH5qtsCKKHbsTcVCr9rszaklBRNMtJ6wdxdOp8iXrNKWVI5a_gBnitu2FPmqKZ-KIRIgW1o6XdCZmr85ccWGUJM7xVk8C78yn6mabj52nza3mt3cblViZ5DQ_Wqj19CRTpyHpwFEEZpDX4HV_oFTzKP_lgqb57w8s7cjeQD7BRIL8rofw0kEL1m65fRtq-3aB-YoeXWVVGiUG90Rc6J-DRTQLLmXo49pLxkUfJAQwcqAVsmqrvW9KN35nUXhLw7k-ExX85EwHsjPTklaz_XLBxCnZgBU
 #EXTINF:-1,canal 9 ixchiguan 
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1,retrox
@@ -486,10 +486,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementes
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1, Disney Channel 2
 http://190.61.42.218:9000/play/a01a
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,mi canal
+https://metromaxtv.net/live/metro/1234/521.m3u8
+#EXTINF:-1,elias piña 
+https://metromaxtv.net/live/metro/1234/349.m3u8
 #EXTINF:-1,Play televisión 
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,canal 3 Esquipulas 
@@ -508,8 +508,8 @@ http://181.78.106.127:9000/play/ca023/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
 #EXTINF:-1,Soy plancha tv 
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,morro tv
+https://metromaxtv.net/live/metro/1234/515.m3u8
 #EXTINF:-1,Telecanal 12
 https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 #EXTINF:-1,Telecentro 
@@ -540,8 +540,8 @@ https://s.emisoras.tv:8081/tvcopan/index.m3u8
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1,Tvn 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,merla tv
+https://metromaxtv.net/live/metro/1234/798.m3u8
 #EXTINF:-1,Tv show oruro
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1, américa canal 47 republica dominicana
@@ -706,8 +706,8 @@ https://is.gd/3Le1wq?profile=corgol.m3u8
 http://cdn.adultiptv.net/latina.m3u8
 #EXTINF:-1,cine picante 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
-#EXTINF:-1,
-
+#EXTINF:-1,ztv
+https://metromaxtv.net/live/metro/1234/471.m3u8
 #EXTINF:-1,limon tv
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1,logos tv
