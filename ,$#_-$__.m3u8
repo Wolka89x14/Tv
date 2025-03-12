@@ -1574,7 +1574,7 @@ http://170.39.192.130:2095/56942505562play/060123play/306175
 http://170.39.192.130:2095/56942505562play/060123play/306176
 #EXTINF:-1, tvg-id="" tvg-name="24/7 Masha y el oso" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBkNWQ3OWEtYjUyNy00ODBmLWE3ZTMtOWJhZWYyMmE2MGI1XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Masha y el oso
 http://170.39.192.130:2095/56942505562play/060123play/306177
-#EXTINF:-1, tvg-id="" tvg-name="24/7 La casa de muñecas de Gabby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" group-title="24/7 INFANTILES AYER Y HOY",24/7 La casa de muñecas de Gabby
+#EXTINF:-1, La casa de muñecas de Gabby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" group-title="24/7 INFANTILES AYER Y HOY",24/7 La casa de muñecas de Gabby
 http://170.39.192.130:2095/56942505562play/060123play/306178
 #EXTINF:-1, tvg-id="" tvg-name="24/7 Chip y potato" tvg-logo="https://media.themoviedb.org/t/p/w500/df2OtvZdUgiNhxRoB9cvwTBttrm.jpg" group-title="24/7 INFANTILES AYER Y HOY",24/7 Chip y potato
 http://170.39.192.130:2095/56942505562play/060123play/306179
@@ -1740,18 +1740,17 @@ http://170.39.192.130:2095/56942505562play/060123play/306191
 http://170.39.192.130:2095/56942505562play/060123play/306192
 #EXTINF:-1,tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",Los Simpson T0
 http://170.39.192.130:2095/56942505562play/060123play/306245
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T1" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
+#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T1/2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
 http://170.39.192.130:2095/56942505562play/060123play/306246
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T2
-http://170.39.192.130:2095/56942505562play/060123play/306247
-#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons T3/2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T3/2
 http://170.39.192.130:2095/56942505562play/060123play/306248
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T4" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4
+#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T4/2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T4/2
 http://170.39.192.130:2095/56942505562play/060123play/306249
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T5" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T5
-http://170.39.192.130:2095/56942505562play/060123play/306250
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T6" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T6
-http://170.39.192.130:2095/56942505562play/060123play/306251
+
+
+
 #EXTINF:-1, tvg-id="" tvg-name="The Simpsons T7" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T7
 http://170.39.192.130:2095/56942505562play/060123play/306252
 #EXTINF:-1, tvg-id="" tvg-name="The Simpsons T8" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T8
