@@ -1552,8 +1552,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306131
 http://170.39.192.130:2095/56942505562play/060123play/306132
 #EXTINF:-1,X-men Animado
 http://170.39.192.130:2095/56942505562play/060123play/306134
-#EXTINF:-1,Aquaman
-http://170.39.192.130:2095/56942505562play/060123play/306136
 #EXTINF:-1,Baby Looney Tunes 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/zQoJoxpXDqwNwKTt11wwjAVthDY.jpg" group-title="24/7 INFANTILES AYER Y HOY",Baby Looney Tunes 2
 http://170.39.192.130:2095/56942505562play/060123play/306137
 #EXTINF:-1,Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bakugan
@@ -1576,12 +1574,8 @@ http://170.39.192.130:2095/56942505562play/060123play/306196
 http://170.39.192.130:2095/56942505562play/060123play/306197
 #EXTINF:-1, tvg-id="" tvg-name="Chespirito" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24/7 RETRO",Chespirito
 http://170.39.192.130:2095/56942505562play/060123play/306198
-#EXTINF:-1, tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="24/7 RETRO",Dinosaurios
-http://170.39.192.130:2095/56942505562play/060123play/306201
 #EXTINF:-1, tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 RETRO",El Chapulin Colorado
 http://170.39.192.130:2095/56942505562play/060123play/306203
-#EXTINF:-1, tvg-id="" tvg-name="El Coche Fantastico 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 RETRO",El Coche Fantastico 2
-http://170.39.192.130:2095/56942505562play/060123play/306205
 #EXTINF:-1, tvg-id="" tvg-name="El Zorro 1" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 1
 http://170.39.192.130:2095/56942505562play/060123play/306207
 #EXTINF:-1,Goosebumps
@@ -1592,10 +1586,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306218
 http://170.39.192.130:2095/56942505562play/060123play/306219
 #EXTINF:-1, tvg-id="" tvg-name="La Familia Addams 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJhZTlhNzUtNzAwZC00YjQ2LTkxOGEtNzBmOWVkMmUxNTBiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",La Familia Addams 2
 http://170.39.192.130:2095/56942505562play/060123play/306221
-#EXTINF:-1, tvg-id="" tvg-name="La Isla De Gilligans 1" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="24/7 RETRO",La Isla De Gilligans 1
-http://170.39.192.130:2095/56942505562play/060123play/306223
-#EXTINF:-1,tvg-id="" tvg-name="La Isla De Gilligans 2" tvg-logo="https://pics.filmaffinity.com/La_isla_de_Gilligan_Serie_de_TV-495956950-large.jpg" group-title="24/7 RETRO",La Isla De Gilligans 2
-http://170.39.192.130:2095/56942505562play/060123play/306224
 #EXTINF:-1, tvg-id="" tvg-name="Los magníficos" tvg-logo="https://image.tmdb.org/t/p/w500/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg" group-title="24/7 RETRO",Los magníficos
 http://170.39.192.130:2095/56942505562play/060123play/306227
 #EXTINF:-1, tvg-id="" tvg-name="Magcyver 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",Magcyver 1
@@ -1614,8 +1604,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306238
 http://170.39.192.130:2095/56942505562play/060123play/306241
 #EXTINF:-1,tvg-id="" tvg-name="V Invasion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg" group-title="24/7 RETRO",V Invasion
 http://170.39.192.130:2095/56942505562play/060123play/306242
-#EXTINF:-1, dragón ball 
-http://170.39.192.130:2095/56942505562play/060123play/306182
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Freezer" tvg-logo="https://image.tmdb.org/t/p/original/3bcvSMybffh380rvycwO77YNetl.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Freezer
 http://170.39.192.130:2095/56942505562play/060123play/306183
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Garlick" tvg-logo="https://image.tmdb.org/t/p/original/cOog73ANjkMb6Lhccxthl9zxUAQ.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Garlick
@@ -1630,8 +1618,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306187
 http://170.39.192.130:2095/56942505562play/060123play/306189
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="https://image.tmdb.org/t/p/w500/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Sayayin
 http://170.39.192.130:2095/56942505562play/060123play/306190
-#EXTINF:-1, dragón ball super 
-http://170.39.192.130:2095/56942505562play/060123play/306191
 #EXTINF:-1, tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" group-title="24/7 ZONA DRAGON BALL",Dragon Ball
 http://170.39.192.130:2095/56942505562play/060123play/306192
 #EXTINF:-1, tvg-id="" tvg-name="Ben10 (2)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg" group-title="24/7 INFANTILES AYER Y HOY",Ben10 (2)
