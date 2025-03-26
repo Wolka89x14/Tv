@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1,FIFA+ 
+https://tinyurl.com/ye9c263p?.m3u8
+#EXTINF:-1,Educanal Paraguay 
+https://cloudtv.streaming.com.py:443/educanalpy/educanalpy/chunklist_w1834242532.m3u8
+#EXTINF:-1,Telefuturo Paraguay 
+https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_alta/chunklist_w1254473152.m3u8?k=c903fb308cc0999bf4c2c6771bcf54cb64a5d55d5beffb0a1d89a734e724a434&exp=1742583823
+#EXTINF:-1,Bravo tv argentina 
+https://dsr.ride.com.ar/tvmia/an42/chunks.m3u8
+#EXTINF:-1,+Show México
+https://univtec.g-mana.live/media/9dba5248-a479-4ed6-8aae-4b17120806c5/mainManifest.m3u8
+#EXTINF:-1,Canal 12 México 
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1,Canal 2 quellom chile 
+https://marine2.miplay.cl/canal2quellon/index.m3u8
+#EXTINF:-1,Canal 6 Repretel Costarica 
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1,9 litoral argentina 
+https://stream.arcast.live/ahora/ahora/.m3u8
+#EXTINF:-1,Activa tv España 
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,Amc España 
+http://45.235.37.254/amchd/index.m3u8
+#EXTINF:-1,América Perú 
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1,Atacama chile 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1,Bebeto tv república dominicana 
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+#EXTINF:-1,Bein SPORT usa
+https://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1,Big time España
+https://amogonetworx-bigtjme-2-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1,Big time latino 
+https://tinyurl.com/bkh9b4mx?.m3u8
+#EXTINF:-1,Cable noticias colombia 
+http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
+#EXTINF:-1,Canal 40 caucete argentina 
+https://canalsj.kozow.com/canal40/index.m3u8
+#EXTINF:-1,Canela mexico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1,Canela España
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+#EXTINF:-1,Caracol colombia 
+http://181.78.82.6:46090/play/a05y
+#EXTINF:-1,Claro visión tv república dominicana 
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1,Contivision chile 
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1,Creo tv Perú
+https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
+#EXTINF:-1,Creo tv sports Perú
+https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
+#EXTINF:-1,Ctvd república dominicana 
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1,Discovery h&h 
+http://181.78.105.146:6060/play/a03k
+#EXTINF:-1,Dmax España 
+https://tvnoov.com/fadoo/dmax.m3u8
+
+
+
+
 #EXTINF:-1,z anime hd
 https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,Gen tv Paraguay 
