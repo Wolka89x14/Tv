@@ -15,12 +15,12 @@ https://streaming-cl.sh1ny.space:443/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_
 https://live-evg25.tv360.bitel.com.pe:443/bitel/gtvpisco/chunks.m3u8
 #EXTINF:-1,Sport max
 https://streaming-cl.sh1ny.space:443/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8?session=eFrXWHjhm2qpEXteqWhNGE
-#EXTINF:-1,Planeta tv 2
-https://tls-cl.cdnz.cl:443/planetatv/live/chunklist_w492617965.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Cinerama 2 bolivia
 https://owncloud1692001.fasthostunlimited.com:443/hls/0/stream.m3u8
-#EXTINF:-1,america tv peru
-https://live-evg4.tv360.bitel.com.pe:443/ghzZ4H-EUoVXrQSmcn2QNg/1742320407/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Panc tv ecuador 
 https://panel.host-live.com:19360/8042/8042.m3u8
 #EXTINF:-1,Panc tv Perú 
@@ -45,8 +45,8 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8?checkedby:iptvcat.com
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Iptv patagonia 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,Canal 14 regional 
-https://glb.bozztv.com/glb/ssh101/videoenvivo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,telemas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Carare tv
@@ -69,8 +69,8 @@ http://204.199.3.2/.m3u8?checkedby:iptvcat.com
 https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,canal 506 tv
 https://acceso.radiosportstv.online:3974/hybrid/play.m3u8
-#EXTINF:-1,Keruso tv
-https://s.emisoras.tv:8081/kerussotv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,Pluto tv en directo en vivo 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61&checke
 #EXTINF:-1,Antena 21
@@ -177,8 +177,8 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1,Puruwa tv
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1,Santel
-https://tvlatina.live:1936/8004/8004/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1,canela kids
@@ -205,8 +205,8 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 https://glb.bozztv.com/glb/ssh101/platiniumtv/playlist.m3u8
 #EXTINF:-1,Red 24 bolivia 
 https://inliveserver.com:1936/11012/11012/.m3u8
-#EXTINF:-1,Teen usa 18
-https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Tvu chile 
 https://marine2.miplay.cl/tvu/index.m3u8
 #EXTINF:-1,Vtv canal 32 
@@ -304,8 +304,8 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1,Acción policial 
-https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Sarapiriski
 https://fl1002.bozztv.com/ssh101/sarapiquistreaming.cr/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Latitud 90s
@@ -418,8 +418,8 @@ https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1,Canal 6 panadish
 https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
-#EXTINF:-1,Canal catorce
-https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal dos 
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1,Caracola tv
@@ -722,8 +722,8 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1, tv nosara
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
-#EXTINF:-1,red traficc
-http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,manaclar tv
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/chunklist_w580404940.m3u8
 #EXTINF:-1,punta cana tv
@@ -762,8 +762,8 @@ https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist_w7106070
 https://zona593.live:8443/play/JxoB_PXAnedltw3863yXcyeozMrrhVbrNVSb2Opzsk0/ts
 #EXTINF:-1, clover 
 http://160.20.165.246:8000/play/a006
-#EXTINF:-1,wkaq
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 11 Guatemala 2
 https://d4bee8qaav6x0.cloudfront.net:443/original.m3u8
 #EXTINF:-1,comedy central mexico
@@ -1103,7 +1103,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w2088
 #EXTINF:-1,canal 12 metro
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 #EXTINF:-1,
-https://server2grupocam.com:443/teleunion/TU/chunklist_w1258684281.m3u8
+
 #EXTINF:-1,jimani tv
 https://cloud2.streaminglivehd.com:1936/8246/8246/chunklist_w1450747620.m3u8
 #EXTINF:-1,
@@ -1312,8 +1312,8 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1,Vinilos tv 
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,atb bolivia 
+http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1,20 Señal Perú tv 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1,Cnc Cajamarca 
@@ -1328,8 +1328,8 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1,Mx azteca 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, anime tatal
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1,Ctv internaciónal
 https://mediacp.us:8081/ctvhn/index.m3u8
 #EXTINF:-1,DTv
