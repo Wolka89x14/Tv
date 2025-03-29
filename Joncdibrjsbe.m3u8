@@ -1238,8 +1238,8 @@ https://live.obslivestream.com/canal8/index.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1,plata tv república dominicana 
 https://ss9.domint.net:3032/tvp_str/tvp2111/.m3u8
-#EXTINF:-1, retro plus
-https://ssh101-fl.bozztv.com/ssh101/retroplustv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,playboy Rusia 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/527/index.m3u8
 #EXTINF:-1,telecibao
@@ -1250,8 +1250,8 @@ http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/243/index.m3u8
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1,FMTV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1,tvs
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,rcv honduras 
 https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 #EXTINF:-1,informe tv
@@ -1270,8 +1270,8 @@ https://bst.buin.cl/0.m3u8
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1,rtv oasis peru
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1,rusia nigth
-http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/147/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,radio digital tv
 https://vdo.voxhdnet.com:3159/stream/play.m3u8
 #EXTINF:-1,Senal Colombia
@@ -1296,14 +1296,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1,telemaya
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
-#EXTINF:-1, canal 51
-https://tvcn51.com/hls/cn51480.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,super canal 
 https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,my tv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1,trv
-https://vcp3.myplaytv.com:443/trv/trv/chunklist_w2005717863.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, aguacate tv
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
@@ -1324,8 +1324,8 @@ https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1, Unitel bolivia 
 http://master.tucableip.com/movil/index.m3u8
-#EXTINF:-1,Nativa HD
-https://ntv.pe/salida/nativa.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Auténtica televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,Asiri tv 
@@ -1346,8 +1346,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1,Telecolor 2.5.4
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1,Televisión tarapoto
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Turbo mix radio 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1,Tv cosmos 
@@ -1376,14 +1376,14 @@ http://186.121.206.197/live/daniel/index.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1,Cnc Cajamarca 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1,Conecta2 tv
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1,Tv one
-https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Via televisión 
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1,Mx Tv cuatro 4.2
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Mx azteca 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, anime tatal
@@ -1402,14 +1402,14 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1,Atv @
-https://video.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Cable sur tv 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1,Farra play 
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1,Trece paraguay
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,estrella tv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1,Más tv
@@ -1422,8 +1422,8 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
 #EXTINF:-1,Dreawords 
 http://181.119.86.68:8000/play/b013/index.m3u8
-#EXTINF:-1,Cine latino 
-http://45.5.117.182:8000/play/a0j5/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1,Mtv hits
