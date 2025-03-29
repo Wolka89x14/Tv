@@ -57,12 +57,8 @@ https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 http://181.78.105.146:6060/play/a03k
 #EXTINF:-1,Dmax España 
 https://tvnoov.com/fadoo/dmax.m3u8
+#EXTINF:-1,
 
-
-
-
-#EXTINF:-1,z anime hd
-https://mitv.zplay.cl/ZAnime/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1,Gen tv Paraguay 
 https://tigocloudgen.desdeparaguay.net:443/gentv/gentv_py_alta/chunklist_w1804387991.m3u8
 #EXTINF:-1,Cotos brutos 2
@@ -1000,8 +996,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2369
 https://mc.servidor.stream:19360/8262/8262.m3u8
 #EXTINF:-1,Gogoplay TV
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1,ninja z
-https://mitv.zplay.cl/NinjaZ/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1,
+
 #EXTINF:-1,Mi TV Television Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Teleclasica
