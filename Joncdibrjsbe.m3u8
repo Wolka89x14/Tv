@@ -1068,8 +1068,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1,dreiko
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,invasiva media 
+https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1, recuerdos retro tv chile 
 https://panel.tvstream.cl:1936/8034/8034/.m3u8
 #EXTINF:-1,runtime terror 
@@ -1096,8 +1096,8 @@ http://181.78.106.127:9000/play/ca072
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8
 #EXTINF:-1,la reina tv
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w996720675.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, anime vision
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
 #EXTINF:-1,bum tv
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1,nim tv 
@@ -1110,8 +1110,8 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1, Ayacucho tv Perú 
 https://live-evg25.tv360.bitel.com.pe:443/bitel/andinatv/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,anime vision clasics
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/.m3u8
 #EXTINF:-1,rcn plus 
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,hoy tv peru
@@ -1134,10 +1134,10 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/sqalatv/chunks.m3u8
 https://viewhn.com/telemas/live/playlist.m3u8
 #EXTINF:-1,canal capital colombia 
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,anime tatal 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/taltal/playlist.m3u8
+#EXTINF:-1,anime tatal 3
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 #EXTINF:-1, canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,just for Laughs 
@@ -1150,14 +1150,14 @@ http://190.61.42.218:9000/play/a00u
 https://tinyurl.com/32xdftp2?.m3u8
 #EXTINF:-1,ready tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,aguila tv
+https://vdo2.streamgato.us:3699/live/aguilatvlive.m3u8
 #EXTINF:-1,kino rusia 
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,television del este 
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, Futsal mafer tv
+https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 #EXTINF:-1,canal 12 metro
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 #EXTINF:-1,la mega mundial usa
@@ -1174,8 +1174,8 @@ http://181.78.4.186:8000/play/a0f2
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 #EXTINF:-1,vision 3000
 https://ss3.domint.net:3102/v3_str/v3000/.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,alfa tv
+https://v2.tustreaming.cl/alfatv/playlist.m3u8
 #EXTINF:-1,Telesiglo HD
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1,viva peru
@@ -1198,8 +1198,8 @@ http://vcp4.myplaytv.com:1935/nextv/nextv/.m3u8
 https://is.gd/J1RxBI?profile=corgol.m3u8
 #EXTINF:-1,Crom TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, corazón tv
+https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/28.m3u8
 #EXTINF:-1,Kandela TV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1,imagen universal 
