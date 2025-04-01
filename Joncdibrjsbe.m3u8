@@ -1300,8 +1300,8 @@ https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
 
 #EXTINF:-1,super canal 
 https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,my tv
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1, aguacate tv
