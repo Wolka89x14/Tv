@@ -1296,14 +1296,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2c
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1,telemaya
 https://tv91.hostingnuclear.com:19360/telemaya/telemaya.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,varied tv 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1,super canal 
 https://live.obslivestream.com:443/supercanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,pluto tv horror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=true&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7ad41cf4-cd21-11eb-85d6-0242ac110002&sid=7ad41cf4-cd21-11eb-85d6-0242ac110002&userId=
+#EXTINF:-1,tubi fox sports 
+https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/index_1.m3u8
 #EXTINF:-1, aguacate tv
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Clasico" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Nick Clasico
@@ -1324,8 +1324,8 @@ https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1, Unitel bolivia 
 http://master.tucableip.com/movil/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,pluto tv south park 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Auténtica televisión 
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1,Asiri tv 
@@ -1346,8 +1346,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1,Telecolor 2.5.4
 https://live.obslivestream.com/telecolormux/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,pliro tv e-sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Turbo mix radio 
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1,Tv cosmos 
@@ -1376,14 +1376,14 @@ http://186.121.206.197/live/daniel/index.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1,Cnc Cajamarca 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,nick teen pluto tv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,pluto tv cine romance 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Via televisión 
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,hbo 2 arg
+http://190.60.37.154:45000/play/a052/index.m3u8
 #EXTINF:-1,Mx azteca 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1, anime tatal
@@ -1402,14 +1402,14 @@ https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mtv arg
+http://177.93.46.163:8000/play/a00a
 #EXTINF:-1,Cable sur tv 
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1,Farra play 
 http://159.203.148.226/live/farra.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,la top 107.7 
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1,estrella tv
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv:80/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/2977920/playlist.m3u8?terminate=false&sid=73f1f3b5-9aab-48b7-b385-cc16a962802a&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c28a355-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1,Más tv
@@ -1422,8 +1422,8 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
 #EXTINF:-1,Dreawords 
 http://181.119.86.68:8000/play/b013/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,tooncast
+http://190.2.213.106:8000/play/a00c
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1,Mtv hits
