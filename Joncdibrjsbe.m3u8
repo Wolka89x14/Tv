@@ -7,8 +7,8 @@ https://nxt.plus:8443/jesus01/jesus01/43548
 https://nxt.plus:8443/jesus01/jesus01/227437
 #EXTINF:-1,Bravo tv argentina 
 https://dsr.ride.com.ar/tvmia/an42/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,solar tv 
+https://live-evg25.tv360.bitel.com.pe:443/bitel/solartv/chunks.m3u8
 #EXTINF:-1,usa network 
 https://nxt.plus:8443/jesus01/jesus01/13230
 #EXTINF:-1,Canal 2 quellom chile 
@@ -51,8 +51,8 @@ https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
 #EXTINF:-1,Creo tv sports Perú
 https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1, huanta peru 
+https://live-evg25.tv360.bitel.com.pe:443/bitel/huantatv/chunks.m3u8
 #EXTINF:-1,Discovery h&h 
 http://181.78.105.146:6060/play/a03k
 #EXTINF:-1,Dmax España 
@@ -71,8 +71,8 @@ https://streaming-cl.sh1ny.space:443/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_
 https://streaming-cl.sh1ny.space:443/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8?session=8eHmyY7SERJ9dxE3T7Kts2
 #EXTINF:-1,gtv pisco peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/gtvpisco/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,bella abanquina 
+https://live-evg25.tv360.bitel.com.pe:443/bitel/bellaabanquina/chunks.m3u8
 #EXTINF:-1,dorcel
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/245/index.m3u8
 #EXTINF:-1,Cinerama 2 bolivia
@@ -87,8 +87,8 @@ https://panel.host-live.com:19360/20000/20000.m3u8
 https://panel.host-live.com:19360/20004/20004.m3u8
 #EXTINF:-1,Fmh movies 
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,uyacalina
+https://live-evg25.tv360.bitel.com.pe:443/bitel/utv/chunks.m3u8
 #EXTINF:-1,Fmh kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1,Sumac tv
