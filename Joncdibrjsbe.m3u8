@@ -1270,8 +1270,8 @@ https://bst.buin.cl/0.m3u8
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1,rtv oasis peru
 https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,cable vision peru 
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1,radio digital tv
 https://vdo.voxhdnet.com:3159/stream/play.m3u8
 #EXTINF:-1,Senal Colombia
