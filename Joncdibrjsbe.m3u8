@@ -490,8 +490,8 @@ http://190.60.32.178:8178/play/a0aa/index.m3u8
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1, tele sistema peru
 https://nxt.plus:8443/jesus01/jesus01/160233
-#EXTINF:-1,+ cine chile
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
+#EXTINF:-1,
+
 #EXTINF:-1,Ciudad magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,nicaragua canal 10
@@ -546,8 +546,8 @@ https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 http://190.61.42.218:9000/play/a01a
 #EXTINF:-1,cr comunicaciones 
 https://xhateaec.com:8800/hls/visitor/visitor/ab82296e908418fe4b4409126f7325a8/index.m3u8
-#EXTINF:-1,ally tv 
-https://xhateaec.com:8800/hls/visitor/visitor/64737b0a224545dcd1838e8990497d55/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Play televisión 
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,canal 3 Esquipulas 
@@ -630,8 +630,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3U
 https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
 #EXTINF:-1,t y c sports 
 http://190.61.42.218:9000/play/a01e
-#EXTINF:-1,gaceta tv peru
-https://xhateaec.com:8800/hls/visitor/visitor/04e3c5d9a7ec28197e2996afc90d5490/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,ok tv peru 
 https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
 #EXTINF:-1,red tv chile 
@@ -650,8 +650,8 @@ https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m
 http://181.78.106.127:9000/play/ca031/index.m3u8
 #EXTINF:-1,canal 26 cono sur
 https://nxt.plus:8443/jesus01/jesus01/236983
-#EXTINF:-1,guadalupe tv 
-https://xhateaec.com:8800/hls/visitor/visitor/3541917dc90d34ce3d5465a112b4a4cb/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, palmar tv
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1,f&c
@@ -718,8 +718,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1,canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
-#EXTINF:-1,sucremanta
-https://xhateaec.com:8800/hls/visitor/visitor/7bdceb61781fae16f96f762ac7c96aa0/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 5 lider 
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1,trace latino 
@@ -748,8 +748,8 @@ https://is.gd/SS41Mg?profile=corgol.m3u8
 http://nxt.plus:8080/jesus01/jesus01/24818
 #EXTINF:-1, cotui tv
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
-#EXTINF:-1,mileniun mexico
-https://xhateaec.com:8800/hls/visitor/visitor/201b985c5e35ed207206bf5536a786c8/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,power rangers 
 https://nxt.plus:8443/jesus01/jesus01/225110
 #EXTINF:-1,comedia 24,/7
