@@ -11,8 +11,8 @@ https://xhateaec.com:8800/hls/visitor/visitor/8bffa4bde86780ddd8eb9f5dff9f8fcf/i
 https://live-evg25.tv360.bitel.com.pe:443/bitel/solartv/chunks.m3u8
 #EXTINF:-1,usa network 
 https://nxt.plus:8443/jesus01/jesus01/13230
-#EXTINF:-1,Canal 2 quellom chile 
-https://marine2.miplay.cl/canal2quellon/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal 6 Repretel Costarica 
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,9 litoral argentina 
@@ -53,8 +53,8 @@ https://ott1.hdlatam.tv/live/Creo_TV/playlist.m3u8
 https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
 #EXTINF:-1, huanta peru 
 https://live-evg25.tv360.bitel.com.pe:443/bitel/huantatv/chunks.m3u8
-#EXTINF:-1,Discovery h&h 
-http://181.78.105.146:6060/play/a03k
+#EXTINF:-1,
+
 #EXTINF:-1,Dmax España 
 https://tvnoov.com/fadoo/dmax.m3u8
 #EXTINF:-1,bang hd
@@ -113,12 +113,12 @@ https://cp.panelchs.com:1936/8160/8160/chunklist_w1508870260.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tv Peñol 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,conciencia tv
-https://nxt.plus:8443/jesus01/jesus01/169593
+#EXTINF:-1,
+
 #EXTINF:-1,Mi tv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,dlrectv sports
-https://nxt.plus:8443/jesus01/jesus01/68828
+#EXTINF:-1,
+
 #EXTINF:-1,Misiones cuatro 
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Radio canal sanfrancisco
@@ -137,16 +137,16 @@ https://ssh101.bozztv.com/ssh101/rctvhd104/chunks.m3u8?checkedby:iptvcat.com
 https://live-evg25.tv360.bitel.com.pe:443/bitel/neotv/chunks.m3u8
 #EXTINF:-1,Codigo tv
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,cine latino
-https://nxt.plus:8443/jesus01/jesus01/24648
+#EXTINF:-1,
+
 #EXTINF:-1, meridiano
 https://nxt.plus:8443/jesus01/jesus01/13256
 #EXTINF:-1,Ideal tv
 https://cloud5.idealtv.net/hls/live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,ctv bolivia 
 https://nxt.plus:8443/jesus01/jesus01/228683
-#EXTINF:-1,Marka tv
-https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,
+
 #EXTINF:-1,neo tv arg
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?WebM3UCL
 #EXTINF:-1,canal 18 tv
@@ -167,8 +167,8 @@ https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1767395996.m3u8
 https://nxt.plus:8443/jesus01/jesus01/59143
 #EXTINF:1,tv max panamá 
 https://nxt.plus:8443/jesus01/jesus01/213140
-#EXTINF:-1,mtv 80s
-https://zona593.live:8443/play/JxoB_PXAnedltw3863yXcxnGFIUgQTn540nj9Ipv9KQ/ts
+#EXTINF:-1,
+
 #EXTINF:-1,city tv
 http://201.182.250.126:9999/play/a0ob
 #EXTINF:-1,Tele lima 
@@ -183,20 +183,20 @@ https://cloud37.ecuatel.com/vostv/live/playlist.m3u8
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1, canal 12 salvador 
 https://alba-sv-c12-c12.stream.mediatiquestream.com:443/original.m3u8
-#EXTINF:-1,Evolución tv
-https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
-#EXTINF:-1,mtv 90'
-http://185.236.229.62:9981/play/a07f
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Gm digital 
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:-1,anifun
-https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,caracol internacional 
 https://nxt.plus:8443/jesus01/jesus01/62864
 #EXTINF:-1,espn 2
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1,directv sport 2
-https://nxt.plus:8443/jesus01/jesus01/68829
+#EXTINF:-1,
+
 #EXTINF:-1,Tv más 2
 https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1,Canal 11 Honduras 
@@ -235,8 +235,8 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1,Puruwa tv
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1,tele amazonas 
-https://nxt.plus:8443/jesus01/jesus01/9745
+#EXTINF:-1,
+
 #EXTINF:-1,Vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1,
