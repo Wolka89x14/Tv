@@ -866,12 +866,12 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1,canal 7 guatemala
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1,ctv Guatemala 
-http://181.78.105.146:2000/play/a08s
+#EXTINF:-1, 
+
 #EXTINF:-1,telesistema
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,tele 5
-https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,q tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/qosqo/chunks.m3u8
 #EXTINF:-1,tv linea cusco Perú 
@@ -894,7 +894,7 @@ https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,dhe
 http://181.78.105.146:6060/play/a02m
-#EXTINF:-1,adult swint
+#EXTINF:-1,adult swing
 https://nxt.plus:8443/jesus01/jesus01/243215
 #EXTINF:-1,rtva chile
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
@@ -934,8 +934,8 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1,unitel tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/uniteltv/chunks.m3u8
-#EXTINF:-1,ecotel ecuador
-https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, imperial tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/imperialtv/chunks.m3u8
 #EXTINF:-1,fhm family 
@@ -944,16 +944,16 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1,radioaracaunia chile 
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,fx
-http://181.78.105.146:6060/play/a02j
-#EXTINF:-1,tudn
-http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,costarica channel 
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1,gh república dominicana 
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
-#EXTINF:-1,hola tv
-http://181.78.105.146:6060/play/a03l
+#EXTINF:-1,
+
 #EXTINF:-1,humor mexico 
 https://is.gd/APGr55?profile=corgol.m3u8
 #EXTINF:-1,Magic
@@ -1006,8 +1006,8 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1, nuestra tele 
 http://45.71.37.194:8010/play/a079/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,goog0play 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplayhd/playlist.m3u8
 #EXTINF:-1,Retro TV HD
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1,tele posadas argentina 
