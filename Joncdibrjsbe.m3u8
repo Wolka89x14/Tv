@@ -211,8 +211,8 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/.m3u8
 #EXTINF:-1,unimas hd
 https://nxt.plus:8443/jesus01/jesus01/24524
-#EXTINF:-1,ipersonica
-https://micanal.ovh/livestreams/88.K49r5Iod4QhlOEKP.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Canal 2 misiones argentina
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1,rts hd
@@ -542,16 +542,16 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
 #EXTINF:-1,Onza tv
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-#EXTINF:-1, Disney Channel 2
-http://190.61.42.218:9000/play/a01a
+#EXTINF:-1,
+
 #EXTINF:-1,cr comunicaciones 
 https://xhateaec.com:8800/hls/visitor/visitor/ab82296e908418fe4b4409126f7325a8/index.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,Play televisión 
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1,canal 3 Esquipulas 
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 2 salvador 
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1,RN TELEVISIÓN 
@@ -570,8 +570,8 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/piuratv/chunks.m3u8
 #EXTINF:-1,canal 4 salvador 
 https://nxt.plus:8443/jesus01/jesus01/65708
-#EXTINF:-1,Telecentro 
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,Telecolor 
 https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 #EXTINF:-1,televideo argentina 
@@ -594,8 +594,8 @@ http://38.44.109.41:8003/play/a02v
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tv copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8
-#EXTINF:-1,tv ferrol
-https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,atlantis tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/atlantistv/chunks.m3u8
 #EXTINF:-1,canal 25 ayacucho 
@@ -626,20 +626,20 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1,micro hd república dominicana 
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,fun tv
-https://ssh101-fl.bozztv.com/ssh101/funtvretro/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,t y c sports 
 http://190.61.42.218:9000/play/a01e
 #EXTINF:-1,
 
-#EXTINF:-1,ok tv peru 
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+#EXTINF:-1,
+
 #EXTINF:-1,red tv chile 
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 #EXTINF:-1,boom 
 https://is.gd/Vy9YN2?profile=corgol.m3u8
-#EXTINF:-1, atresplayer comedia 
-https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61/5.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,juliapa tv
 https://nxt.plus:8443/jesus01/jesus01/236984
 #EXTINF:-1,tv aire Paraguay 
@@ -648,8 +648,8 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
 https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m3u8
 #EXTINF:-1,fox sports MX 
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1,canal 26 cono sur
-https://nxt.plus:8443/jesus01/jesus01/236983
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1, palmar tv
@@ -668,8 +668,8 @@ https://nxt.plus:8443/jesus01/jesus01/235975
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1,nitida 
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
-#EXTINF:-1, canela cinema México 
-https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,aion tv
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1,tv quinta chile 
@@ -780,8 +780,8 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1, tv nosara
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
-#EXTINF:-1,hbo family
-http://181.78.105.146:6060/play/a00k
+#EXTINF:-1,
+
 #EXTINF:-1,manaclar tv
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/chunklist_w580404940.m3u8
 #EXTINF:-1,punta cana tv
@@ -790,8 +790,8 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1,sptv32
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-#EXTINF:-1,mc 
-http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,tele uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w929239859.m3u8
 #EXTINF:-1,neox tv españa
