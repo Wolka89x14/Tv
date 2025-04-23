@@ -1044,8 +1044,8 @@ https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/chunklist_w669625048.m3u8
 https://stmv3.voxtvhd.com.br:443/aventurastv/aventurastv/chunklist_w1220432147.m3u8
 #EXTINF:-1,Cosmos tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1,antares tv
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w334845884.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, vive tv Venezuela 
 https://nxt.plus:8443/jesus01/jesus01/188013
 #EXTINF:-1,
@@ -1074,8 +1074,9 @@ https://tv.invasivamedia.com/hls/limtv.m3u8
 https://panel.tvstream.cl:1936/8034/8034/.m3u8
 #EXTINF:-1,runtime terror 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0
-#EXTINF:-1, rselva peru
-https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1,
+
+
 #EXTINF:-1,rsv honduras 
 https://stmv1.srvif.com/rsvhonduras/rsvhonduras/.m3u8
 #EXTINF:-1, multivision honduras 2
