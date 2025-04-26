@@ -113,8 +113,8 @@ https://cp.panelchs.com:1936/8160/8160/chunklist_w1508870260.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tv Peñol 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,simpsomania 
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+#EXTINF:-1,boñado tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/eventosenvivo/playlist.m3u8
 #EXTINF:-1,Mi tv
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,telebocono
@@ -380,8 +380,8 @@ https://live.enhdtv.com:19360/8052/8052.m3u8
 http://38.41.8.1:8000/play/a04x
 #EXTINF:-1,espn 2 Argentina 
 http://181.205.130.194:4000/play/a08n
-#EXTINF:-1,zangoko
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/z0ng0kv/playlist.m3u8
+#EXTINF:-1,wwe en vivo
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cr7star001/playlist.m3u8
 #EXTINF:-1,opinion sur series  
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurs/chunks.m3u8
 #EXTINF:-1,kanade
@@ -626,7 +626,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1,micro hd república dominicana 
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,peralos 
+#EXTINF:-1,petalos tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/peralos/playlist.m3u8
 #EXTINF:-1,t y c sports 
 http://190.61.42.218:9000/play/a01e
@@ -648,10 +648,10 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?WebM3UCL
 https://stmv5.voxtvhd.com.br:443/chilevisual/chilevisual/chunklist_w1135995146.m3u8
 #EXTINF:-1,fox sports MX 
 http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,planeta tv 55
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
+#EXTINF:-1,tv oasis
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/oasistv123/playlist.m3u8
 #EXTINF:-1, palmar tv
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1,f&c
@@ -718,8 +718,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 #EXTINF:-1,canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,caribe tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/caribetv/playlist.m3u8
 #EXTINF:-1,canal 5 lider 
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1,trace latino 
@@ -748,8 +748,8 @@ https://is.gd/SS41Mg?profile=corgol.m3u8
 http://nxt.plus:8080/jesus01/jesus01/24818
 #EXTINF:-1, cotui tv
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, canal maya tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bacab1385/playlist.m3u8
 #EXTINF:-1,power rangers 
 https://nxt.plus:8443/jesus01/jesus01/225110
 #EXTINF:-1,comedia 24,/7
@@ -780,8 +780,8 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
 #EXTINF:-1, tv nosara
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,nueva vision tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1,manaclar tv
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/chunklist_w580404940.m3u8
 #EXTINF:-1,punta cana tv
@@ -790,8 +790,8 @@ https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
 #EXTINF:-1,sptv32
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,retromagico tv 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retromagicochnl/playlist.m3u8
 #EXTINF:-1,tele uno
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w929239859.m3u8
 #EXTINF:-1,neox tv españa
@@ -866,12 +866,12 @@ https://live.obslivestream.com/norselvatv/index.m3u8
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1,canal 7 guatemala
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1,yigo tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/yigo/playlist.m3u8
 #EXTINF:-1,telesistema
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,d'fiesta tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dfiesta2025/playlist.m3u8
 #EXTINF:-1,q tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/qosqo/chunks.m3u8
 #EXTINF:-1,tv linea cusco Perú 
@@ -934,8 +934,8 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://cnn.essastream.com:3091/live/hmtvlive.m3u8
 #EXTINF:-1,unitel tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/uniteltv/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,kpop 3 
+https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1, imperial tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/imperialtv/chunks.m3u8
 #EXTINF:-1,fhm family 
@@ -944,10 +944,10 @@ http://160.20.165.246:8000/play/a01j/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1,radioaracaunia chile 
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,canal 11 argentina 
+https://stream.gia.tv/giatv/giatv-ojodigital/ojodigital/chunks.m3u8
+#EXTINF:-1, multivision argentina 
+https://panel.host-live.com:19360/8250/8250.m3u8
 #EXTINF:-1,costarica channel 
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1,gh república dominicana 
