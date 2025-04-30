@@ -7,8 +7,8 @@ https://nxt.plus:8443/jesus01/jesus01/43548
 https://nxt.plus:8443/jesus01/jesus01/227437
 #EXTINF:-1,ultra tv peru
 https://xhateaec.com:8800/hls/visitor/visitor/8bffa4bde86780ddd8eb9f5dff9f8fcf/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,vz tv peru
+https://vztv.online/live/mysteam_web.m3u8
 #EXTINF:-1,usa network 
 https://nxt.plus:8443/jesus01/jesus01/13230
 #EXTINF:-1,del este 
@@ -1244,7 +1244,7 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1,san isidro 
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
-#EXTINF:-1,vz tv
+#EXTINF:-1,
 
 #EXTINF:-1,Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
@@ -1276,8 +1276,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/cineclub/chunks.m3u8
 https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 #EXTINF:-1,informe tv
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
-#EXTINF:-1,cascara tv
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,red ligth Rusia 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/242/index.m3u8
 #EXTINF:-1,Wow TV
@@ -1378,8 +1378,8 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 https://channel01-onlymex.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1,dtv bolivia
 https://nxt.plus:8443/jesus01/jesus01/189592
-#EXTINF:-1,vnp peru
-https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,intv bolivia 
 https://nxt.plus:8443/jesus01/jesus01/201706
 #EXTINF:-1,win sports+ colombia 2
@@ -1418,8 +1418,8 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1,Televisión metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1,Megabox
-https://hdbox.chunklistv.com/live?stream=megabox
+#EXTINF:-1,
+
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1,mtv arg
@@ -1474,16 +1474,16 @@ http://170.39.192.130:2095/56942505562play/060123play/306112
 http://170.39.192.130:2095/56942505562play/060123play/306113
 #EXTINF:-1,The umbrella
 http://170.39.192.130:2095/56942505562play/060123play/306114
-#EXTINF:-1,Ted lasso
-http://170.39.192.130:2095/56942505562play/060123play/306117
-#EXTINF:-1,Dickinson
-http://170.39.192.130:2095/56942505562play/060123play/306118
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,For all mankind
 http://170.39.192.130:2095/56942505562play/060123play/306119
 #EXTINF:-1,Foundation
 http://170.39.192.130:2095/56942505562play/060123play/306120
-#EXTINF:-1,Servant
-http://170.39.192.130:2095/56942505562play/060123play/306121
+#EXTINF:-1,
+
 #EXTINF:-1,The morning show
 http://170.39.192.130:2095/56942505562play/060123play/306122
 #EXTINF:-1,Truth be told
@@ -1494,11 +1494,11 @@ http://170.39.192.130:2095/56942505562play/060123play/306126
 http://170.39.192.130:2095/56942505562play/060123play/306129
 #EXTINF:-1,Pinky y cerebro
 http://170.39.192.130:2095/56942505562play/060123play/306131
-#EXTINF:-1,Puca" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xQjSUOEQTrCqDoBiEYIrNlajCD.jpg" group-title="24/7 INFANTILES AYER Y HOY",Puca
-http://170.39.192.130:2095/56942505562play/060123play/306132
+#EXTINF:-1,
+
 #EXTINF:-1,X-men Animado
 http://170.39.192.130:2095/56942505562play/060123play/306134
-#EXTINF:-1,Bakugan" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/uW2xawK5brroGov2dyhuT0bUeva.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bakugan
+#EXTINF:-1,Bakugan
 http://170.39.192.130:2095/56942505562play/060123play/306138
 #EXTINF:-1,Beetjuice (r)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ozMDNRtyLp8pNsTZnz094BOwYvj.jpg" group-title="24/7 INFANTILES AYER Y HOY",Beetjuice (r)
 http://170.39.192.130:2095/56942505562play/060123play/306141
@@ -1508,16 +1508,14 @@ http://170.39.192.130:2095/56942505562play/060123play/306174
 http://170.39.192.130:2095/56942505562play/060123play/306175
 #EXTINF:-1,Caballeros del zodiaco
 http://170.39.192.130:2095/56942505562play/060123play/318623
-#EXTINF:-1, tvg-id="" tvg-name="1000 Maneras De Morir" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yKZYX4D30R7ywy6f5yQDuXagSCr.jpg" group-title="24/7 RETRO",1000 Maneras De Morir
+#EXTINF:-1,1000 Maneras de morir 
 http://170.39.192.130:2095/56942505562play/060123play/306195
-#EXTINF:-1, tvg-id="" tvg-name="Art Attack" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/o1QTIgwrkEqjrC4Q6sIWKZ61zcS.jpg" group-title="24/7 RETRO",Art Attack
+#EXTINF:-1,Art Attack
 http://170.39.192.130:2095/56942505562play/060123play/306196
 #EXTINF:-1, tvg-id="" tvg-name="Chespirito" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/fBK5YTjBtyNTyToENeuSQHmLtgF.jpg" group-title="24/7 RETRO",Chespirito
 http://170.39.192.130:2095/56942505562play/060123play/306198
 #EXTINF:-1, tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 RETRO",El Chapulin Colorado
 http://170.39.192.130:2095/56942505562play/060123play/306203
-#EXTINF:-1, tvg-id="" tvg-name="El Zorro 1" tvg-logo="https://image.tmdb.org/t/p/w500/iuo9I7AF6HSs4RdpwHb2QFOkZjk.jpg" group-title="24/7 RETRO",El Zorro 1
-http://170.39.192.130:2095/56942505562play/060123play/306207
 #EXTINF:-1,Goosebumps
 http://170.39.192.130:2095/56942505562play/060123play/306213
 #EXTINF:-1, tvg-id="" tvg-name="KungFu" tvg-logo="https://image.tmdb.org/t/p/original/xdBWz8NZvNIJMXviealiJz1KMSo.jpg" group-title="24/7 RETRO",KungFu
@@ -1528,8 +1526,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306219
 http://170.39.192.130:2095/56942505562play/060123play/306221
 #EXTINF:-1, tvg-id="" tvg-name="Los magníficos" tvg-logo="https://image.tmdb.org/t/p/w500/kZex1zkfMycwmYNJDoArq9ov6Dz.jpg" group-title="24/7 RETRO",Los magníficos
 http://170.39.192.130:2095/56942505562play/060123play/306227
-#EXTINF:-1, tvg-id="" tvg-name="Magcyver 1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="24/7 RETRO",Magcyver 1
-http://170.39.192.130:2095/56942505562play/060123play/306228
 #EXTINF:-1, tvg-id="" tvg-name="Mr Bean" tvg-logo="https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="24/7 RETRO",Mr Bean
 http://170.39.192.130:2095/56942505562play/060123play/306231
 #EXTINF:-1* tvg-id="" tvg-name="Renegado 3" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnvwB6VjLXljXQseRuhZVbt0bEkP.jpg" group-title="24/7 RETRO",Renegado 3
@@ -1538,16 +1534,12 @@ http://170.39.192.130:2095/56942505562play/060123play/306236
 http://170.39.192.130:2095/56942505562play/060123play/306238
 #EXTINF:-1, tvg-id="" tvg-name="Tres chiflados 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres chiflados 2
 http://170.39.192.130:2095/56942505562play/060123play/306241
-#EXTINF:-1,tvg-id="" tvg-name="V Invasion" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1Mzk1NjQyM15BMl5BanBnXkFtZTgwNjY2NDI1MDE@._V1_.jpg" group-title="24/7 RETRO",V Invasion
-http://170.39.192.130:2095/56942505562play/060123play/306242
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Freezer" tvg-logo="https://image.tmdb.org/t/p/original/3bcvSMybffh380rvycwO77YNetl.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Freezer
 http://170.39.192.130:2095/56942505562play/060123play/306183
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="24/7 ZONA DRAGON BALL",Dbz Gt
 http://170.39.192.130:2095/56942505562play/060123play/306185
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Heroes" tvg-logo="https://media.themoviedb.org/t/p/w500/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Heroes
 http://170.39.192.130:2095/56942505562play/060123play/306186
-#EXTINF:-1, tvg-id="" tvg-name="Dbz Kai" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Kai
-http://170.39.192.130:2095/56942505562play/060123play/306187
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Saga Majin Boo" tvg-logo="https://image.tmdb.org/t/p/w500/AksanoqLDDqpr615GU037m0zSKV.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Majin Boo
 http://170.39.192.130:2095/56942505562play/060123play/306189
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="https://image.tmdb.org/t/p/w500/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Sayayin
@@ -1556,8 +1548,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306190
 http://170.39.192.130:2095/56942505562play/060123play/306192
 #EXTINF:-1, tvg-id="" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bugs Bunny
 http://170.39.192.130:2095/56942505562play/060123play/306144
-#EXTINF:-1, tvg-id="" tvg-name="Chapulin anime" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 INFANTILES AYER Y HOY",Chapulin anime
-http://170.39.192.130:2095/56942505562play/060123play/306146
 #EXTINF:-1, tvg-id="" tvg-name="Coyote" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="24/7 INFANTILES AYER Y HOY",Coyote
 http://170.39.192.130:2095/56942505562play/060123play/306148
 #EXTINF:-1, tvg-id="" tvg-name="Don Gato" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8h0c4eP9QWn2BvI1N9uYTQqW09a.jpg" group-title="24/7 INFANTILES AYER Y HOY",Don Gato
@@ -1578,8 +1568,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306157
 http://170.39.192.130:2095/56942505562play/060123play/306158
 #EXTINF:-1, tvg-id="" tvg-name="Mickey Mouse" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/aAJ5T2Ab28vbbP9s6wWqdtK3arQ.jpg" group-title="24/7 INFANTILES AYER Y HOY",Mickey Mouse
 http://170.39.192.130:2095/56942505562play/060123play/306161
-#EXTINF:-1, tvg-id="" tvg-name="Oliver" tvg-logo="http://Vod.matrivagoweb.com:80/images/Qe119QDjBFMoFQrdum5Is9RplPNcGdzB_7PXTasn2PTlOKMmLFslXgs9kyzQp_H19sRVlcX3rqybEsQ5vOd2YGsWIBwh-19yRthrI_cllKvLR7-c1FBiDN18i8_Ub8p0.jpg" group-title="24/7 INFANTILES AYER Y HOY",Oliver
-http://170.39.192.130:2095/56942505562play/060123play/306162
 #EXTINF:-1, tvg-id="" tvg-name="Yu-Gi-Oh" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg" group-title="24/7 INFANTILES AYER Y HOY",Yu-Gi-Oh
 http://170.39.192.130:2095/56942505562play/060123play/306164
 #EXTINF:-1,Jhonny bravo
@@ -1590,8 +1578,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306166
 http://170.39.192.130:2095/56942505562play/060123play/306168
 #EXTINF:-1,tvg-id="" tvg-name="Dinosaurios 2" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/ilwycGvqymMw16Z9AOPWh5ihteZ.jpg" group-title="24/7 RETRO",Dinosaurios 2
 http://170.39.192.130:2095/56942505562play/060123play/306202
-#EXTINF:-1,tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/qF8NDpVBSTDhdLlEjVAhNhfqB8K.jpg" group-title="24/7 RETRO",El Chapulin Colorado
-http://170.39.192.130:2095/56942505562play/060123play/306203
 #EXTINF:-1,tvg-id="" tvg-name="El Coche Fantastico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/sDt5jfNCfdeIbVyEoKXnosDwy03.jpg" group-title="24/7 RETRO",El Coche Fantastico
 http://170.39.192.130:2095/56942505562play/060123play/306204
 #EXTINF:-1,Euphoria (S)
@@ -1602,10 +1588,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306096
 http://170.39.192.130:2095/56942505562play/060123play/306097
 #EXTINF:-1,Almas de metal
 http://170.39.192.130:2095/56942505562play/060123play/306098
-#EXTINF:-1,Sopranos
-http://170.39.192.130:2095/56942505562play/060123play/306099
-#EXTINF:-1, Barry
-http://170.39.192.130:2095/56942505562play/060123play/306100
 #EXTINF:-1,El imperio del contrabando
 http://170.39.192.130:2095/56942505562play/060123play/306101
 #EXTINF:-1,Frena tu entusiasmo
@@ -1614,8 +1596,6 @@ http://170.39.192.130:2095/56942505562play/060123play/306102
 http://170.39.192.130:2095/56942505562play/060123play/306105
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Super 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Super
 http://170.39.192.130:2095/56942505562play/060123play/306191
-#EXTINF:-1,tvg-id="" tvg-name="Dragon Ball 3" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" group-title="24/7 ZONA DRAGON BALL",Dragon Ball
-http://170.39.192.130:2095/56942505562play/060123play/306192
 #EXTINF:-1,tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",Los Simpson T0
 http://170.39.192.130:2095/56942505562play/060123play/306245
 #EXTINF:-1, tvg-id="" tvg-name="The Simpsons T1/2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
