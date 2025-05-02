@@ -602,8 +602,8 @@ https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?PlaylistM3UCL
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1,asmar
 https://ss5.domint.net:3034/astv_str/asmartv/.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 5 el.lider 2
+http://38.180.133.31:8000/play/a0of/index.m3u8
 #EXTINF:-1,Tele universo 
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1,Tele villa
