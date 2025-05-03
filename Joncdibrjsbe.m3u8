@@ -1,4 +1,16 @@
 #EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,mtv 00 2
 https://s.viks.tv/I3wlwt74SrlJ81EGbPaGfw/175/1746296578/index.m3u8
 #EXTINF:-1,FIFA+ 
@@ -738,14 +750,14 @@ https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 https://mediacp.us:8081/jbntv/index.m3u8
 #EXTINF:-1,bta
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, Quilpué tv 
+https://giatv.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 #EXTINF:-1,canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 #EXTINF:-1,caribe tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/caribetv/playlist.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1,positiva tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvpositiva/playlist.m3u8
 #EXTINF:-1,trace latino 
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d187c6c65909bca3a78d1f7408248371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c555677c91adf7e75a5af0bda26240e522dc6ccad1eb9986317b0db0e2a2ab6641e51f9050597634a32f8f90a04800ab07b2e1afc463b0565c3ee5fbd6e29bde477f76339d7f48634290a0f0cc40244f5c60be1bcb8021bc768bfb10c3bcd6d1abad75dc8d71fa580ca5d97478568f0179a828dd48149ded38100f801e3260017772ecece2ac58b19e2d89e6c38c9262a0b4e07e4f2deaf1f3ad60a4259fdad86bd33a6169a8c75846260ee54aab0e55af9031494278034c28e949d2a6236a8cb56632ea197d8e0990612cda87f3f8ba71e4f96e3007007e860dd30223b9187a57c795a95f7c444a617b31e2dd49007d5f5147e6fd1ff29b216ebbdb6bc38524f7110038b58ac8e629b2dd83886c10135590d40a8da66c588cd5f3e664a94ca36be754eed8bdbd38b5c7fa2646a9989bcbc29f113ec4d8c543a3084da0eccc3482b88302ff25b34cf60f3bf23e1a6e132675176bfea4de566e3b90b9da34cf92d74750bbde73404056d73d4fc690434399211bf9398b2265b24ded6ecdce7131a12301b5643bed2b651d5dc93784d46941d7630234b5781129f29fe10590c2bfe1bd1870060ca53727aa8f4691d1247befc9cadcb96c64dbe7a93e8f83a243410238b36173567dcb8c20db3680b5d724f8f02610cec54090cbadb9fbccdd3209fcf33ea156d166ac9f557720854727103d4c53b8010b1c56fd4f1ad7dc2eb9f1d4c814ec15044e4b0d60eaab899a6af6e5f5beac701ea4abab5e2031dbbe4020cf0f2cc8069/25/1280x720_2657600/index.m3u8
 #EXTINF:-1,agenda 56
@@ -920,8 +932,8 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315429
 #EXTINF:-1,adult swing
 https://nxt.plus:8443/jesus01/jesus01/243215
-#EXTINF:-1,
-
+#EXTINF:-1,vibe tv chile 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/vibetv/playlist.m3u8
 #EXTINF:-1,mauletv chile
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,soberania chile 
@@ -1258,8 +1270,8 @@ https://nxt.plus:8443/jesus01/jesus01/53020
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1,Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,free tv terror
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23008&ads.content_duration=18000&ads.episode_id=70732&ads.show_id=2774&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CHorror%2CThriller%2CSpanish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=es&ads.showtitle=FreeTV%20Terror&ads.episodetitle=FreeTV%20Terror&ads.keywords=Horrorfy%2CHorror%2CSci-Fi%2CSpanish%2Cespanol%2Cterror%2Chorror%2Cthriller&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20250503
 #EXTINF:-1,arpegio tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/arpegiotv/chunks.m3u8
 #EXTINF:-1,playboy Rusia 
@@ -1278,8 +1290,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/cineclub/chunks.m3u8
 https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 #EXTINF:-1,informe tv
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 11 zulia 
+https://streaming5.globalhostla.com/rtplive/canalzulia/chunklist_w1524627333.m3u8
 #EXTINF:-1,red ligth Rusia 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/242/index.m3u8
 #EXTINF:-1,Wow TV
@@ -1380,8 +1392,8 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 https://channel01-onlymex.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1,dtv bolivia
 https://nxt.plus:8443/jesus01/jesus01/189592
-#EXTINF:-1,
-
+#EXTINF:-1,trt venezuela
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 #EXTINF:-1,intv bolivia 
 https://nxt.plus:8443/jesus01/jesus01/201706
 #EXTINF:-1,win sports+ colombia 2
@@ -1420,8 +1432,8 @@ https://s.emisoras.tv:8081/metrotv/index.m3u8
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 #EXTINF:-1,Televisión metrópolis 19.2
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,torococo tv
+https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1,Megavisión canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1,mtv arg
@@ -1476,16 +1488,16 @@ http://170.39.192.130:2095/56942505562play/060123play/306112
 http://170.39.192.130:2095/56942505562play/060123play/306113
 #EXTINF:-1,The umbrella
 http://170.39.192.130:2095/56942505562play/060123play/306114
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,g vision chile 
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1,lado oscuro tv chile 
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
 #EXTINF:-1,For all mankind
 http://170.39.192.130:2095/56942505562play/060123play/306119
 #EXTINF:-1,Foundation
 http://170.39.192.130:2095/56942505562play/060123play/306120
-#EXTINF:-1,
-
+#EXTINF:-1, frecuencia Aconcagua chile
+https://v2.tustreaming.cl/frecuencia7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,The morning show
 http://170.39.192.130:2095/56942505562play/060123play/306122
 #EXTINF:-1,Truth be told
@@ -1496,8 +1508,8 @@ http://170.39.192.130:2095/56942505562play/060123play/306126
 http://170.39.192.130:2095/56942505562play/060123play/306129
 #EXTINF:-1,Pinky y cerebro
 http://170.39.192.130:2095/56942505562play/060123play/306131
-#EXTINF:-1,
-
+#EXTINF:-1, sextavision chile 
+https://5ff3d9babae13.streamlock.net/8020/8020/chunklist_w1357842055.m3u8
 #EXTINF:-1,X-men Animado
 http://170.39.192.130:2095/56942505562play/060123play/306134
 #EXTINF:-1,Bakugan
