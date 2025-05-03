@@ -1,16 +1,16 @@
 #EXTM3U
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,Canal 1 chile tv
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1,Radio tv ñuble
+https://paneltv.online:1936/8050/8050/playlist.m3u8
+#EXTINF:-1,Temuco tv 2
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
+#EXTINF:-1,Tv 2 salta argentina 
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1,Solidaria tv argentina 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1,La tele Paraguay 2
+http://181.78.27.128:8000/play/a017/index.m3u8
 #EXTINF:-1,mtv 00 2
 https://s.viks.tv/I3wlwt74SrlJ81EGbPaGfw/175/1746296578/index.m3u8
 #EXTINF:-1,FIFA+ 
