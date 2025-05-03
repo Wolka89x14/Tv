@@ -542,7 +542,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 http://190.60.33.245:4002/play/a0kd
 #EXTINF:-1,tele cadena 7/4
 https://nxt.plus:8443/jesus01/jesus01/35063
-#EXTINF:-1,animenogai 2
+#EXTINF:-1,animeanogai 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1,canal 2 san antonio
 https://nxt.plus:8443/jesus01/jesus01/18153
@@ -578,7 +578,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/canallms/playlist.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 #EXTINF:-1,RN TELEVISIÓN 
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1,animenigai 3
+#EXTINF:-1,animeanogai 3
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
 #EXTINF:-1,canal 49 peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
@@ -628,19 +628,19 @@ http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/cadenatv/chunks.m3u8
 #EXTINF:-1,Uniandes tv
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1,animenogai 4
+#EXTINF:-1,animeanogai 4
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
 #EXTINF:-1,dodo tv chile 
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?WebM3UCL
 #EXTINF:-1,Valle visión
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1,animenogai 5
+#EXTINF:-1,animeanogai 5
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
 #EXTINF:-1,toto vision
 https://nxt.plus:8443/jesus01/jesus01/236982
 #EXTINF:-1,Visión televisión 
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1,animenogai 6
+#EXTINF:-1,animeanogai 6
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 #EXTINF:-1,Vm latino 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
@@ -918,8 +918,8 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315429
 #EXTINF:-1,adult swing
 https://nxt.plus:8443/jesus01/jesus01/243215
-#EXTINF:-1,rtva chile
-https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,mauletv chile
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,soberania chile 
@@ -1256,8 +1256,8 @@ https://nxt.plus:8443/jesus01/jesus01/53020
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1,Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1,mtv 00 2
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/h7vO49LAfCvCt1509OK7uO_VzSMr4H0-OSiBCN8WOrzJu2u-CTXpRksdaRSkHvSX2ezVH1B_oXq9pt5KqxbsdFbWUDsoKRc31ddNpSQezpZ_bDN2vV5eqzx-tgUXrBHxiAeZWPCNHIDc2mxydUYODl98xMaLsdQtpxdf99rzAUE/hls/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,arpegio tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/arpegiotv/chunks.m3u8
 #EXTINF:-1,playboy Rusia 
@@ -1276,8 +1276,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/cineclub/chunks.m3u8
 https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 #EXTINF:-1,informe tv
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
-#EXTINF:-1,mtv españa 2
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/EmjHo1Zk-hFf9wU8wzez-U9IEqMMk5zKB7EDC3kpMWWtwY1Tedyw0_iHOcM2aI5R4bGr8UDRD-dGxZGKEzdsSU5mYwzhDOHo-vgcyufM87hH_turqYoKHemE3XSRwR9HXHjvcDehF-ahkaVjKIRcflWNSrv2aFof6vO32iHX3K8/hls/index.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,red ligth Rusia 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/242/index.m3u8
 #EXTINF:-1,Wow TV
