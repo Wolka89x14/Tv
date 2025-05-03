@@ -257,14 +257,14 @@ https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1,Puruwa tv
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
-#EXTINF:-1,mtv 00
-http://181.189.241.114:5050/play/a039
+#EXTINF:-1,creo tv latino 
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8?uid=8112183
 #EXTINF:-1,Vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1,la mix tv 2 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/lamixtv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,creo kids tv
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8?uid=8112183
 #EXTINF:-1, HBO Xtreme 
 http://45.177.179.227:8000/play/a02f/index.m3u8
 #EXTINF:-1,Colimdo república dominicana 
