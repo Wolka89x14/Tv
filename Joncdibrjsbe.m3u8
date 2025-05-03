@@ -1028,8 +1028,8 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1, nuestra tele 
 http://45.71.37.194:8010/play/a079/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,solar tv peru
+https://live-evg25.tv360.bitel.com.pe/bitel/solartv/chunks.m3u8?uid=8112183
 #EXTINF:-1,Retro TV HD
 https://ssh101.bozztv.com/ssh101/retrotvcr/playlist.m3u8
 #EXTINF:-1,tele posadas argentina 
@@ -1084,8 +1084,8 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 #EXTINF:-1,oriente peru
 https://live.obslivestream.com/tvoriente/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,astros tv
+https://live-evg25.tv360.bitel.com.pe/bitel/astrostv/chunks.m3u8?uid=8112183
 #EXTINF:-1,anime anogai 1
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1,dreiko
@@ -1162,8 +1162,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1,just for Laughs 
 https://distributionsjustepourrire-justforlaughsgags-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,bonita tv peru
+https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8?uid=8112183
 #EXTINF:-1,home health
 http://190.61.42.218:9000/play/a00u
 #EXTINF:-1,kalopi usa
@@ -1192,8 +1192,8 @@ https://nxt.plus:8443/jesus01/jesus01/252441
 http://181.78.4.186:8000/play/a0f2
 #EXTINF:-1,telemax
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 10 rionegro argentina 
+https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/chunklist_w1370126484_b1695744_tkd293emF0b2tlbmVuZHRpbWU9MTc0NjIzOTE2MCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9TWdER2l1aElPUHRDZENuQTdwUUZmalBHaXV1WWd6cHJnZXBtTlJlRW1PTT0=.m3u8
 #EXTINF:-1,alfa tv
 https://v2.tustreaming.cl/alfatv/playlist.m3u8
 #EXTINF:-1,Telesiglo HD
@@ -1244,8 +1244,8 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1,san isidro 
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,tv publica pampea
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/chunklist_w1164681478_b1539935.m3u8
 #EXTINF:-1,Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,tv magica Venezuela 
@@ -1256,8 +1256,8 @@ https://nxt.plus:8443/jesus01/jesus01/53020
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1,Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mtv 00 2
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/h7vO49LAfCvCt1509OK7uO_VzSMr4H0-OSiBCN8WOrzJu2u-CTXpRksdaRSkHvSX2ezVH1B_oXq9pt5KqxbsdFbWUDsoKRc31ddNpSQezpZ_bDN2vV5eqzx-tgUXrBHxiAeZWPCNHIDc2mxydUYODl98xMaLsdQtpxdf99rzAUE/hls/index.m3u8
 #EXTINF:-1,arpegio tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/arpegiotv/chunks.m3u8
 #EXTINF:-1,playboy Rusia 
@@ -1276,8 +1276,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/cineclub/chunks.m3u8
 https://59d39900ebfb8.streamlock.net/rcv/rcv/.m3u8
 #EXTINF:-1,informe tv
 https://vdo1.streamgato.us:3986/live/informetvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,mtv españa 2
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/EmjHo1Zk-hFf9wU8wzez-U9IEqMMk5zKB7EDC3kpMWWtwY1Tedyw0_iHOcM2aI5R4bGr8UDRD-dGxZGKEzdsSU5mYwzhDOHo-vgcyufM87hH_turqYoKHemE3XSRwR9HXHjvcDehF-ahkaVjKIRcflWNSrv2aFof6vO32iHX3K8/hls/index.m3u8
 #EXTINF:-1,red ligth Rusia 
 http://95c5fbc8.ottclub.xyz/iptv/EBUCGK992DRF6L/242/index.m3u8
 #EXTINF:-1,Wow TV
