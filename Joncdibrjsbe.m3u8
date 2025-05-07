@@ -183,8 +183,8 @@ https://nxt.plus:8443/jesus01/jesus01/59143
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 #EXTINF:-1,uva tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
-#EXTINF:-1,city tv
-http://201.182.250.126:9999/play/a0ob
+#EXTINF:-1,
+
 #EXTINF:-1,Tele lima 
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
 #EXTINF:-1,Atv
