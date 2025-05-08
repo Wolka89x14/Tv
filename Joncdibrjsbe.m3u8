@@ -1218,8 +1218,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cnh/playlist.m3u8?uid=8112183
 #EXTINF:-1,uyacali tv 2
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8?uid=8112183
-#EXTINF:-1,
-
+#EXTINF:-1, ultra zona tv costa rica 
+https://acceso.radiosportstv.online:3089/live/ultrazonacrlive.m3u8
 #EXTINF:-1, Warner 
 http://181.78.106.127:9000/play/ca071
 #EXTINF:-1,win sports 
@@ -1238,8 +1238,8 @@ https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/2
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1,imagen universal 
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Teletica 
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=54566007
 #EXTINF:-1,vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Canal 5 Solola
@@ -1258,8 +1258,8 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1,san isidro 
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 2 Costarica 
+https://d30230c1j3h08x.cloudfront.net/index.m3u8
 #EXTINF:-1,Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,tv magica Venezuela 
@@ -1414,8 +1414,8 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,pluto tv cine romance 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,
-
+#EXTINF:-1,canal 3 esquipulas 
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1,hbo 2 arg
 http://190.60.37.154:45000/play/a052/index.m3u8
 #EXTINF:-1,Mx azteca 
@@ -1456,8 +1456,8 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
 #EXTINF:-1,Dreawords 
 http://181.119.86.68:8000/play/b013/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,telenord dominicana 
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 #EXTINF:-1,Quiero música 
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:-1,seo tv películas 
@@ -1471,7 +1471,14 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://ssh101.bozztv.com/ssh101/tvgolguatemala/playlist.m3u8
 #EXTINF:-1,mundo series
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
-
+#EXTINF:-1,cr comunicaciones 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/crcomuniciones/chunks.m3u8
+#EXTINF:-1,color vision 
+https://live-b.cf.dmcdn.net/sec2(H1o9dG63ViCARHqZRIhdadwAm6rfJUqF_-HS2d5vObPvAMKQxJP4ao4D1VWEjrjb6FExUx25CnW92vLwzYjNm-8xCQla_hABTnLGldXGXjdVeAE0Qx-VRQP97w-OnnFN)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+#EXTINF:-1,positiva tv 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvpositiva/playlist.m3u8
+#EXTINF:-1,canal 2 Costarica 
+https://d30230c1j3h08x.cloudfront.net/index.m3u8
 #EXTINF:-1,La casa de papel
 http://170.39.192.130:2095/56942505562play/060123play/306106
 #EXTINF:-1,The witcher
