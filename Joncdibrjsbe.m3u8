@@ -51,8 +51,8 @@ https://tinyurl.com/bkh9b4mx?.m3u8
 http://5ea86ddd14ce7.streamlock.net:1935/live/cable09061970/.m3u8
 #EXTINF:-1,Canal 40 caucete argentina 
 https://canalsj.kozow.com/canal40/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,kanade 
+https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&password=iSfVDKDo2bn4
 #EXTINF:-1,senpai tv
 http://45.184.87.142:8000/play/a021
 #EXTINF:-1,Caracol colombia 
@@ -183,8 +183,8 @@ https://nxt.plus:8443/jesus01/jesus01/59143
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 #EXTINF:-1,uva tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,city tv 
+https://stream.gia.tv/giatv/giatv-cty1604/cty1604/chunks.m3u8
 #EXTINF:-1,Tele lima 
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
 #EXTINF:-1,Atv
@@ -345,8 +345,8 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 http://190.60.48.85:9080/play/a1bi
 #EXTINF:-1,Champion tv
 https://canal.mediaserver.com.co/live/ChampionTv.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 5 santafe argentina 
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1,Cine Sony 
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,sony escape perfecto 
@@ -392,8 +392,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/cositel/chunks.m3u8
 #EXTINF:-1,pritv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tv1251master/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, izervox tv 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/izervox/playlist.m3u8
 #EXTINF:-1,canal 21
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
@@ -420,8 +420,8 @@ http://181.205.130.194:4000/play/a08n
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cr7star001/playlist.m3u8
 #EXTINF:-1,opinion sur series  
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsurs/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, cambrieta tv2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/playlist.m3u8
 #EXTINF:-1, canal 50 Honduras 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/c50hn504/playlist.m3u8
 #EXTINF:-1,tv tica
@@ -476,8 +476,8 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 http://181.78.106.127:9000/play/ca050/index.m3u8
 #EXTINF:-1,huacho tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/huacho/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,ti 506
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/meganettv/chunks.m3u8
 #EXTINF:-1,retrox
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 #EXTINF:-1, multipremier 
@@ -486,8 +486,8 @@ http://181.78.106.127:9000/play/ca087/index.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1,a&e mexico
 http://181.78.106.127:9000/play/ca086
-#EXTINF:-1,
-
+#EXTINF:-1,play futbol tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/proba123/chunks.m3u8
 #EXTINF:-1,teleonce hd honduras 
 https://nxt.plus:8443/jesus01/jesus01/49583
 #EXTINF:-1,Aysen tv
@@ -580,10 +580,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementes
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1,iqtt
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/c89iqttv/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,unicentro tv
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/unicentro2025/chunks.m3u8
+#EXTINF:-1, canal 5 visión latina 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/maxcartoon/chunks.m3u8
 #EXTINF:-1,Play televisión 
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,canal lms
@@ -646,8 +646,8 @@ https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11059
 #EXTINF:-1,dodo tv chile 
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?WebM3UCL
-#EXTINF:-1,
-
+#EXTINF:-1,sarapiqui tv 2
+https://acceso.radiosportstv.online:3458/live/sstv2372live.m3u8
 #EXTINF:-1,animeanogai 5
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
 #EXTINF:-1,toto vision
@@ -656,8 +656,8 @@ https://nxt.plus:8443/jesus01/jesus01/236982
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1,animeanogai 6
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
-#EXTINF:-1,
-
+#EXTINF:-1,360 rftv
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1, Fox sports 2
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1,nim tv
@@ -756,8 +756,8 @@ https://giatv.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/index.fmp4.m3u8
 #EXTINF:-1,caribe tv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/caribetv/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,me cuadra tv retro 
+https://acceso.radiosportstv.online:3778/stream/play.m3u8
 #EXTINF:-1,trace latino 
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573d187c6c65909bca3a78d1f7408248371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c555677c91adf7e75a5af0bda26240e522dc6ccad1eb9986317b0db0e2a2ab6641e51f9050597634a32f8f90a04800ab07b2e1afc463b0565c3ee5fbd6e29bde477f76339d7f48634290a0f0cc40244f5c60be1bcb8021bc768bfb10c3bcd6d1abad75dc8d71fa580ca5d97478568f0179a828dd48149ded38100f801e3260017772ecece2ac58b19e2d89e6c38c9262a0b4e07e4f2deaf1f3ad60a4259fdad86bd33a6169a8c75846260ee54aab0e55af9031494278034c28e949d2a6236a8cb56632ea197d8e0990612cda87f3f8ba71e4f96e3007007e860dd30223b9187a57c795a95f7c444a617b31e2dd49007d5f5147e6fd1ff29b216ebbdb6bc38524f7110038b58ac8e629b2dd83886c10135590d40a8da66c588cd5f3e664a94ca36be754eed8bdbd38b5c7fa2646a9989bcbc29f113ec4d8c543a3084da0eccc3482b88302ff25b34cf60f3bf23e1a6e132675176bfea4de566e3b90b9da34cf92d74750bbde73404056d73d4fc690434399211bf9398b2265b24ded6ecdce7131a12301b5643bed2b651d5dc93784d46941d7630234b5781129f29fe10590c2bfe1bd1870060ca53727aa8f4691d1247befc9cadcb96c64dbe7a93e8f83a243410238b36173567dcb8c20db3680b5d724f8f02610cec54090cbadb9fbccdd3209fcf33ea156d166ac9f557720854727103d4c53b8010b1c56fd4f1ad7dc2eb9f1d4c814ec15044e4b0d60eaab899a6af6e5f5beac701ea4abab5e2031dbbe4020cf0f2cc8069/25/1280x720_2657600/index.m3u8
 #EXTINF:-1,agenda 56
