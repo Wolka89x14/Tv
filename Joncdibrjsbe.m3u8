@@ -392,8 +392,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/cositel/chunks.m3u8
 #EXTINF:-1,pritv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tv1251master/playlist.m3u8
-#EXTINF:-1,sarapiqui
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/sarapiquistreaming.cr/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,canal 21
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
