@@ -580,10 +580,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementes
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1,iqtt
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/c89iqttv/playlist.m3u8
-#EXTINF:-1,cr comunicaciones 
-https://xhateaec.com:8800/hls/visitor/visitor/ab82296e908418fe4b4409126f7325a8/index.m3u8
-#EXTINF:-1, retro tv antigua 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retro/playlist.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 #EXTINF:-1,Play televisión 
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,canal lms
