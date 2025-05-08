@@ -486,8 +486,8 @@ http://181.78.106.127:9000/play/ca087/index.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1,a&e mexico
 http://181.78.106.127:9000/play/ca086
-#EXTINF:-1,Anzoátegui tv
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,teleonce hd honduras 
 https://nxt.plus:8443/jesus01/jesus01/49583
 #EXTINF:-1,Aysen tv
