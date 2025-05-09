@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Canal 1 chile tv
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1,one puch 24/7
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/428539.ts
 #EXTINF:-1,Radio tv ñuble
 https://paneltv.online:1936/8050/8050/playlist.m3u8
 #EXTINF:-1,Temuco tv 2
@@ -31,6 +31,26 @@ https://stream.gia.tv/giatv/giatv-DELESTEENVIVO/DELESTEENVIVO/chunks.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1,9 litoral argentina 
 https://stream.arcast.live/ahora/ahora/.m3u8
+#EXTINF:-1, Futurama 24/7
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/575743.ts
+#EXTINF:-1,laboratorio de dexter 24/7
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/582627.ts
+#EXTINF:-1,orica tv Honduras 
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/672436.ts
+#EXTINF:-1,guatevision
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/9184.ts
+#EXTINF:-1,tooncast
+http://xpaneltv.com:8080/Lizbeth/2282023/51357
+#EXTINF:-1,pit canal 9
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/82
+#EXTINF:-1,canal 11 Nicaragua 
+http://xpaneltv.com:8080/Lizbeth/2282023/154832
+#EXTINF:-1, canal 6 Nicaragua 
+http://xpaneltv.com:8080/Lizbeth/2282023/291538
+#EXTINF:-1,canal 2 Nicaragua 
+http://xpaneltv.com:8080/Lizbeth/2282023/291536
+#EXTINF:-1, teleonce 2 
+http://xpaneltv.com:8080/Lizbeth/2282023/277750
 #EXTINF:-1,sexmex
 https://nxt.plus:8443/jesus01/jesus01/227254
 #EXTINF:-1,Amc España 
@@ -1239,7 +1259,7 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1,imagen universal 
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1,Teletica 
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=54566007
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/14895.ts
 #EXTINF:-1,vision tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Canal 5 Solola
@@ -1356,8 +1376,8 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w1726890661.m3u8
 https://vdo1.streamgato.us:3342/live/televercanal12live.m3u8
 #EXTINF:-1,Agro tv
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1, Unitel bolivia 
-http://master.tucableip.com/movil/index.m3u8
+#EXTINF:-1,unitel bolivia 
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/79397.ts
 #EXTINF:-1,pluto tv south park 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Auténtica televisión 
@@ -1474,7 +1494,7 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1,cr comunicaciones 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/crcomuniciones/chunks.m3u8
 #EXTINF:-1,color vision 
-https://live-b.cf.dmcdn.net/sec2(H1o9dG63ViCARHqZRIhdadwAm6rfJUqF_-HS2d5vObPvAMKQxJP4ao4D1VWEjrjb6FExUx25CnW92vLwzYjNm-8xCQla_hABTnLGldXGXjdVeAE0Qx-VRQP97w-OnnFN)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+http://xpaneltv.com:8080/Lizbeth/2282023/290274
 #EXTINF:-1,positiva tv 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvpositiva/playlist.m3u8
 #EXTINF:-1,canal 2 Costarica 
@@ -1549,32 +1569,30 @@ http://170.39.192.130:2095/56942505562play/060123play/306221
 http://170.39.192.130:2095/56942505562play/060123play/306227
 #EXTINF:-1, tvg-id="" tvg-name="Mr Bean" tvg-logo="https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg" group-title="24/7 RETRO",Mr Bean
 http://170.39.192.130:2095/56942505562play/060123play/306231
-#EXTINF:-1* tvg-id="" tvg-name="Renegado 3" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FnvwB6VjLXljXQseRuhZVbt0bEkP.jpg" group-title="24/7 RETRO",Renegado 3
+#EXTINF:-1,Renegado
 http://170.39.192.130:2095/56942505562play/060123play/306236
-#EXTINF:-1* tvg-id="" tvg-name="Super Agente 86 2" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSgZjh8QP1gm9Yf8aVwyNuFg-MV" group-title="24/7 RETRO",Super Agente 86 2
+#EXTINF:-1,Super Agente 86
 http://170.39.192.130:2095/56942505562play/060123play/306238
-#EXTINF:-1, tvg-id="" tvg-name="Tres chiflados 2" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/6de436686e71fed182d09ac510d018807a939d7a565b8f7fa672e13938e712d4.jpg" group-title="24/7 RETRO",Tres chiflados 2
-http://170.39.192.130:2095/56942505562play/060123play/306241
-#EXTINF:-1, tvg-id="" tvg-name="Dbz Freezer" tvg-logo="https://image.tmdb.org/t/p/original/3bcvSMybffh380rvycwO77YNetl.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Freezer
-http://170.39.192.130:2095/56942505562play/060123play/306183
-#EXTINF:-1, tvg-id="" tvg-name="Dbz Gt" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,fit=contain,width=480,height=720,quality=85/catalog/crunchyroll/3eb79333155a8e87b2f7be64f064c694.jpe" group-title="24/7 ZONA DRAGON BALL",Dbz Gt
-http://170.39.192.130:2095/56942505562play/060123play/306185
+#EXTINF:-1,canal 11 costarica
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/14899.ts
+#EXTINF:-1,digimon 24/7
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/575720.ts
+#EXTINF:-1, canal 10 nicaragua
+https://nxt.plus:8443/jesus01/jesus01/65694
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Heroes" tvg-logo="https://media.themoviedb.org/t/p/w500/8jq6xv5c1WK7KAPOXCsodm8eUxp.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Heroes
 http://170.39.192.130:2095/56942505562play/060123play/306186
-#EXTINF:-1, tvg-id="" tvg-name="Dbz Saga Majin Boo" tvg-logo="https://image.tmdb.org/t/p/w500/AksanoqLDDqpr615GU037m0zSKV.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Majin Boo
-http://170.39.192.130:2095/56942505562play/060123play/306189
-#EXTINF:-1, tvg-id="" tvg-name="Dbz Saga Sayayin" tvg-logo="https://image.tmdb.org/t/p/w500/wBvWfCJyN9uXbkXKxJNTLzeGmme.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Saga Sayayin
-http://170.39.192.130:2095/56942505562play/060123play/306190
-#EXTINF:-1, tvg-id="" tvg-name="Dragon Ball" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/n7FeFLG1DK8LpXYVYEMHNhzRyuu.jpg" group-title="24/7 ZONA DRAGON BALL",Dragon Ball
-http://170.39.192.130:2095/56942505562play/060123play/306192
+#EXTINF:-1,yes tv Costarica 
+https://cootv.cootel.com.ni:8095/Canal24_YesTV/playlist.m3u8
+#EXTINF:-1,tv sur canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1, canal 8 nicaragua 
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?
 #EXTINF:-1, tvg-id="" tvg-name="Bugs Bunny" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5xBZf79KRD3cQjOkkwdS1IDmuyX.jpg" group-title="24/7 INFANTILES AYER Y HOY",Bugs Bunny
 http://170.39.192.130:2095/56942505562play/060123play/306144
 #EXTINF:-1, tvg-id="" tvg-name="Coyote" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/76rz994icSRNHBZuAHmsRwVROsy.jpg" group-title="24/7 INFANTILES AYER Y HOY",Coyote
 http://170.39.192.130:2095/56942505562play/060123play/306148
 #EXTINF:-1, tvg-id="" tvg-name="Don Gato" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/8h0c4eP9QWn2BvI1N9uYTQqW09a.jpg" group-title="24/7 INFANTILES AYER Y HOY",Don Gato
 http://170.39.192.130:2095/56942505562play/060123play/306149
-#EXTINF:-1, tvg-id="" tvg-name="Dos perros tontos (r)" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/3Lyc5VqhTqq76vmKUn1an8rlnP7.jpg" group-title="24/7 INFANTILES AYER Y HOY",Dos perros tontos (r)
-http://170.39.192.130:2095/56942505562play/060123play/306151
 #EXTINF:-1, tvg-id="" tvg-name="El Galactico" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/v698D2DB3oPzau6W55tiA2QI4Eu.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Galactico
 http://170.39.192.130:2095/56942505562play/060123play/306152
 #EXTINF:-1, tvg-id="" tvg-name="El Gato Cosmico Doraemon" tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9ZN1P32SHviL3SV51qLivxycvcx.jpg" group-title="24/7 INFANTILES AYER Y HOY",El Gato Cosmico Doraemon
@@ -1612,16 +1630,17 @@ http://170.39.192.130:2095/56942505562play/060123play/306098
 #EXTINF:-1,El imperio del contrabando
 http://170.39.192.130:2095/56942505562play/060123play/306101
 #EXTINF:-1,viva canal 13
-https://live-b.cf.dmcdn.net/sec2(ajclatVjv_6XZCAgMhyM_b4VZjlo4BUpuZsjlchVUJHiYg-Q_Tv2LwpX_u1Qfc7i7MW-lbKXJDSFcxr_gqW2y8KEz_hEuLHhVqIk4an_1atqMB-BdK-BwcFC1FyTv0-Q)/dm/3/x7u200z/s/live-480.m3u8#cell=lcfb
+http://pandatv-stream.com:8080/live/Brayan123/Brayan123/785149d5-aec6-4f9b-aaa3-7665168081a5.m3u
 #EXTINF:-1,Stranger Things
 http://170.39.192.130:2095/56942505562play/060123play/306105
 #EXTINF:-1, tvg-id="" tvg-name="Dbz Super 2" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_FMjpg_UX1000_.jpg" group-title="24/7 ZONA DRAGON BALL",Dbz Super
 http://170.39.192.130:2095/56942505562play/060123play/306191
 #EXTINF:-1,tvg-id="" tvg-name="Los Simpson T0" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",Los Simpson T0
 http://170.39.192.130:2095/56942505562play/060123play/306245
-#EXTINF:-1, tvg-id="" tvg-name="The Simpsons T1/2" tvg-logo="https://es.web.img2.acsta.net/pictures/14/02/11/12/56/318203.jpg" group-title="24/7 ZONA SIMPSON",The Simpsons T1
-http://170.39.192.130:2095/56942505562play/060123play/306246
-
+#EXTINF:-1,canela novelas turcas 
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/cb573d177a6c648e93d43665cef949824d371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c545677c91adf7e75a5af0bda26240e522dc6ccad0ab99a6317b0dc0f232ab6641e50fb1064d22e4365cfa05a29952db97c3216ea2267427dd8ee5eb37554d59871f31b54f7b1cd3d60260f4fe8080ebeff47b399b41f068133ffae1856953f36bfc01d948103ba83d1459e5d8176f51d8393f18ac36dddd4c83ffc47d1350f593074d6d52ac4870ee098de3a699d257c1f460dabf191fd1671d716450cb5fdc8ea61b244cbd974d73462ea59c81f856ae401c800a49326cacb92fe601074f39e220b4da1f5b0b5f9203db96afed082b71a7f98f81174468779ce784052f3f1c600f6a77ff49802dfc1037039d0817a8889bd91ea8f98589057aead96b61c1839096b06834bab9968e425dc76afdb1226593f20c7f850d7dca6345a775cb9904cdd051abac2f9f2b56135df6c1765fd73e64b1765da356f65bf5d93f2356a88191e9c2538893c5fe26cdde2469fc4dfeb1249d6b4a612a50385d009dde612a81f5f3363e3a86135264874d49c206774299513bcd59db0254451b8a7ceb39406600474150558d3afbe729f88c32a45439357763646eb76fc77bed74280287a4cea3191c42a7b89092c2fefa64d25300ea5e9c14f034ba83ed84cdcdae9316f1a5466af3a062714a1de65ab7d5939154a54850b6140a8024956ebd78c8d1b14d1afee0799194c6e1ae1f507401b46726e0f958467975ae7d32eb895de5dc2eb88000fed56c55748cf808d3eaaa8e96f2e7e432044cc120ca807bc207e94448708ba723ab69158030e3543498dac5bf850addea01d4af0eacc620c64e374b79dace6983616afbd433d26110e575e5c723e03b1de95355520acee74b70fc2d974886073731d52d78e0411a7d8243dd2672a30fcf09ec5fd9b565eeb3caf35de764ae6761d3eedc90fef8199faeec83a075797e5fd0cf38aa0b5e1fa866672026735dbe65a567cd76fb0ba02f3be1473e1c6dfab8a2eb47df03ab681f97fb769ee9bf259fec4c4b0aa26461e7758fec8fbff54e8bd0c44a97294187e4fd2d9b2860891bd9d097cf852e981750cff6b043dc3c8aa5d9dcbd973a9ba47e16383504ca4bbbd9e6bf28db5642b58ed/195/1920x1080_6423560/index.m3u8
+#EXTINF:-1,canela pasion latina 
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/cb573d177a6c648e93d43665cef949824d371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c545677c91adf7e75a5af0bda26240e522dc6ccad0ab99a6317b0dc0f232ab6641e50fb1064d22e4365cfa05a29952db97c3216ea2267427dd8ee5eb37554d59871f31b54f7b1cd3d60260f4fe8080ebeff47b399b41f068133ffae1856953f36bfc01d948103ba83d1459e5d8176f51d8393f18ac36dddd4c83ffc47d1350f593074d6d52ac4870ee098de3e3b9d2471131f57abf191fd1671d716450cb5a69aeb31b24b9cdd75d13262bd569a1ad56ae601cf0aa8f15ea1dfd8b5231163ddae316037b0daa29ff5313fb81490c880de72729cfa153653df37b34848349de9b970eea13bb7ec54efdb6d182ec99240a491b38de8a58c4d9957aead969d2e18030967068f59d0dc079f798b2ef0c844700e0015f9ca5689d28c06332f4dd1d406994a19bddd8880875b69ce304d00970ab34e1653dc26656ae42ee0e84d06e6281f893902ee4b0a9050f5ae2df6be818b6c59bcddb52a9509c6942883bb55f318563403a3e2134c51436fd5d1731f3c0ba72f86fdebbb1d6363e8f9d98ca33959576367386482e4e64f8f97d02c6f72ab31084146eb76fc77bed74280287a4cea3191c42a7b89092c2fefa64d25300ea5e9c14f034ba83ed84cdcdae9316f1a5466af3a062714a1de65ab7d5939154a54850b6140a8024956ebd78c8d1b14d1afee0799194c6e1ae1f507401b46726e0f958467975ae7d32eb895de5dc2eb88000fed56c55748cf808d3eaaa8e96f2e7e432044cc120ca807bc207e94448708ba723ab69158030e3543498dac5bf850addea01d4af0eacc620c64e374b79dace6983616afbd433d26110e575e5c723e03b1de95355520acee74b70fc2d974886073731d52d78e0411a7d8243dd2672a30fcf09ec5fd9b565eeb3caf35de764ae6761d3eedc90fef8199faeec83a075797e5fd0cf38aa0b5e1fa866672026735dbe65a567cd76fb0ba02f3be1473e1c6dfab8a2eb47df03ab681f97fb769ee9bf259fec4c4b0aa26461e7758fec8fbff54e8bd0c44a97294187e4fd2d9b2860891bd9d097cf852e981750cff6b043dc3c8aa5698cbd975a8ba47e10f91316e72d8382cec27b510f6f4ee01/120/1920x1080_6423560/index.m3u8
 
 
 
