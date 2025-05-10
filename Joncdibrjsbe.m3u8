@@ -79,8 +79,8 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=deM0kanADeweB&pas
 http://45.184.87.142:8000/play/a021
 #EXTINF:-1,Caracol colombia 
 http://181.78.82.6:46090/play/a05y
-#EXTINF:-1,magic kids tv
-https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
+#EXTINF:-1,food network
+http://xpaneltv.com:8080/Lizbeth/2282023/51216
 #EXTINF:-1,Contivision chile 
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1,Creo tv Perú
@@ -127,8 +127,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/utv/chunks.m3u8
 #EXTINF:-1,Fmh kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
-#EXTINF:-1,Sumac tv
-https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
+#EXTINF:-1,el baron rojo 24/7
+http://xpaneltv.com:8080/Lizbeth/2282023/302181
 #EXTINF:-1,Inka tv
 https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
 #EXTINF:-1,Pop cors tv
@@ -161,8 +161,8 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8?checkedby:iptvc
 http://204.199.3.2/.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,as tv 
 https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,canal 506 tv
-https://acceso.radiosportstv.online:3974/hybrid/play.m3u8
+#EXTINF:-1,tigo sports Guatemala 
+http://xpaneltv.com:8080/Lizbeth/2282023/234465
 #EXTINF:-1,play boy
 https://nxt.plus:8443/jesus01/jesus01/1177
 #EXTINF:-1,Pluto tv en directo en vivo 
@@ -322,7 +322,7 @@ https://nxt.plus:8443/jesus01/jesus01/189593
 #EXTINF:-1,Red 24 bolivia 
 https://inliveserver.com:1936/11012/11012/.m3u8
 #EXTINF:-1,espn mexico
-http://181.78.106.127:9000/play/ca033
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/591978.ts
 #EXTINF:-1,Tvu chile 
 https://marine2.miplay.cl/tvu/index.m3u8
 #EXTINF:-1,Vtv canal 32 
@@ -402,7 +402,7 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/102905
 #EXTINF:-1,opinion sur cine
 https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1,teen nick 2
-https://nxt.plus:8443/jesus01/jesus01/187989
+http://xpaneltv.com:8080/Lizbeth/2282023/51353
 #EXTINF:-1,red digital tv 2
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/reddigital/playlist.m3u8
 #EXTINF:-1,comunicaciones 2 
@@ -460,10 +460,14 @@ http://38.44.109.41:8003/play/a001
 https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
 #EXTINF:-1,tvc ecuador
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com:443/live_0.m3u8
-#EXTINF:-1,golden premier 
-http://45.184.87.142:8000/play/a03a
+#EXTINF:-1,golden edge
+http://xpaneltv.com:8080/Lizbeth/2282023/49452
+#EXTINF:-1,golden plus
+http://xpaneltv.com:8080/Lizbeth/2282023/51227
+#EXTINF:-1,golden premier
+https://nxt.plus:8443/jesus01/jesus01/196524
 #EXTINF:-1, Golden premier 2 
-http://200.125.170.121:8000/play/a00m
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/46141.ts
 #EXTINF:-1, nueva visión 14 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1,punto tv bolivia 
@@ -562,8 +566,8 @@ http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/60.m3u8
 https://video2.lhdserver.es/pjtv/live.m3u8
 #EXTINF:-1, tele costa 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1,caracol 2 hd
-http://181.78.14.26:8000/play/a00d
+#EXTINF:-1,caracol internacional 2
+http://xpaneltv.com:8080/Lizbeth/2282023/49672
 #EXTINF:-1,the walking dead
 https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,rcn hd 
@@ -638,8 +642,8 @@ http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/65.m3u8
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 #EXTINF:-1,luna vision Guatemala 
 http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/84.m3u8
-#EXTINF:-1,canal 5 el.lider 2
-http://38.180.133.31:8000/play/a0of/index.m3u8
+#EXTINF:-1,canal 5 el lider 
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/9189.ts
 #EXTINF:-1,Tele universo 
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1,Tele villa
