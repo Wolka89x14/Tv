@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,guatevision 
+https://nxt.plus:8443/orlindf/334123/49861
+#EXTINF:-1,40 y 20 
+https://nxt.plus:8443/orlindf/334123/238784
 #EXTINF:-1,
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/62801.m3u8
 #EXTINF:-1,star channel españa
@@ -257,8 +261,8 @@ https://stream.arcast.live/ahora/ahora/.m3u8
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/575743.ts
 #EXTINF:-1,laboratorio de dexter 24/7
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/582627.ts
-#EXTINF:-1,guatevision
-http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/9184.ts
+#EXTINF:-1,
+
 #EXTINF:-1,pit canal 9
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/82
 #EXTINF:-1,Amc España 
