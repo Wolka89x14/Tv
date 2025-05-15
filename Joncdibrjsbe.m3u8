@@ -63,6 +63,8 @@ http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/32888.m3u8
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/160790.m3u8
 #EXTINF:-1,Caracol internacional 
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/30317.m3u8
+#EXTINF:-1, Discovery theatre
+http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/63923.m3u8
 #EXTINF:-1,Unimas hd 
 https://nxt.plus:8443/orlindf/334123/25703
 #EXTINF:-1,Bein sports ñ 3
@@ -423,8 +425,8 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 https://tinyurl.com/4z3cwea2
 #EXTINF:-1,milenial tv 2 peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/milenial/chunks.m3u8
-#EXTINF:-1, Discovery theatre 
-http://190.61.42.218:9000/play/a01m
+#EXTINF:-1,
+
 #EXTINF:-1,8 valle del unco argentina 
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1,Alphasufert Colombia 
