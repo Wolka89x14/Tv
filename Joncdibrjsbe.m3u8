@@ -271,8 +271,8 @@ https://stream.arcast.live/ahora/ahora/.m3u8
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/575743.ts
 #EXTINF:-1,laboratorio de dexter 24/7
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/582627.ts
-#EXTINF:-1,
-
+#EXTINF:-1,kbo peru
+https://live-evg25.tv360.bitel.com.pe/bitel/kbo/playlist.m3u8?uid=8112183
 #EXTINF:-1,pit canal 9
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/82
 #EXTINF:-1,Amc España 
@@ -345,8 +345,8 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8?checkedby:iptvcat.com
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Iptv patagonia 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,
-
+#EXTINF:-1,canal dubtv peru
+https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8?uid=8112183
 #EXTINF:-1,telemas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Onda ambiental 
@@ -427,8 +427,8 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 https://tinyurl.com/4z3cwea2
 #EXTINF:-1,milenial tv 2 peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/milenial/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal n peru 2
+https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=8112183
 #EXTINF:-1,8 valle del unco argentina 
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1,Alphasufert Colombia 
@@ -449,8 +449,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/tvchincha/chunks.m3u8
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1,isla tv
 https://59d39900ebfb8.streamlock.net/islatv/islatv/chunklist_w2048153656.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,teleamazonica peru 
+https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/playlist.m3u8?uid=8112183
 #EXTINF:-1,directv +
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85008
 #EXTINF:-1,Ng radio tv
@@ -507,8 +507,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/malutv/chunks.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/playlist.m3u8
 #EXTINF:-1,Bein sport xtra
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-#EXTINF:-1,Cable sur tv
-https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1, onda 2 tv peru 2
+https://live-evg25.tv360.bitel.com.pe/bitel/onda/chunks.m3u8?uid=8112183
 #EXTINF:-1,pintuco tv
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1,Canal 4 san Juan 
@@ -564,8 +564,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/cositel/chunks.m3u8
 #EXTINF:-1,pritv
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tv1251master/playlist.m3u8
-#EXTINF:-1, izervox tv 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/izervox/playlist.m3u8
+#EXTINF:-1,canal multi 24 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 #EXTINF:-1,canal 21
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
@@ -582,8 +582,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/36tv/chunks.m3u8
 http://181.143.230.202:8000/play/a02p/index.m3u8
 #EXTINF:-1,Cristal tv argentina 
 https://live.enhdtv.com:19360/8052/8052.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,gen tv 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gentv/playlist.m3u8
 #EXTINF:-1,espn 2 Argentina 
 http://181.205.130.194:4000/play/a08n
 #EXTINF:-1,wwe en vivo
@@ -1022,8 +1022,8 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315430
 https://live-evg25.tv360.bitel.com.pe:443/bitel/qosqo/chunks.m3u8
 #EXTINF:-1,tv linea cusco Perú 
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
-#EXTINF:-1,gen tv
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1,canal 14 nusva vision hd
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1,cattotv chile
 https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,death note 
@@ -1038,8 +1038,8 @@ https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,disney marvel 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315429
-#EXTINF:-1,
-
+#EXTINF:-1,tv alajuelense 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvalajuela/playlist.m3u8
 #EXTINF:-1,mauletv chile
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,soberania chile 
@@ -1094,8 +1094,8 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 https://is.gd/APGr55?profile=corgol.m3u8
 #EXTINF:-1,Magic
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 30 mx
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canal30mx/playlist.m3u8
 #EXTINF:-1,emocion tv chile 
 https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,Big TV
@@ -1204,8 +1204,8 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,via alto mayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,magic argentina premium 
+https://stream.gia.tv/giatv/giatv-Premium/Premium/playlist.m3u8
 #EXTINF:-1,la reina tv
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w996720675.m3u8
 #EXTINF:-1, anime vision
@@ -1266,8 +1266,8 @@ https://vdo2.streamgato.us:3699/live/aguilatvlive.m3u8
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,television del este 
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
-#EXTINF:-1, Futsal mafer tv
-https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
+#EXTINF:-1,toonami tv
+https://stream.gia.tv/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1,canal 12 metro
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 #EXTINF:-1,la mega mundial usa
@@ -1292,8 +1292,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cnh/playlist.m3u8?uid=8112183
 #EXTINF:-1,uyacali tv 2
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8?uid=8112183
-#EXTINF:-1,
-
+#EXTINF:-1,orbit tv hd
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1, Warner 
 http://181.78.106.127:9000/play/ca071
 #EXTINF:-1,win sports 
