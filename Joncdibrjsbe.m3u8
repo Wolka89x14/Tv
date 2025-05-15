@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,
+http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/62801.m3u8
 #EXTINF:-1,star channel españa
 http://espronewtt.top:8080/ES0182174085595350/01741025694808/27
 #EXTINF:-1,Maxima TV 
@@ -1188,8 +1190,8 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,via alto mayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1,space
-http://181.78.106.127:9000/play/ca072
+#EXTINF:-1,
+
 #EXTINF:-1,la reina tv
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w996720675.m3u8
 #EXTINF:-1, anime vision
