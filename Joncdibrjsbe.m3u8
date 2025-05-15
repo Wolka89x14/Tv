@@ -1020,8 +1020,8 @@ https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
 https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,disney marvel 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315429
-#EXTINF:-1,vibe tv chile 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/vibetv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,mauletv chile
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,soberania chile 
@@ -1274,8 +1274,8 @@ https://live.obslivestream.com/vivatv/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/cnh/playlist.m3u8?uid=8112183
 #EXTINF:-1,uyacali tv 2
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/chunks.m3u8?uid=8112183
-#EXTINF:-1, ultra zona tv costa rica 
-https://acceso.radiosportstv.online:3089/live/ultrazonacrlive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1, Warner 
 http://181.78.106.127:9000/play/ca071
 #EXTINF:-1,win sports 
