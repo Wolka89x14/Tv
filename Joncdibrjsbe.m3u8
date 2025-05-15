@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,e tv 
+http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/62548.m3u8
 #EXTINF:-1,starz encore clasic
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/102326.m3u8
 #EXTINF:-1,guatevision 
@@ -337,8 +339,8 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8?checkedby:iptvcat.com
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Iptv patagonia 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,e tv México 
-http://190.83.2.172:8080/play/a02y
+#EXTINF:-1,
+
 #EXTINF:-1,telemas
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Onda ambiental 
