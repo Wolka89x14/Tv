@@ -92,11 +92,11 @@ http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/163702.m3u8
 #EXTINF:-1,Espn mex 2
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/31123.m3u8
 #EXTINF:-1,Tele estrella tv
-
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 #EXTINF:-1,Amitel 
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1,Red uno bolivia 
-https://nxt.plus:8443/orlindf/334123/172752
+http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/30401.m3u8
 #EXTINF:-1,Cadena a bolivia 
 https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1,Plus tv bolivia 
