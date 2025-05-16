@@ -143,8 +143,8 @@ https://cdn.streamhispanatv.net:3432/live/turansatvlive.m3u8
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/77099.m3u8
 #EXTINF:-1,Juliapa tv
 https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
-#EXTINF:-1,San José total chile 
-
+#EXTINF:-1,canal 26 quezada Guatemala 
+https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
 #EXTINF:-1,Directv 1
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/75569.m3u8
 #EXTINF:-1,Studio universal 
@@ -198,7 +198,7 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(lnY26SHqIx-bvcN0-VnuSA0JOU1lxvPO_Bhe
 #EXTINF:-1,Cine estelar
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/148901.ts
 #EXTINF:-1,Vive tv Venezuela 
-https://cloud.odysee.live/content/fed20cff907550b0c7d83991fb3630e2a9f90454/master.m3u8
+https://nxt.plus:8443/play/YdBcjkKUe58E-E4ijTFlmzivDHQkmXOYUMFGy990kYs/m3u8
 #EXTINF:-1,trv Aragua 
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1,Reforma tv chile 
@@ -220,11 +220,11 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1,Agro tv Perú 
 https://live-evg25.tv360.bitel.com.pe/bitel/agro/playlist.m3u8?uid=8112183
 #EXTINF:-1,Cvc bolivia 
-
+https://nxt.plus:8443/play/YdBcjkKUe58E-E4ijTFlmyZM3iXfcW5jtRJZRj8Xrm4/m3u8
 #EXTINF:-1,Tv cosmos 
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1,Dtv bolivia 
-
+https://nxt.plus:8443/play/YdBcjkKUe58E-E4ijTFlm8ZBLX27feT89sy4ufFWHc4/m3u8
 #EXTINF:-1,In tv bolivia 
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 #EXTINF:-1,Seo tv películas
