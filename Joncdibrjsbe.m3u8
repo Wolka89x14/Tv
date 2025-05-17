@@ -580,10 +580,10 @@ http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/2431.ts
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,opinion sur series 
+https://stream.gia.tv/giatv/giatv-opinionsurs/opinionsurs/playlist.m3u8
+#EXTINF:-1,opinion sur cine
+https://stream.gia.tv/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 #EXTINF:-1,Latitud 90s
 https://paneltv.online:1936/8096/8096/playlist.m3u8
 #EXTINF:-1,36 tv huacho peru
