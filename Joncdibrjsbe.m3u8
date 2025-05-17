@@ -553,8 +553,8 @@ https://video20.klm99.com:3395/live/meganethitslive.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/nzktv/chunks.m3u8
 #EXTINF:-1,zaz tv 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13012
-#EXTINF:-1,
-
+#EXTINF:-1, opinión sur niños 
+https://stream.gia.tv/giatv/giatv-opinionsurn/opinionsurn/playlist.m3u8
 #EXTINF:-1,zoy tv 
 https://stream.gia.tv/giatvplayout7/giatv-208557/playlist.m3u8
 #EXTINF:-1,Satel canal 4
@@ -563,10 +563,10 @@ https://server.asilivehd.com:3802/live/canal4live.m3u8
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/102905
 #EXTINF:-1,opinion sur cine
 https://5790d294af2dc.streamlock.net/opinionsur/opinionsur/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,canal 70
+https://stream.gia.tv/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
+#EXTINF:-1,goku 24 horas 
+https://stream.gia.tv/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1,Xtrema acción 
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
