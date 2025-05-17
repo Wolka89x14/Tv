@@ -694,8 +694,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/auratv/playlist.m3u8?uid=8112183
 https://live-evg25.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8?uid=8112183
 #EXTINF:-1, canal xtremo peru
 https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8?uid=8112183
-#EXTINF:-1,
-
+#EXTINF:-1,totovision
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 #EXTINF:-1,Ciudad magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1, majestad tv ecuador 
@@ -714,8 +714,8 @@ https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
 http://200.59.188.3:8000/play/a03a
 #EXTINF:-1,rcn novelas 2
 http://181.78.106.127:9000/play/ca014/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, canal 26 quesada 
+https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
 #EXTINF:-1,Infinita tv
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1,bitme
@@ -738,8 +738,8 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementespanol-vidaa/playlist.m3u8
 #EXTINF:-1,Onza tv
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,canal 9 Guatemala 
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
