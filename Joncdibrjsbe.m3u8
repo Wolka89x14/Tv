@@ -660,8 +660,8 @@ http://181.78.106.127:9000/play/ca087/index.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,a&e mexico
 http://181.78.106.127:9000/play/ca086
-#EXTINF:-1,
-
+#EXTINF:-1, Atlantis tv peru
+https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/playlist.m3u8?uid=8112183
 #EXTINF:-1,Aysen tv
 https://v1.tustreaming.cl/aysentv/index.m3u8
 #EXTINF:-1,Bayres tv 
@@ -688,12 +688,12 @@ https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1,Caracola tv
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1, 
-
+#EXTINF:-1,aura tv peru 
+https://live-evg25.tv360.bitel.com.pe/bitel/auratv/playlist.m3u8?uid=8112183
+#EXTINF:-1, canal m peru 
+https://live-evg25.tv360.bitel.com.pe/bitel/canalm/playlist.m3u8?uid=8112183
+#EXTINF:-1, canal xtremo peru
+https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8?uid=8112183
 #EXTINF:-1,
 
 #EXTINF:-1,Ciudad magazine 
