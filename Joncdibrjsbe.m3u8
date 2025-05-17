@@ -513,8 +513,8 @@ https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1,malu tv Perú 
 https://live-evg25.tv360.bitel.com.pe:443/bitel/malutv/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,antares tv
+http://canal-pro.xyz:8080/live/alejomoraga79/68367437834/250.m3u8
 #EXTINF:-1,Bein sport xtra
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
 #EXTINF:-1, onda 2 tv peru 2
@@ -572,10 +572,10 @@ https://stream.gia.tv/giatv/giatv-dball/dball/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1,cositel tv peru 
 https://live-evg25.tv360.bitel.com.pe:443/bitel/cositel/chunks.m3u8
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,super canal 33 república dominicana 
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/528544.ts
+#EXTINF:-1,ecotel
+http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/2431.ts
 #EXTINF:-1,canal 21
 https://metromaxtv.net/live/metro/1234/21.m3u8
 #EXTINF:-1,21 hd  pelis argentina
