@@ -259,8 +259,8 @@ https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1,Solidaria tv argentina 
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1,zyon tv
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,buzzer tv canal 10
 https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8
 #EXTINF:-1,FIFA+ 
@@ -319,8 +319,10 @@ https://tvnoov.com/fadoo/dmax.m3u8
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1,Ticavision Costarica 
 https://5eac7b031d945.streamlock.net:443/TICAVISION/TICAVISION/chunklist_w979187105.m3u8
-#EXTINF:-1,retrotoons
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+#EXTINF:-1,la puerka tv
+https://stream.gia.tv/giatv/giatv-lapuerkaes/lapuerkaes/playlist.m3u8
+#EXTINF:-1,casa grande 
+https://stream.gia.tv/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1,energeek tv
 https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=TG66MDvVi9to
 #EXTINF:-1,gtv pisco peru
@@ -353,8 +355,8 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8?checkedby:iptvcat.com
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,canal dubtv peru
 https://live-evg25.tv360.bitel.com.pe/bitel/dubtv/playlist.m3u8?uid=8112183
-#EXTINF:-1,telemas
-https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:-1,tele sol 2
+https://nxt.plus:8443/play/YdBcjkKUe58E-E4ijTFlm5V3s8mhzVG81flEBylkvhs/m3u8
 #EXTINF:-1,Onda ambiental 
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Tv Peñol 
