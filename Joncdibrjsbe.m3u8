@@ -596,18 +596,18 @@ https://live.enhdtv.com:19360/8052/8052.m3u8
 https://xhateaec.com:8800/hls/visitor/visitor/2d52e48738a9bf69ed701867233eec44/index.m3u8
 #EXTINF:-1,espn 2 Argentina 
 http://181.205.130.194:4000/play/a08n
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
+#EXTINF:-1,zerofilms colombia 
+https://xhateaec.com:8800/hls/visitor/visitor/b6897a1387864a49a2a842926b8e5a98/index.m3u8
+#EXTINF:-1, imagen bolivia 
+https://xhateaec.com:8800/hls/visitor/visitor/75e468c890fae161b3659f563acdf4a0/index.m3u8
+#EXTINF:-1,presencia tv peru 
+https://xhateaec.com:8800/hls/visitor/visitor/d038e2a37131ab05a26fc63ccd9043c8/index.m3u8
+#EXTINF:-1, Mileniun tv Venezuela 
+https://xhateaec.com:8800/hls/visitor/visitor/201b985c5e35ed207206bf5536a786c8/index.m3u8
 #EXTINF:-1,tv tica
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,radio tv bacan 
+https://xhateaec.com:8800/hls/visitor/visitor/06b6eadab14ad5bd7334a2fc3adab45f/index.m3u8
 #EXTINF:-1,vtv honduras
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com:443/original.m3u8
 #EXTINF:-1,espn 3 Colombia 
@@ -650,14 +650,14 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 http://181.78.106.127:9000/play/ca050/index.m3u8
 #EXTINF:-1,huacho tv peru
 https://live-evg25.tv360.bitel.com.pe:443/bitel/huacho/chunks.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,kema tv 
+https://xhateaec.com:8800/hls/visitor/visitor/d8f811c7c4075dce6691a737917ed09f/index.m3u8
 #EXTINF:-1,retrox
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 #EXTINF:-1, multipremier 
 http://181.78.106.127:9000/play/ca087/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,vltv anime 
+https://stream.gia.tv/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,a&e mexico
 http://181.78.106.127:9000/play/ca086
 #EXTINF:-1,
