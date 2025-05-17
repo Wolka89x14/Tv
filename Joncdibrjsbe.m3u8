@@ -29,8 +29,8 @@ http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/31159.m3u8
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/31142.m3u8
 #EXTINF:-1,Tooncast
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/195632.ts
-#EXTINF:-1,
-
+#EXTINF:-1,nosara tv 2
+https://acceso.radiosportstv.online:3430/stream/play.m3u8
 #EXTINF:-1,Canal 6 Nicaragua 
 http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/58899.m3u8
 #EXTINF:-1,Canal 2 Nicaragua 
@@ -401,8 +401,8 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8?checkedby:iptvcat.com
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,plous tc
 https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1767395996.m3u8
-#EXTINF:1,
-
+#EXTINF:1,san jose total 
+https://nxt.plus:8443/play/YdBcjkKUe58E-E4ijTFlm05u7Jukp6HiaNlHOMWl7ts/m3u8
 #EXTINF:-1,cartago digital 
 https://hls.robotstreamer.com/tv/5369.m3u8
 #EXTINF:-1,city tv 
@@ -425,12 +425,12 @@ https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 #EXTINF:-1,Gm digital 
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,dos hombres y medio 
+http://canal-pro.xyz:8080/live/alejomoraga79/68367437834/701.m3u8
 #EXTINF:-1,espn 2
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1,
-
+#EXTINF:-1,samuray x
+http://canal-pro.xyz:8080/live/alejomoraga79/68367437834/780.m3u8
 #EXTINF:-1,Tv más 2
 https://marine2.miplay.cl/tateti/playlist.m3u8
 #EXTINF:-1,Canal 11 Honduras 
@@ -471,8 +471,8 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/chunks.m3u8?uid=8112183
 #EXTINF:-1,Vive tv
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,bocas tv panamá 
+http://1play.cool:25461/live/LuisFelipe87/2af56b14fd/154942.m3u8
 #EXTINF:-1,creo kids tv
 https://live-evg25.tv360.bitel.com.pe/bitel/creokids/chunks.m3u8?uid=8112183
 #EXTINF:-1, HBO Xtreme 
@@ -942,8 +942,8 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1,24/7 comedia 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315831
-#EXTINF:-1, tv nosara
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+#EXTINF:-1,
+
 #EXTINF:-1,24/7 terror 
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/315518
 #EXTINF:-1,manaclar tv
@@ -1034,8 +1034,8 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/qosqo/chunks.m3u8
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,cattotv chile
-https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,
+
 #EXTINF:-1,death note 
 https://is.gd/2zGwG1?profile=corgol.m3u8
 #EXTINF:-1,a uno tv peru
@@ -1414,7 +1414,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Rugrats Crecidos" tvg-logo="" tvg-shift="0" group-title="Pluto TV Latino",Rugrats Crecidos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vaya Semanita" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Vaya Semanita
+#EXTINF:-1,Pluto TV Vaya Semanita" tvg-logo="" tvg-shift="0" group-title="Pluto TV Spain",Pluto TV Vaya Semanita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/.m3u8
@@ -1464,7 +1464,7 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1,atb bolivia 
 http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1,20 Señal Perú tv 
+#EXTINF:-1,Señal Perú tv 
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1,Cnc Cajamarca 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
