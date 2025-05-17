@@ -772,8 +772,8 @@ https://cloud.livescast.com:19360/telecolor/telecolor.m3u8
 http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/65.m3u8
 #EXTINF:-1,Tele norte
 https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,radio pocosol costarica
+https://acceso.radiosportstv.online:3450/stream/play.m3u8
 #EXTINF:-1,canal 5 el lider 
 http://maxpremier.xyz:80/rex/2GjSqGDyQAMN/9189.ts
 #EXTINF:-1,Tele universo 
