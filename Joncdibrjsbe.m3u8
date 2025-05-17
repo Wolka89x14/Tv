@@ -740,8 +740,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01264-vidaausainc-angermanagementes
 https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 #EXTINF:-1,canal 9 Guatemala 
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,fun tv 
+https://stream.gia.tv/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,Play televisión 
